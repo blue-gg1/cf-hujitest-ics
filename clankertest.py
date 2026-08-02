@@ -1,9 +1,12 @@
 import requests
 from ics import Calendar, Event
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
+JERUSALEM = ZoneInfo("Asia/Jerusalem")
 
 YEAR = 2026
-SOURCE_FILE = "source.old.txt"      # one course code per line
+SOURCE_FILE = "source"      # one course code per line
 OUTPUT_FILE = "HUJI_Exams_2026.ics"
 
 
