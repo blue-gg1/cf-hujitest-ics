@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: קנדה\, קנדה עליון\, אודיטוריום הנדסה\, C220\, C221\, C320\, B220\, B221\, אולם לוין\, ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-20 09:00:00+03:00\nEnd: 2026-07-20 12:00:00+03:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: קנדה\, קנדה עליון\, אודיטוריום הנדסה\, C220\, C221\, C320\, B220\, B221\, אולם לוין\, ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-20 09:00:00+03:00\nEnd: 2026-07-20 12:00:00+03:00
 DTEND:20260720T090000Z
 LOCATION:קנדה\, קנדה עליון\, אודיטוריום הנדסה\, C220\, C221\, C320\, B220\, B221\, אולם לוין\, ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103
 DTSTART:20260720T060000Z
@@ -10,7 +10,7 @@ SUMMARY:חשבון אינפיניטסימלי (2) (80132)
 UID:2026-80132-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: קנדה\, קנדה עליון\, פלדמן א\, פלדמן ב\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-14 09:00:00+03:00\nEnd: 2026-08-14 12:00:00+03:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: קנדה\, קנדה עליון\, פלדמן א\, פלדמן ב\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-14 09:00:00+03:00\nEnd: 2026-08-14 12:00:00+03:00
 DTEND:20260814T090000Z
 LOCATION:קנדה\, קנדה עליון\, פלדמן א\, פלדמן ב
 DTSTART:20260814T060000Z
@@ -18,7 +18,7 @@ SUMMARY:חשבון אינפיניטסימלי (2) (80132)
 UID:2026-80132-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: לוי 07\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-18 09:00:00+03:00\nEnd: 2026-08-18 12:00:00+03:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: לוי 07\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-18 09:00:00+03:00\nEnd: 2026-08-18 12:00:00+03:00
 DTEND:20260818T090000Z
 LOCATION:לוי 07
 DTSTART:20260818T060000Z
@@ -26,7 +26,7 @@ SUMMARY:חשבון אינפיניטסימלי 3 (80415)
 UID:2026-80415-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: קפלן\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר א'\nMoed: 2\nStart: 2026-05-04 16:00:00+03:00\nEnd: 2026-05-04 19:00:00+03:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: קפלן\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר א'\nMoed: 2\nStart: 2026-05-04 16:00:00+03:00\nEnd: 2026-05-04 19:00:00+03:00
 DTEND:20260504T160000Z
 LOCATION:קפלן
 DTSTART:20260504T130000Z
@@ -34,7 +34,7 @@ SUMMARY:חשבון אינפיניטסימלי 3 (80415)
 UID:2026-80415-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: קנדה\, קנדה עליון\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר א'\nMoed: 1\nStart: 2026-02-18 14:00:00+02:00\nEnd: 2026-02-18 17:00:00+02:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: קנדה\, קנדה עליון\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר א'\nMoed: 1\nStart: 2026-02-18 14:00:00+02:00\nEnd: 2026-02-18 17:00:00+02:00
 DTEND:20260218T150000Z
 LOCATION:קנדה\, קנדה עליון
 DTSTART:20260218T120000Z
@@ -42,7 +42,7 @@ SUMMARY:חשבון אינפיניטסימלי 3 (80415)
 UID:2026-80415-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: רוטברג\, אולם לוין\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-27 09:00:00+03:00\nEnd: 2026-07-27 12:00:00+03:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: רוטברג\, אולם לוין\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-27 09:00:00+03:00\nEnd: 2026-07-27 12:00:00+03:00
 DTEND:20260727T090000Z
 LOCATION:רוטברג\, אולם לוין
 DTSTART:20260727T060000Z
@@ -50,7 +50,7 @@ SUMMARY:חשבון אינפיניטסימלי 3 (80415)
 UID:2026-80415-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: B220\, B221\, C220\, C221\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר א'\nMoed: 1\nStart: 2026-02-02 09:00:00+02:00\nEnd: 2026-02-02 12:00:00+02:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: B220\, B221\, C220\, C221\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר א'\nMoed: 1\nStart: 2026-02-02 09:00:00+02:00\nEnd: 2026-02-02 12:00:00+02:00
 DTEND:20260202T100000Z
 LOCATION:B220\, B221\, C220\, C221\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון
 DTSTART:20260202T070000Z
@@ -58,7 +58,7 @@ SUMMARY:חשבון אינפיניטסימלי (2) (80132)
 UID:2026-80132-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: קנדה\, שפרינצק 117\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר א'\nMoed: 2\nStart: 2026-04-23 16:00:00+03:00\nEnd: 2026-04-23 19:00:00+03:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: קנדה\, שפרינצק 117\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר א'\nMoed: 2\nStart: 2026-04-23 16:00:00+03:00\nEnd: 2026-04-23 19:00:00+03:00
 DTEND:20260423T160000Z
 LOCATION:קנדה\, שפרינצק 117
 DTSTART:20260423T130000Z
@@ -66,7 +66,7 @@ SUMMARY:חשבון אינפיניטסימלי (2) (80132)
 UID:2026-80132-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: שפרינצק 116\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: Written test\nSemester: סמסטר א'\nMoed: 1\nStart: 2026-01-25 09:00:00+02:00\nEnd: 2026-01-25 11:00:00+02:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: שפרינצק 116\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: Written test\nSemester: סמסטר א'\nMoed: 1\nStart: 2026-01-25 09:00:00+02:00\nEnd: 2026-01-25 11:00:00+02:00
 DTEND:20260125T090000Z
 LOCATION:שפרינצק 116
 DTSTART:20260125T070000Z
@@ -74,7 +74,7 @@ SUMMARY:אנליזה אלמנטרית 2 (80116)
 UID:2026-80116-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: שפרינצק 114\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: Written test\nSemester: סמסטר א'\nMoed: 2\nStart: 2026-02-22 09:00:00+02:00\nEnd: 2026-02-22 11:00:00+02:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: שפרינצק 114\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: Written test\nSemester: סמסטר א'\nMoed: 2\nStart: 2026-02-22 09:00:00+02:00\nEnd: 2026-02-22 11:00:00+02:00
 DTEND:20260222T090000Z
 LOCATION:שפרינצק 114
 DTSTART:20260222T070000Z
@@ -82,7 +82,7 @@ SUMMARY:אנליזה אלמנטרית 2 (80116)
 UID:2026-80116-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: B220\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-09 09:00:00+03:00\nEnd: 2026-07-09 11:30:00+03:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: B220\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-09 09:00:00+03:00\nEnd: 2026-07-09 11:30:00+03:00
 DTEND:20260709T083000Z
 LOCATION:B220
 DTSTART:20260709T060000Z
@@ -90,7 +90,7 @@ SUMMARY:אנליזה אלמנטרית 2 (80116)
 UID:2026-80116-{schedule['periodName']['he']}-{schedule['moed']}@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SUbject to change. Check Orbit for the most up-to-date info\nLocation: שפרינצק 114\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-05 09:00:00+03:00\nEnd: 2026-08-05 11:30:00+03:00
+DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocation: שפרינצק 114\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-05 09:00:00+03:00\nEnd: 2026-08-05 11:30:00+03:00
 DTEND:20260805T083000Z
 LOCATION:שפרינצק 114
 DTSTART:20260805T060000Z

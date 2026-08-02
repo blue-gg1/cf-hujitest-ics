@@ -67,7 +67,7 @@ def add_course_events(calendar, course_code):
             )
 
             event.description = (
-                f"SUbject to change. Check Orbit for the most up-to-date info\n"
+                f"Subject to change. Check Orbit for the most up-to-date info\n"
                 f"Location: {event.location}\n"
                 f"Course: {course['name']}\n"
                 f"Course Code: {course_code}\n"
