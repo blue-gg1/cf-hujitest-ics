@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה פונקציונלית\nCourse Code: 80417\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-09 09:00:00+03:00\nEnd: 2026-07-09 12:00:00+03:00
+DTEND:20260709T090000Z
+LOCATION:קנדה\, קנדה עליון\, פלדמן א
+DTSTART:20260709T060000Z
+SUMMARY:אנליזה פונקציונלית (80417)
+UID:e60a1308-4c0b-41c2-b17f-9fd85b55ba6e@e60a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר א'\nMoed: 1\nStart: 2026-02-18 14:00:00+02:00\nEnd: 2026-02-18 17:00:00+02:00
+DTEND:20260218T150000Z
+LOCATION:קנדה\, קנדה עליון
+DTSTART:20260218T120000Z
+SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+UID:7052ff77-a756-4dec-ad26-a27bdb1595ce@7052.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-18 09:00:00+03:00\nEnd: 2026-08-18 12:00:00+03:00
+DTEND:20260818T090000Z
+LOCATION:לוי 07
+DTSTART:20260818T060000Z
+SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+UID:471c1c02-5410-4159-bec8-28111795cec0@471c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: מבנים ב-חוגים ומודולים\nCourse Code: 80418\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-09 09:00:00+03:00\nEnd: 2026-08-09 12:00:00+03:00
+DTEND:20260809T090000Z
+LOCATION:פלדמן א
+DTSTART:20260809T060000Z
+SUMMARY:מבנים ב-חוגים ומודולים (80418)
+UID:839fd8c5-bf29-470a-b476-d8509f73247c@839f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה על יריעות\nCourse Code: 80416\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-26 09:00:00+03:00\nEnd: 2026-07-26 11:30:00+03:00
+DTEND:20260726T083000Z
+LOCATION:כימיה 7\, מתמטיקה 2
+DTSTART:20260726T060000Z
+SUMMARY:אנליזה על יריעות (80416)
+UID:1b3e0ba5-b1f4-4dcf-917c-9a1c546bffda@1b3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה פונקציונלית\nCourse Code: 80417\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-12 09:00:00+03:00\nEnd: 2026-08-12 12:00:00+03:00
+DTEND:20260812T090000Z
+LOCATION:מתמטיקה 110\, מתמטיקה 2
+DTSTART:20260812T060000Z
+SUMMARY:אנליזה פונקציונלית (80417)
+UID:e89c4e78-0bf9-4300-8180-6d8dacdc9b75@e89c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה על יריעות\nCourse Code: 80416\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-21 09:00:00+03:00\nEnd: 2026-08-21 11:30:00+03:00
+DTEND:20260821T083000Z
+LOCATION:C220\, אודיטוריום הנדסה
+DTSTART:20260821T060000Z
+SUMMARY:אנליזה על יריעות (80416)
+UID:0cccbac6-da5a-4024-bcf5-df0626943fe7@0ccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-27 09:00:00+03:00\nEnd: 2026-07-27 12:00:00+03:00
+DTEND:20260727T090000Z
+LOCATION:רוטברג\, אולם לוין
+DTSTART:20260727T060000Z
+SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+UID:199cd2f1-6c37-4fd1-b8d9-a2256addf0c8@199c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר א'\nMoed: 2\nStart: 2026-05-04 16:00:00+03:00\nEnd: 2026-05-04 19:00:00+03:00
+DTEND:20260504T160000Z
+LOCATION:קפלן
+DTSTART:20260504T130000Z
+SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+UID:c5570a10-bb8c-473e-a60f-8d9f512ca799@c557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: מבנים ב-חוגים ומודולים\nCourse Code: 80418\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-21 09:00:00+03:00\nEnd: 2026-07-21 12:00:00+03:00
+DTEND:20260721T090000Z
+LOCATION:ברנדמן ב 102\, ברנדמן ב 103
+DTSTART:20260721T060000Z
+SUMMARY:מבנים ב-חוגים ומודולים (80418)
+UID:c8d67bee-5db2-45b5-9043-abcce456f160@c8d6.org
+END:VEVENT
+END:VCALENDAR

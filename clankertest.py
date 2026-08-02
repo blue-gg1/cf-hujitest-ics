@@ -3,11 +3,11 @@ from ics import Calendar, Event
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
+# define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
-
 YEAR = 2026
-SOURCE_FILE = "source"      # one course code per line
-OUTPUT_FILE = "HUJI_Exams_2026.ics"
+SOURCE_FILE = "source" # one course code per line
+OUTPUT_FILE = "HUJI_Exams_{YEAR}.ics"
 
 
 def get_course(course_code):
@@ -23,14 +23,12 @@ def get_course(course_code):
         "name": data["name"]["he"],
     }
 
-
 def get_assignments(course_id):
     r = requests.get(
         f"https://shnaton.huji.ac.il/api/assignments?year={YEAR}&courseId={course_id}"
     )
     r.raise_for_status()
     return r.json()
-
 
 def add_course_events(calendar, course_code):
     course = get_course(course_code)
@@ -73,7 +71,9 @@ def add_course_events(calendar, course_code):
                 f"Course Code: {course_code}\n"
                 f"Exam: {assignment_name}\n"
                 f"Semester: {schedule['periodName']['he']}\n"
-                f"Moed: {schedule['moed']}"
+                f"Moed: {schedule['moed']}\n"
+                f"Start: {start}\n"
+                f"End: {end}"
             )
 
             calendar.events.add(event)
