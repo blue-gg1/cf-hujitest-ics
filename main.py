@@ -77,7 +77,7 @@ def GetDoubleSemesterFromShnaton(CourseNumber: int, Year: int):
 def GetShnatonIdFromShnaton(CourseNumber: int, Year: int):
     # get the json from the shanton:
     # TODO: fake headers to look like a browser (only needed if blocked.)
-    ShnatonJson = requests.get("https://shnaton.huji.ac.il/api/courses/code/"+CourseNumber+"?year="+str(Year)) 
+    ShnatonJson = requests.get(f"https://shnaton.huji.ac.il/api/courses/code/{CourseNumber}?year={str(Year)}")
 
     if ShnatonJson.status_code == 200: # dont trip over the network TODO: make this an assert.
         ShnatonJsonObject = json.loads(ShnatonJson.content)
@@ -143,19 +143,8 @@ def main(Year, FileName):
     for Course in CourseList:
         data = ClankerRetriveData(Course, Year)
         TextForImage = StringCleaner(data["CourseName"])
-        if data["Semester"] == "SemAB":
-            print(TextForImage)
-            
-            rows.append(data)
-            rows.append(data)
-            print(rows)
-            print(type(rows))
-        else:
-            print(TextForImage)
-            
-            rows.append(data)
-            print(rows)
-            print(type(rows))
+        rows.append(data)
+        print(rows)
     df = pd.DataFrame(rows)
     print(df)
 
