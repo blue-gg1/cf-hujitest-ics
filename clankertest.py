@@ -3,7 +3,7 @@ from ics import Calendar, Event
 from datetime import datetime
 
 YEAR = 2026
-SOURCE_FILE = "Source"      # one course code per line
+SOURCE_FILE = "source.old.txt"      # one course code per line
 OUTPUT_FILE = "HUJI_Exams_2026.ics"
 
 
