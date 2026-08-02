@@ -92,18 +92,26 @@ def ClankerGetTestDateFromShnaton(ShnatonId: int, Year: int):
     response = requests.get(f"https://shnaton.huji.ac.il/api/assignments?year={Year}&courseId={ShnatonId}")
     assignments = response.json()
 
-    TestDates = []
+    TestStart = []
 
     for assignment in assignments:
         name = assignment["assignmentDefinition"]["name"]["en"]
 
         if name in ("Written test", "Mid-term Exams"):
             for schedule in assignment.get("schedules", []):
-                TestDates.append(schedule["startTime"])
-                TestDates.append(schedule["endTime"])
-    # pprint.pp(assignments)
+                TestStart.append(schedule["startTime"])
+                TestStart.append(schedule["endTime"])
 
-    return(TestDates)
+
+    TestEnd = []
+    for assignment in assignments:
+        name = assignment["assignmentDefinition"]["name"]["en"]
+
+        if name in ("Written test", "Mid-term Exams"):
+            for schedule in assignment.get("schedules", []):
+                TestStart.append(schedule["endTime"])
+
+    return(TestStart, TestEnd)
 
 
 
