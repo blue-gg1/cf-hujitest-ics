@@ -2,83 +2,83 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Course: אנליזה על יריעות\nCourse Code: 80416\nExam: Written test\nSemester: 2nd semester\nMoed: 2
-DTEND:20260821T083000Z
-LOCATION:C220\, Auditorium Engineering
-DTSTART:20260821T060000Z
-SUMMARY:אנליזה על יריעות (80416)
-UID:236de8db-f915-4d04-9e8e-b5f0e5e74998@236d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: 1st semester\nMoed: 1
-DTEND:20260218T150000Z
-LOCATION:Canada\, Upper Canada
-DTSTART:20260218T120000Z
-SUMMARY:חשבון אינפיניטסימלי 3 (80415)
-UID:2a3a2d7d-8955-46c8-9c2d-7e1bc294baa7@2a3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: 2nd semester\nMoed: 1
-DTEND:20260727T090000Z
-LOCATION:Rothberg\, Levin Hall
-DTSTART:20260727T060000Z
-SUMMARY:חשבון אינפיניטסימלי 3 (80415)
-UID:a1e635f3-50d2-46b4-b192-10bab6fbce01@a1e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: מבנים ב-חוגים ומודולים\nCourse Code: 80418\nExam: Written test\nSemester: 2nd semester\nMoed: 1
-DTEND:20260721T090000Z
-LOCATION:102 BRANDMAN B\, 103 BRANDMAN B
-DTSTART:20260721T060000Z
-SUMMARY:מבנים ב-חוגים ומודולים (80418)
-UID:f706e20f-4c14-476d-8379-3cf763a2d78b@f706.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: מבנים ב-חוגים ומודולים\nCourse Code: 80418\nExam: Written test\nSemester: 2nd semester\nMoed: 2
-DTEND:20260809T090000Z
-LOCATION:Feldman  A
-DTSTART:20260809T060000Z
-SUMMARY:מבנים ב-חוגים ומודולים (80418)
-UID:739082c6-2f3a-4f74-8999-c03e90d35bfd@7390.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: אנליזה פונקציונלית\nCourse Code: 80417\nExam: Written test\nSemester: 2nd semester\nMoed: 1
-DTEND:20260709T090000Z
-LOCATION:Canada\, Upper Canada\, Feldman  A
-DTSTART:20260709T060000Z
-SUMMARY:אנליזה פונקציונלית (80417)
-UID:1a71ab2e-afdc-4981-ac67-ece760353086@1a71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: אנליזה על יריעות\nCourse Code: 80416\nExam: Written test\nSemester: 2nd semester\nMoed: 1
-DTEND:20260726T083000Z
-LOCATION:Chemistry 7\, Mathematics 2
-DTSTART:20260726T060000Z
-SUMMARY:אנליזה על יריעות (80416)
-UID:4ff9b1bf-45b0-42d2-a13e-9b3474eee154@4ff9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: 2nd semester\nMoed: 2
-DTEND:20260818T090000Z
-LOCATION:Levi 7
-DTSTART:20260818T060000Z
-SUMMARY:חשבון אינפיניטסימלי 3 (80415)
-UID:5e101891-0705-47c9-96c3-eed127665a14@5e10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: 1st semester\nMoed: 2
+DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר א'\nMoed: 2
 DTEND:20260504T160000Z
-LOCATION:Kaplan
+LOCATION:קפלן
 DTSTART:20260504T130000Z
 SUMMARY:חשבון אינפיניטסימלי 3 (80415)
-UID:b1d48503-51e4-4772-a24e-e07664e367cb@b1d4.org
+UID:12f67712-0ab3-40b6-a0fc-2a66ce429fa5@12f6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Course: אנליזה פונקציונלית\nCourse Code: 80417\nExam: Written test\nSemester: 2nd semester\nMoed: 2
+DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1
+DTEND:20260727T090000Z
+LOCATION:רוטברג\, אולם לוין
+DTSTART:20260727T060000Z
+SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+UID:63535673-f92a-4a47-a629-2b1e6e77246c@6353.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר א'\nMoed: 1
+DTEND:20260218T150000Z
+LOCATION:קנדה\, קנדה עליון
+DTSTART:20260218T120000Z
+SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+UID:b7456c95-3f38-40a5-b9fd-5aa0122bcbd7@b745.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: מבנים ב-חוגים ומודולים\nCourse Code: 80418\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2
+DTEND:20260809T090000Z
+LOCATION:פלדמן א
+DTSTART:20260809T060000Z
+SUMMARY:מבנים ב-חוגים ומודולים (80418)
+UID:e220a9be-158e-4752-aa74-b276bd3a5563@e220.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה על יריעות\nCourse Code: 80416\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2
+DTEND:20260821T083000Z
+LOCATION:C220\, אודיטוריום הנדסה
+DTSTART:20260821T060000Z
+SUMMARY:אנליזה על יריעות (80416)
+UID:5ebd3c9a-28fb-4f3c-b75a-020d58998828@5ebd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה על יריעות\nCourse Code: 80416\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1
+DTEND:20260726T083000Z
+LOCATION:כימיה 7\, מתמטיקה 2
+DTSTART:20260726T060000Z
+SUMMARY:אנליזה על יריעות (80416)
+UID:457698e7-3e4a-4bfd-9e48-73dda9b5288f@4576.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2
+DTEND:20260818T090000Z
+LOCATION:לוי 07
+DTSTART:20260818T060000Z
+SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+UID:cd2a09f2-8bad-4898-b705-db6bb1a037b3@cd2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה פונקציונלית\nCourse Code: 80417\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2
 DTEND:20260812T090000Z
-LOCATION:Mathematics 110\, Mathematics 2
+LOCATION:מתמטיקה 110\, מתמטיקה 2
 DTSTART:20260812T060000Z
 SUMMARY:אנליזה פונקציונלית (80417)
-UID:b2c8f45a-c107-477c-aeea-af9b4a4362fd@b2c8.org
+UID:b638c716-99cb-45ce-8644-bee218b99f46@b638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: מבנים ב-חוגים ומודולים\nCourse Code: 80418\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1
+DTEND:20260721T090000Z
+LOCATION:ברנדמן ב 102\, ברנדמן ב 103
+DTSTART:20260721T060000Z
+SUMMARY:מבנים ב-חוגים ומודולים (80418)
+UID:1ffe410f-b774-42f0-825a-ad6d8340c971@1ffe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה פונקציונלית\nCourse Code: 80417\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1
+DTEND:20260709T090000Z
+LOCATION:קנדה\, קנדה עליון\, פלדמן א
+DTSTART:20260709T060000Z
+SUMMARY:אנליזה פונקציונלית (80417)
+UID:d96978bc-aaf4-42a5-96bd-dafc42f90ec5@d969.org
 END:VEVENT
 END:VCALENDAR

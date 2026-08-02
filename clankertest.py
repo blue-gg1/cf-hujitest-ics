@@ -64,7 +64,7 @@ def add_course_events(calendar, course_code):
             event.end = end
 
             event.location = ", ".join(
-                room["name"]["en"]
+                room["name"]["he"]
                 for room in schedule.get("rooms", [])
             )
 
@@ -72,7 +72,7 @@ def add_course_events(calendar, course_code):
                 f"Course: {course['name']}\n"
                 f"Course Code: {course_code}\n"
                 f"Exam: {assignment_name}\n"
-                f"Semester: {schedule['periodName']['en']}\n"
+                f"Semester: {schedule['periodName']['he']}\n"
                 f"Moed: {schedule['moed']}"
             )
 
