@@ -26,6 +26,38 @@ SUMMARY:חשבון אינפיניטסימלי 3 (80415)
 UID:2026-80415@huji.local
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר ב'\nMoed: 1\nStart: 2026-07-20 09:00:00+03:00\nEnd: 2026-07-20 12:00:00+03:00
+DTEND:20260720T090000Z
+LOCATION:קנדה\, קנדה עליון\, אודיטוריום הנדסה\, C220\, C221\, C320\, B220\, B221\, אולם לוין\, ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103
+DTSTART:20260720T060000Z
+SUMMARY:חשבון אינפיניטסימלי (2) (80132)
+UID:2026-80132@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר ב'\nMoed: 2\nStart: 2026-08-14 09:00:00+03:00\nEnd: 2026-08-14 12:00:00+03:00
+DTEND:20260814T090000Z
+LOCATION:קנדה\, קנדה עליון\, פלדמן א\, פלדמן ב
+DTSTART:20260814T060000Z
+SUMMARY:חשבון אינפיניטסימלי (2) (80132)
+UID:2026-80132@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר א'\nMoed: 1\nStart: 2026-02-02 09:00:00+02:00\nEnd: 2026-02-02 12:00:00+02:00
+DTEND:20260202T100000Z
+LOCATION:B220\, B221\, C220\, C221\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון
+DTSTART:20260202T070000Z
+SUMMARY:חשבון אינפיניטסימלי (2) (80132)
+UID:2026-80132@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: Written test\nSemester: סמסטר א'\nMoed: 2\nStart: 2026-04-23 16:00:00+03:00\nEnd: 2026-04-23 19:00:00+03:00
+DTEND:20260423T160000Z
+LOCATION:קנדה\, שפרינצק 117
+DTSTART:20260423T130000Z
+SUMMARY:חשבון אינפיניטסימלי (2) (80132)
+UID:2026-80132@huji.local
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Course: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: Written test\nSemester: סמסטר א'\nMoed: 2\nStart: 2026-02-22 09:00:00+02:00\nEnd: 2026-02-22 11:00:00+02:00
 DTEND:20260222T090000Z
 LOCATION:שפרינצק 114
