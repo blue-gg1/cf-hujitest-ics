@@ -46,7 +46,7 @@ def add_course_events(calendar, course_code):
 
             event = Event()
 
-            event.name = f"{course['name']} ({course_code})"
+            event.name = f"בחינה ב- {course['name']} ({course_code})"
 
             start = datetime.fromisoformat(schedule["startTime"])
             end = datetime.fromisoformat(schedule["endTime"])

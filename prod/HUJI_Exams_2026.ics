@@ -6,7 +6,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260504T160000Z
 LOCATION:קפלן
 DTSTART:20260504T130000Z
-SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
 UID:2026-80415-1stsemester-2@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -14,7 +14,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260805T083000Z
 LOCATION:שפרינצק 114
 DTSTART:20260805T060000Z
-SUMMARY:אנליזה אלמנטרית 2 (80116)
+SUMMARY:בחינה ב- אנליזה אלמנטרית 2 (80116)
 UID:2026-80116-2ndsemester-2@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260218T150000Z
 LOCATION:קנדה\, קנדה עליון
 DTSTART:20260218T120000Z
-SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
 UID:2026-80415-1stsemester-1@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -30,7 +30,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260814T090000Z
 LOCATION:קנדה\, קנדה עליון\, פלדמן א\, פלדמן ב
 DTSTART:20260814T060000Z
-SUMMARY:חשבון אינפיניטסימלי (2) (80132)
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (2) (80132)
 UID:2026-80132-2ndsemester-2@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -38,7 +38,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260709T083000Z
 LOCATION:B220
 DTSTART:20260709T060000Z
-SUMMARY:אנליזה אלמנטרית 2 (80116)
+SUMMARY:בחינה ב- אנליזה אלמנטרית 2 (80116)
 UID:2026-80116-2ndsemester-1@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +46,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260222T090000Z
 LOCATION:שפרינצק 114
 DTSTART:20260222T070000Z
-SUMMARY:אנליזה אלמנטרית 2 (80116)
+SUMMARY:בחינה ב- אנליזה אלמנטרית 2 (80116)
 UID:2026-80116-1stsemester-2@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260720T090000Z
 LOCATION:קנדה\, קנדה עליון\, אודיטוריום הנדסה\, C220\, C221\, C320\, B220\, B221\, אולם לוין\, ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103
 DTSTART:20260720T060000Z
-SUMMARY:חשבון אינפיניטסימלי (2) (80132)
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (2) (80132)
 UID:2026-80132-2ndsemester-1@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +62,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260423T160000Z
 LOCATION:קנדה\, שפרינצק 117
 DTSTART:20260423T130000Z
-SUMMARY:חשבון אינפיניטסימלי (2) (80132)
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (2) (80132)
 UID:2026-80132-1stsemester-2@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260818T090000Z
 LOCATION:לוי 07
 DTSTART:20260818T060000Z
-SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
 UID:2026-80415-2ndsemester-2@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -78,7 +78,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260125T090000Z
 LOCATION:שפרינצק 116
 DTSTART:20260125T070000Z
-SUMMARY:אנליזה אלמנטרית 2 (80116)
+SUMMARY:בחינה ב- אנליזה אלמנטרית 2 (80116)
 UID:2026-80116-1stsemester-1@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -86,7 +86,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260202T100000Z
 LOCATION:B220\, B221\, C220\, C221\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון
 DTSTART:20260202T070000Z
-SUMMARY:חשבון אינפיניטסימלי (2) (80132)
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (2) (80132)
 UID:2026-80132-1stsemester-1@huji.local
 END:VEVENT
 BEGIN:VEVENT
@@ -94,7 +94,7 @@ DESCRIPTION:Subject to change. Check Orbit for the most up-to-date info\nLocatio
 DTEND:20260727T090000Z
 LOCATION:רוטברג\, אולם לוין
 DTSTART:20260727T060000Z
-SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
 UID:2026-80415-2ndsemester-1@huji.local
 END:VEVENT
 END:VCALENDAR
