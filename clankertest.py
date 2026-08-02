@@ -7,7 +7,7 @@ from zoneinfo import ZoneInfo
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2026
 SOURCE_FILE = "source" # one course code per line
-OUTPUT_FILE = "HUJI_Exams_{YEAR}.ics"
+OUTPUT_FILE = "HUJI_Exams_"+YEAR+".ics"
 
 
 def get_course(course_code):
