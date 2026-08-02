@@ -2,7 +2,7 @@ import requests
 from ics import Calendar, Event
 from datetime import datetime
 from zoneinfo import ZoneInfo
-
+import os
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2026
@@ -81,6 +81,8 @@ def add_course_events(calendar, course_code):
 
             calendar.events.add(event)
 
+def moveics(IcsFileName, Path):
+    os.rename(IcsFileName, Path+IcsFileName)
 
 def main():
     calendar = Calendar()
@@ -100,6 +102,7 @@ def main():
 
     print(f"\nSaved {OUTPUT_FILE}")
     print(f"Total events: {len(calendar.events)}")
+    moveics(OUTPUT_FILE, "/prod")
 
 
 if __name__ == "__main__":
