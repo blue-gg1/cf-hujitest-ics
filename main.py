@@ -89,8 +89,7 @@ def GetShnatonIdFromShnaton(CourseNumber: int, Year: int):
 
 
 def ClankerGetTestDateFromShnaton(ShnatonId: int, Year: int):
-    url = f"https://shnaton.huji.ac.il/api/assignments?year={Year}&courseId={ShnatonId}"
-    response = requests.get(url)
+    response = requests.get(f"https://shnaton.huji.ac.il/api/assignments?year={Year}&courseId={ShnatonId}")
     assignments = response.json()
 
     TestDates = []
@@ -164,4 +163,4 @@ def main(Year, FileName):
 
 
 
-main(2027, "Source")
+main(2026, "Source")
