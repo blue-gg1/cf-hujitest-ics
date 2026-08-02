@@ -1,164 +1,109 @@
-import textwrap, requests, json
-from random import randint
-import pprint
-import pandas as pd 
-import ics
+import requests
+from ics import Calendar, Event
+from datetime import datetime
+from zoneinfo import ZoneInfo
+import os
+# define the vars up here.
+JERUSALEM = ZoneInfo("Asia/Jerusalem")
+YEAR = 2026
+SOURCE_FILE = "source.old.txt" # one course code per line
+OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 
 
+def get_course(course_code):
+    r = requests.get(
+        f"https://shnaton.huji.ac.il/api/courses/code/{course_code}?year={YEAR}"
+    )
+    r.raise_for_status()
 
-
-def GetNamesFromShnaton(CourseNumber: int, Year: int):
-    # get the json from the shanton:
-    # TODO: fake headers to look like a browser (only needed if blocked.)
-    ShnatonJson = requests.get("https://shnaton.huji.ac.il/api/courses/code/"+CourseNumber+"?year="+str(Year)) 
-
-    if ShnatonJson.status_code == 200: # dont trip over the network TODO: make this an assert.
-        ShantonObject = json.loads(ShnatonJson.content)
-        if ShantonObject[0]['code'] == CourseNumber: # make sure we got the right course. TODO: make this an assert.
-            print(CourseNumber + "good")
-        else:
-            print(CourseNumber + "bad")
-            print("issue with the shanton id abort.")
-            exit()
-        return(ShantonObject[0]['name']['he'])
-    else:
-        print("page is not 200, abort")
-        exit()
-
-def StringCleaner(NameOfClass):
-    # clean up the string
-    # TODO: count the amount of spaces as not to insert too many line retuns 
-
-    # StringToBeRevesed = ((NameOfClass[0]['name']['he']).replace(' ', '\n')).replace('(',"}").replace(')',"{")
-    # StringToBeRevesed = (((NameOfClass).replace(' ', '\n')).replace('(',"").replace(')',"")).replace("-","")
-
-    StringToBeRevesed = ((NameOfClass).replace(' ', '\n')).replace("-","")
-        
-    return(StringToBeRevesed)
-
-def GetCourseFromFile(FileName):
-    # read the file from disk.
-    with open(FileName,'r') as SourceList:
-        SourceData = SourceList.read().splitlines()
-    return(SourceData)
-
-def GetDoubleSemesterFromShnaton(CourseNumber: int, Year: int):
-    # get the json from the shanton:
-    # TODO: fake headers to look like a browser (only needed if blocked.)
-    ShnatonJson = requests.get("https://shnaton.huji.ac.il/api/courses/code/"+CourseNumber+"?year="+str(Year)) 
-
-    if ShnatonJson.status_code == 200: # dont trip over the network TODO: make this an assert.
-        ShnatonJsonObject = json.loads(ShnatonJson.content)
-        ShnatonId = ShnatonJsonObject[0]['id']   
-        print(ShnatonId)
-    else:
-        print("page is not 200, abort")
-        exit()
-
-    try:
-        if (ShnatonJsonObject[0]['coursePeriodName']['en']) == "Semester A or B":
-            BothSemester = "SemAB"
-        elif (ShnatonJsonObject[0]['coursePeriodName']['en']) == "Semester A":
-            BothSemester = "SemA"
-        elif (ShnatonJsonObject[0]['coursePeriodName']['en']) == "Semester B":
-            BothSemester = "SemB"
-        else:
-            BothSemester = False
-            print('semster issue. is the class given?')
-            # exit()
-        pass
-    except:
-        BothSemester = False
-        print('semster issue. is the class given?')
-        # exit()
-    return(BothSemester)
-    
-
-def GetShnatonIdFromShnaton(CourseNumber: int, Year: int):
-    # get the json from the shanton:
-    # TODO: fake headers to look like a browser (only needed if blocked.)
-    ShnatonJson = requests.get(f"https://shnaton.huji.ac.il/api/courses/code/{CourseNumber}?year={str(Year)}")
-
-    if ShnatonJson.status_code == 200: # dont trip over the network TODO: make this an assert.
-        ShnatonJsonObject = json.loads(ShnatonJson.content)
-        ShnatonId = ShnatonJsonObject[0]['id']   
-    else:
-        print("shanton class id does not match")
-        exit()
-    return(ShnatonId)
-
-
-def ClankerGetTestDateFromShnaton(ShnatonId: int, Year: int):
-    response = requests.get(f"https://shnaton.huji.ac.il/api/assignments?year={Year}&courseId={ShnatonId}")
-    assignments = response.json()
-
-    TestStart = []
-
-    for assignment in assignments:
-        name = assignment["assignmentDefinition"]["name"]["en"]
-
-        if name in ("Written test", "Mid-term Exams"):
-            for schedule in assignment.get("schedules", []):
-                TestStart.append(schedule["startTime"])
-                TestStart.append(schedule["endTime"])
-
-
-    TestEnd = []
-    for assignment in assignments:
-        name = assignment["assignmentDefinition"]["name"]["en"]
-
-        if name in ("Written test", "Mid-term Exams"):
-            for schedule in assignment.get("schedules", []):
-                TestStart.append(schedule["endTime"])
-
-    return(TestStart, TestEnd)
-
-
-
-# for Course in CourseList:
-#     print(Course)
-#     CourseName = GetNamesFromShnaton(Course, 2027) # year is used for the api
-#     # TextForImage = get_display(CourseName)
-#     TextForImage = StringCleaner(CourseName)
-
-#     AddTextToImageAndDealWithString(TextForImage, Course+".png", "2026-2027", Course) # the year here is any text to be added to the bottom of the logo.
-
-
-
-
-
-def ClankerRetriveData(Course, Year):
-    print(Course)
-
-    CourseName = GetNamesFromShnaton(Course, Year)
-    ShnatonId = GetShnatonIdFromShnaton(Course, Year)
-    BothSemester = GetDoubleSemesterFromShnaton(Course, Year)
-    TestDates = ClankerGetTestDateFromShnaton(ShnatonId, Year)
+    data = r.json()[0]
 
     return {
-        "Year":Year,
-        "Course": Course,
-        "CourseName": CourseName,
-        "ShnatonId": ShnatonId,
-        "Semester": BothSemester,
-        "TestDates": TestDates,
+        "id": data["id"],
+        "name": data["name"]["he"],
     }
 
+def get_assignments(course_id):
+    r = requests.get(
+        f"https://shnaton.huji.ac.il/api/assignments?year={YEAR}&courseId={course_id}"
+    )
+    r.raise_for_status()
+    return r.json()
 
-def main(Year, FileName):
-    CourseList = GetCourseFromFile(FileName)
-    rows = []
+def add_course_events(calendar, course_code):
+    course = get_course(course_code)
+    assignments = get_assignments(course["id"])
 
-    for Course in CourseList:
-        data = ClankerRetriveData(Course, Year)
-        TextForImage = StringCleaner(data["CourseName"])
-        rows.append(data)
-        print(rows)
-    df = pd.DataFrame(rows)
-    print(df)
+    for assignment in assignments:
 
-    df.to_csv("courses.csv", index=False, encoding="utf-8-sig")
+        assignment_name = assignment["assignmentDefinition"]["name"]["en"]
+
+        # Only exams
+        if assignment_name not in ("Written test", "Mid-term Exams"):
+            continue
+
+        for schedule in assignment.get("schedules", []):
+
+            event = Event()
+
+            event.name = f"{course['name']} ({course_code})"
+
+            start = datetime.fromisoformat(schedule["startTime"])
+            end = datetime.fromisoformat(schedule["endTime"])
+
+            # If the API gives naive datetimes, interpret them as Jerusalem time
+            if start.tzinfo is None:
+                start = start.replace(tzinfo=JERUSALEM)
+
+            if end.tzinfo is None:
+                end = end.replace(tzinfo=JERUSALEM)
+
+            event.begin = start
+            event.end = end
+
+            event.location = ", ".join(
+                room["name"]["he"]
+                for room in schedule.get("rooms", [])
+            )
+
+            event.description = (
+                f"SUbject to change. Check Orbit for the most up-to-date info\n"
+                f"Location: {event.location}\n"
+                f"Course: {course['name']}\n"
+                f"Course Code: {course_code}\n"
+                f"Exam: {assignment_name}\n"
+                f"Semester: {schedule['periodName']['he']}\n"
+                f"Moed: {schedule['moed']}\n"
+                f"Start: {start}\n"
+                f"End: {end}"
+            )
+            event.uid = f"{YEAR}-{course_code}@huji.local"
+
+            calendar.events.add(event)
+
+def moveics(IcsFileName, Path):
+    os.rename(IcsFileName, Path+IcsFileName)
+
+def main():
+    calendar = Calendar()
+
+    with open(SOURCE_FILE) as f:
+        courses = [line.strip() for line in f if line.strip()]
+
+    for course in courses:
+        try:
+            print(f"Processing {course}")
+            add_course_events(calendar, course)
+        except Exception as e:
+            print(f"Failed {course}: {e}")
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.writelines(calendar)
+
+    print(f"\nSaved {OUTPUT_FILE}")
+    print(f"Total events: {len(calendar.events)}")
+    moveics(OUTPUT_FILE, "prod/")
 
 
-
-main(2026, "Source")
+if __name__ == "__main__":
+    main()
