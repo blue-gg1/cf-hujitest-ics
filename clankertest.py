@@ -50,8 +50,18 @@ def add_course_events(calendar, course_code):
 
             event.name = f"{course['name']} ({course_code})"
 
-            event.begin = datetime.fromisoformat(schedule["startTime"])
-            event.end = datetime.fromisoformat(schedule["endTime"])
+            start = datetime.fromisoformat(schedule["startTime"])
+            end = datetime.fromisoformat(schedule["endTime"])
+
+            # If the API gives naive datetimes, interpret them as Jerusalem time
+            if start.tzinfo is None:
+                start = start.replace(tzinfo=JERUSALEM)
+
+            if end.tzinfo is None:
+                end = end.replace(tzinfo=JERUSALEM)
+
+            event.begin = start
+            event.end = end
 
             event.location = ", ".join(
                 room["name"]["en"]

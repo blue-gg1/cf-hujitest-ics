@@ -2,83 +2,83 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Course: אנליזה פונקציונלית\nCourse Code: 80417\nExam: Written test\nSemester: 2nd semester\nMoed: 1
-DTEND:20260709T120000Z
-LOCATION:Canada\, Upper Canada\, Feldman  A
-DTSTART:20260709T090000Z
-SUMMARY:אנליזה פונקציונלית (80417)
-UID:75a36585-4f8d-4777-9bfb-7c022b4ed3c5@75a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: מבנים ב-חוגים ומודולים\nCourse Code: 80418\nExam: Written test\nSemester: 2nd semester\nMoed: 1
-DTEND:20260721T120000Z
-LOCATION:102 BRANDMAN B\, 103 BRANDMAN B
-DTSTART:20260721T090000Z
-SUMMARY:מבנים ב-חוגים ומודולים (80418)
-UID:20a8a096-604f-4cb3-a630-9cb6151279c7@20a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: מבנים ב-חוגים ומודולים\nCourse Code: 80418\nExam: Written test\nSemester: 2nd semester\nMoed: 2
-DTEND:20260809T120000Z
-LOCATION:Feldman  A
-DTSTART:20260809T090000Z
-SUMMARY:מבנים ב-חוגים ומודולים (80418)
-UID:7b9529de-26d8-43d2-9fef-e47c42920878@7b95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: 1st semester\nMoed: 2
-DTEND:20260504T190000Z
-LOCATION:Kaplan
-DTSTART:20260504T160000Z
-SUMMARY:חשבון אינפיניטסימלי 3 (80415)
-UID:98704ab3-c392-4811-bf81-6d9ba3891586@9870.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: אנליזה על יריעות\nCourse Code: 80416\nExam: Written test\nSemester: 2nd semester\nMoed: 1
-DTEND:20260726T113000Z
-LOCATION:Chemistry 7\, Mathematics 2
-DTSTART:20260726T090000Z
+DESCRIPTION:Course: אנליזה על יריעות\nCourse Code: 80416\nExam: Written test\nSemester: 2nd semester\nMoed: 2
+DTEND:20260821T083000Z
+LOCATION:C220\, Auditorium Engineering
+DTSTART:20260821T060000Z
 SUMMARY:אנליזה על יריעות (80416)
-UID:d2b8bfba-f3c8-49f5-8bb8-4bf5786290f9@d2b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: 2nd semester\nMoed: 2
-DTEND:20260818T120000Z
-LOCATION:Levi 7
-DTSTART:20260818T090000Z
-SUMMARY:חשבון אינפיניטסימלי 3 (80415)
-UID:8eb8c483-54fd-4387-846b-54dcb085bfd5@8eb8.org
+UID:236de8db-f915-4d04-9e8e-b5f0e5e74998@236d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: 1st semester\nMoed: 1
-DTEND:20260218T170000Z
+DTEND:20260218T150000Z
 LOCATION:Canada\, Upper Canada
-DTSTART:20260218T140000Z
+DTSTART:20260218T120000Z
 SUMMARY:חשבון אינפיניטסימלי 3 (80415)
-UID:70387efe-bb46-4958-a6f7-7448472c9011@7038.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Course: אנליזה פונקציונלית\nCourse Code: 80417\nExam: Written test\nSemester: 2nd semester\nMoed: 2
-DTEND:20260812T120000Z
-LOCATION:Mathematics 110\, Mathematics 2
-DTSTART:20260812T090000Z
-SUMMARY:אנליזה פונקציונלית (80417)
-UID:7a7d7087-5610-4692-accd-760678d49811@7a7d.org
+UID:2a3a2d7d-8955-46c8-9c2d-7e1bc294baa7@2a3a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: 2nd semester\nMoed: 1
-DTEND:20260727T120000Z
+DTEND:20260727T090000Z
 LOCATION:Rothberg\, Levin Hall
-DTSTART:20260727T090000Z
+DTSTART:20260727T060000Z
 SUMMARY:חשבון אינפיניטסימלי 3 (80415)
-UID:bb51464c-672d-4dfa-971d-689606f9756b@bb51.org
+UID:a1e635f3-50d2-46b4-b192-10bab6fbce01@a1e6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Course: אנליזה על יריעות\nCourse Code: 80416\nExam: Written test\nSemester: 2nd semester\nMoed: 2
-DTEND:20260821T113000Z
-LOCATION:C220\, Auditorium Engineering
-DTSTART:20260821T090000Z
+DESCRIPTION:Course: מבנים ב-חוגים ומודולים\nCourse Code: 80418\nExam: Written test\nSemester: 2nd semester\nMoed: 1
+DTEND:20260721T090000Z
+LOCATION:102 BRANDMAN B\, 103 BRANDMAN B
+DTSTART:20260721T060000Z
+SUMMARY:מבנים ב-חוגים ומודולים (80418)
+UID:f706e20f-4c14-476d-8379-3cf763a2d78b@f706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: מבנים ב-חוגים ומודולים\nCourse Code: 80418\nExam: Written test\nSemester: 2nd semester\nMoed: 2
+DTEND:20260809T090000Z
+LOCATION:Feldman  A
+DTSTART:20260809T060000Z
+SUMMARY:מבנים ב-חוגים ומודולים (80418)
+UID:739082c6-2f3a-4f74-8999-c03e90d35bfd@7390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה פונקציונלית\nCourse Code: 80417\nExam: Written test\nSemester: 2nd semester\nMoed: 1
+DTEND:20260709T090000Z
+LOCATION:Canada\, Upper Canada\, Feldman  A
+DTSTART:20260709T060000Z
+SUMMARY:אנליזה פונקציונלית (80417)
+UID:1a71ab2e-afdc-4981-ac67-ece760353086@1a71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה על יריעות\nCourse Code: 80416\nExam: Written test\nSemester: 2nd semester\nMoed: 1
+DTEND:20260726T083000Z
+LOCATION:Chemistry 7\, Mathematics 2
+DTSTART:20260726T060000Z
 SUMMARY:אנליזה על יריעות (80416)
-UID:5f629d1b-e03a-4f5c-8611-2da80d7db680@5f62.org
+UID:4ff9b1bf-45b0-42d2-a13e-9b3474eee154@4ff9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: 2nd semester\nMoed: 2
+DTEND:20260818T090000Z
+LOCATION:Levi 7
+DTSTART:20260818T060000Z
+SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+UID:5e101891-0705-47c9-96c3-eed127665a14@5e10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: Written test\nSemester: 1st semester\nMoed: 2
+DTEND:20260504T160000Z
+LOCATION:Kaplan
+DTSTART:20260504T130000Z
+SUMMARY:חשבון אינפיניטסימלי 3 (80415)
+UID:b1d48503-51e4-4772-a24e-e07664e367cb@b1d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course: אנליזה פונקציונלית\nCourse Code: 80417\nExam: Written test\nSemester: 2nd semester\nMoed: 2
+DTEND:20260812T090000Z
+LOCATION:Mathematics 110\, Mathematics 2
+DTSTART:20260812T060000Z
+SUMMARY:אנליזה פונקציונלית (80417)
+UID:b2c8f45a-c107-477c-aeea-af9b4a4362fd@b2c8.org
 END:VEVENT
 END:VCALENDAR
