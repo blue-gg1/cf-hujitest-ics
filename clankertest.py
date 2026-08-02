@@ -75,6 +75,7 @@ def add_course_events(calendar, course_code):
                 f"Start: {start}\n"
                 f"End: {end}"
             )
+            event.uid = f"{YEAR}-{course_code}@huji.local"
 
             calendar.events.add(event)
 
