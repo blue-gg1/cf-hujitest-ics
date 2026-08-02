@@ -82,7 +82,7 @@ def add_course_events(calendar, course_code):
             calendar.events.add(event)
 
 def moveics(IcsFileName, Path):
-    os.rename(IcsFileName, Path+IcsFileName)
+    os.replace(IcsFileName, Path+IcsFileName)
 
 def main():
     calendar = Calendar()
