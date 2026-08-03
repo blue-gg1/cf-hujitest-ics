@@ -7,6 +7,7 @@ import os
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2026
 SOURCE_FILE = "source.old.txt" # one course code per line
+# SOURCE_FILE = "source" # one course code per line
 OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 
 
@@ -67,16 +68,16 @@ def add_course_events(calendar, course_code):
             )
 
             event.description = (
-                f"<b>Subject to change. Check the <a href={MetaDataLinks["Shanton"]}>Shanton</a> or <a href={MetaDataLinks['Orbit']}>Orbit</a> for the most up-to-date info</b>\n"
+                f"<b>Subject to change. Always check the <a href={MetaDataLinks["Shanton"]}>Shanton</a> or <a href={MetaDataLinks['Orbit']}>Orbit</a> for the most up-to-date info</b>\n"
                 f"Location: {event.location}\n"
                 f"Course: {course['name']}\n"
                 f"Course Code: {course_code}\n"
-                f"Exam: {assignment_name}\n"
+                f"Exam: {assignment["assignmentDefinition"]["name"]["he"]}\n"
                 f"Semester: {schedule['periodName']['he']}\n"
                 f"Moed: {schedule['moed']}\n"
-                f"Start: {start}\n"
-                f"End: {end}\n\n\n"
-                f"Last Update: {MetaDataLinks["LastUpdate"]}"
+                f"Test Start: {start}\n"
+                f"Test End: {end}\n\n\n"
+                f"<i>This was last updated at: {MetaDataLinks["LastUpdate"]}</i>"
             )
             event.uid = f"{YEAR}-{course_code}-{(schedule['periodName']['en'].replace(" ",""))}-{schedule['moed']}@huji.local"
 
