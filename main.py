@@ -31,7 +31,7 @@ def get_assignments(Shnaton_course_id):
 
 def add_course_events(calendar, course_code):
     course = get_course(course_code)
-    ShantonLink = MetaDataTags(course_code)
+    MetaDataLinks = MetaDataTags(course_code)
     assignments = get_assignments(course["id"])
 
     for assignment in assignments:
@@ -67,7 +67,7 @@ def add_course_events(calendar, course_code):
             )
 
             event.description = (
-                f"<b>Subject to change. Check the <a href={ShantonLink["link"]}>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\n"
+                f"<b>Subject to change. Check the <a href={MetaDataLinks["Shanton"]}>Shanton</a> or <a href={MetaDataLinks['Orbit']}>Orbit</a> for the most up-to-date info</b>\n"
                 f"Location: {event.location}\n"
                 f"Course: {course['name']}\n"
                 f"Course Code: {course_code}\n"
@@ -82,9 +82,12 @@ def add_course_events(calendar, course_code):
             calendar.events.add(event)
 
 def MetaDataTags(course_code):
-    HyperLink = f'https://shnaton.huji.ac.il/course/{course_code}'
+    ShnatonLink = f'https://shnaton.huji.ac.il/course/{course_code}'
+    OrbitLink = f'https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx'
+    
     return {
-        "link": HyperLink
+        "Shanton": ShnatonLink,
+        "Orbit":OrbitLink
     }
 def moveics(IcsFileName, Path):
     os.replace(IcsFileName, Path+IcsFileName)
