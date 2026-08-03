@@ -6,7 +6,7 @@ import os
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2026
-SOURCE_FILE = "source" # one course code per line
+SOURCE_FILE = "source.old.txt" # one course code per line
 OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 
 
@@ -67,7 +67,7 @@ def add_course_events(calendar, course_code):
             )
 
             event.description = (
-                f"<b>Subject to change. Check <a href={ShantonLink["link"]}>Shanton</a> or Orbit for the most up-to-date info</b>\n"
+                f"<b>Subject to change. Check the <a href={ShantonLink["link"]}>Shanton</a> or Orbit for the most up-to-date info</b>\n"
                 f"Location: {event.location}\n"
                 f"Course: {course['name']}\n"
                 f"Course Code: {course_code}\n"
