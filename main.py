@@ -75,7 +75,8 @@ def add_course_events(calendar, course_code):
                 f"Semester: {schedule['periodName']['he']}\n"
                 f"Moed: {schedule['moed']}\n"
                 f"Start: {start}\n"
-                f"End: {end}"
+                f"End: {end}\n\n\n"
+                f"Last Update: {MetaDataLinks["LastUpdate"]}"
             )
             event.uid = f"{YEAR}-{course_code}-{(schedule['periodName']['en'].replace(" ",""))}-{schedule['moed']}@huji.local"
 
@@ -84,10 +85,12 @@ def add_course_events(calendar, course_code):
 def MetaDataTags(course_code):
     ShnatonLink = f'https://shnaton.huji.ac.il/course/{course_code}'
     OrbitLink = f'https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx'
+    LastUpdated = f'Last updated at {datetime.now()}'
     
     return {
         "Shanton": ShnatonLink,
-        "Orbit":OrbitLink
+        "Orbit":OrbitLink,
+        "LastUpdate":LastUpdated
     }
 def moveics(IcsFileName, Path):
     os.replace(IcsFileName, Path+IcsFileName)
