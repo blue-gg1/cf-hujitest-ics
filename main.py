@@ -67,7 +67,7 @@ def add_course_events(calendar, course_code):
             )
 
             event.description = (
-                f"<b>Subject to change. Check the <a href={ShantonLink["link"]}>Shanton</a> or Orbit for the most up-to-date info</b>\n"
+                f"<b>Subject to change. Check the <a href={ShantonLink["link"]}>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\n"
                 f"Location: {event.location}\n"
                 f"Course: {course['name']}\n"
                 f"Course Code: {course_code}\n"
