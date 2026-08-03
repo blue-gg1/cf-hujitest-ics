@@ -6,8 +6,8 @@ import os
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2026
-# SOURCE_FILE = "source.old.txt" # one course code per line
-SOURCE_FILE = "source" # one course code per line
+SOURCE_FILE = "source.old.txt" # one course code per line
+# SOURCE_FILE = "source" # one course code per line
 OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 
 
@@ -23,7 +23,7 @@ def get_course(course_code):
         "name": data["name"]["he"],
     }
 
-def get_assignments(Shnaton_course_id):
+def GetShantonIdDepthJson(Shnaton_course_id):
     r = requests.get(
         f"https://shnaton.huji.ac.il/api/assignments?year={YEAR}&courseId={Shnaton_course_id}"
     )
@@ -36,9 +36,11 @@ def get_assignments(Shnaton_course_id):
 def add_course_events(calendar, course_code):
     course = get_course(course_code)
     MetaDataLinks = MetaDataTags(course_code)
-    assignments = get_assignments("AssignmentsJson"[course["id"]])
+    ShantonInDepthjson = GetShantonIdDepthJson(course["id"])
+    assignment = ShantonInDepthjson["AssignmentsJson"]
+    Shnaton_course_id = ShantonInDepthjson["Shnaton_course_id"]
 
-    for assignment in assignments:
+    for assignment in assignment:
 
         assignment_name = assignment["assignmentDefinition"]["name"]["en"]
 
@@ -82,7 +84,7 @@ def add_course_events(calendar, course_code):
                 f"Test End: {end}\n\n\n"
                 f"<i>This was last updated at: {MetaDataLinks["LastUpdate"]}</i>"
             )
-            event.uid = f"{YEAR}-{course_code}-{(schedule['periodName']['en'].replace(" ",""))}-{schedule['moed']}-{Shnaton_course_id}@huji.local"
+            event.uid = f"{YEAR}-{course_code}-{(schedule['periodName']['en'].replace(" ","-"))}-{schedule['moed']}-{Shnaton_course_id}@huji.local"
 
             calendar.events.add(event)
 
