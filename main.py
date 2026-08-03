@@ -85,7 +85,7 @@ def add_course_events(calendar, course_code):
                 f"Test End: {end}\n\n\n"
                 f"<i>This was last updated at: {MetaDataLinks["LastUpdate"]}</i>"
             )
-            event.uid = f"{YEAR}-{course_code}-{(schedule['periodName']['en'].replace(" ","-"))}-{schedule['moed']}-{assignment["assignmentDefinition"]["name"]["en"]}-{Shnaton_course_id}@huji.local"
+            event.uid = f"{YEAR}-{course_code}-{(schedule['periodName']['en'].replace(" ","-"))}-{schedule['moed']}-{(assignment["assignmentDefinition"]["name"]["en"]).replace(" ","-")}-{Shnaton_course_id}@huji.local"
 
             calendar.events.add(event)
 
