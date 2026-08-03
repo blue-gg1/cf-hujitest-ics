@@ -6,14 +6,13 @@ import os
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2026
-SOURCE_FILE = "source.old.txt" # one course code per line
+SOURCE_FILE = "source" # one course code per line
 OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 
 
 def get_course(course_code):
-    r = requests.get(
-        f"https://shnaton.huji.ac.il/api/courses/code/{course_code}?year={YEAR}"
-    )
+    ShantonYearUrl = f"https://shnaton.huji.ac.il/api/courses/code/{course_code}?year={YEAR}"
+    r = requests.get(ShantonYearUrl)
     r.raise_for_status()
 
     data = r.json()[0]
@@ -23,15 +22,16 @@ def get_course(course_code):
         "name": data["name"]["he"],
     }
 
-def get_assignments(course_id):
+def get_assignments(Shnaton_course_id):
     r = requests.get(
-        f"https://shnaton.huji.ac.il/api/assignments?year={YEAR}&courseId={course_id}"
+        f"https://shnaton.huji.ac.il/api/assignments?year={YEAR}&courseId={Shnaton_course_id}"
     )
     r.raise_for_status()
     return r.json()
 
 def add_course_events(calendar, course_code):
     course = get_course(course_code)
+    ShantonLink = MetaDataTags(course_code)
     assignments = get_assignments(course["id"])
 
     for assignment in assignments:
@@ -67,7 +67,7 @@ def add_course_events(calendar, course_code):
             )
 
             event.description = (
-                f"<b>Subject to change. Check Orbit for the most up-to-date info</b>\n"
+                f"<b>Subject to change. Check <a href={ShantonLink["link"]}>Shanton</a> or Orbit for the most up-to-date info</b>\n"
                 f"Location: {event.location}\n"
                 f"Course: {course['name']}\n"
                 f"Course Code: {course_code}\n"
@@ -81,6 +81,11 @@ def add_course_events(calendar, course_code):
 
             calendar.events.add(event)
 
+def MetaDataTags(course_code):
+    HyperLink = f'https://shnaton.huji.ac.il/course/{course_code}'
+    return {
+        "link": HyperLink
+    }
 def moveics(IcsFileName, Path):
     os.replace(IcsFileName, Path+IcsFileName)
 
