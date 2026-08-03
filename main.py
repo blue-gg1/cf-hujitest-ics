@@ -48,6 +48,7 @@ def add_course_events(calendar, course_code):
         if assignment_name not in ("Written test", "Mid-term Exams", "First partial test", "Second partial test"):
             continue
 
+
         for schedule in assignment.get("schedules", []):
 
             event = Event()
