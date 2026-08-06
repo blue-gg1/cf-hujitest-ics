@@ -4,6 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>HUJI Calendar Generator</title>
+
+<!-- all the CSS -->
 <style>
 body{
     font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
@@ -149,8 +151,35 @@ li.dropdown {
 </style>
 </head>
 
+<!-- dropdown menue links to iframes which are year/subject spesfic -->
+
 <ul>
   <li><a href="#" data-page="all.html">Home</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Faculity</a>
+    <div class="dropdown-content">
+      <a href="#" data-page="maths.html">Humanities</a>
+      <a href="#" data-page="maths2.html">Sciences</a>
+      <a href="#" data-page="maths3.html">Interuniversity Institute for Marine Sciences in Eilat</a>
+      <a href="#" data-page="maths3.html">International Students</a>
+      <a href="#" data-page="maths3.html">Israel Institute for Advanced Studies</a>
+      <a href="#" data-page="maths3.html">Social Sciences</a>
+      <a href="#" data-page="maths3.html">Dental Medicine</a>
+      <a href="#" data-page="maths3.html">Medicine</a>
+      <a href="#" data-page="maths3.html">Computer Science & Engineering</a>
+      <a href="#" data-page="maths3.html">Brain Sciences</a>
+      <a href="#" data-page="maths3.html">Business</a>
+      <a href="#" data-page="maths3.html">Social Work & Social Welfare</a>
+      <a href="#" data-page="maths3.html">Seymour Fox School of Education</a>
+      <a href="#" data-page="maths3.html">Agricultural Sciences</a>
+      <a href="#" data-page="maths3.html">Law</a>
+      <a href="#" data-page="maths3.html">Veterinary Medicine</a>
+      <a href="#" data-page="maths3.html">Advanced Environmental Studies</a>
+      <a href="#" data-page="maths3.html">Rationality Studies</a>
+      <a href="#" data-page="maths3.html">Research Institute for the Advancement of Peace</a>
+      <a href="#" data-page="maths3.html">Interfaculty Biotechnology</a>
+    </div>
+  </li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Maths</a>
     <div class="dropdown-content">
@@ -179,11 +208,11 @@ li.dropdown {
 </ul>
 
 
-
+<!-- iframe to swapped -->
 <iframe id="myIframe" src="all.html" style="position: absolute; height: 100%; width: 90%; border: none;" scrolling=no></iframe>
 
 
-
+<!-- script for swaping iframes -->
 <script>
 document.querySelectorAll("[data-page]").forEach(link => {
     link.addEventListener("click", function (e) {
