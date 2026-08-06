@@ -1,0 +1,13 @@
+// HTML
+<button id="changeSourceButton">Change Iframe Source</button>
+<iframe id="myIframe" src="all.html"></iframe>
+
+// JavaScript
+<script>
+const changeSourceButton = document.getElementById('changeSourceButton');
+const myIframe = document.getElementById('myIframe');
+
+changeSourceButton.addEventListener('click', function() {
+  myIframe.src = 'maths.html';
+});
+</script>
