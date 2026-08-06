@@ -177,4 +177,15 @@ li.dropdown {
   </li>
 </ul>
 
-<iframe src="all.html" style="position: absolute; height: 100%; width: 90%; border: none;" scrolling=no></iframe>
+<button id="changeSourceButton">Change Iframe Source</button>
+
+<script>
+const changeSourceButton = document.getElementById('changeSourceButton');
+const myIframe = document.getElementById('all');
+
+changeSourceButton.addEventListener('click', function() {
+  myIframe.src = 'maths.html';
+});
+</script>
+
+<iframe id="all" src="all.html" style="position: absolute; height: 100%; width: 90%; border: none;" scrolling=no></iframe>
