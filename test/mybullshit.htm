@@ -154,9 +154,9 @@ li.dropdown {
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Maths</a>
     <div class="dropdown-content">
-      <a id="changeSourceButton"></a>Year 1</a>
-      <a href="#">Year 2</a>
-      <a href="#">Year 3</a>
+        <a href="#" data-page="maths.html">Year 1</a>
+        <a href="#" data-page="maths2.html">Year 2</a>
+        <a href="#" data-page="maths3.html">Year 3</a>
     </div>
   </li>
   <li class="dropdown">
@@ -177,7 +177,17 @@ li.dropdown {
   </li>
 </ul>
 
+
+
 <iframe id="myIframe" src="all.html" style="position: absolute; height: 100%; width: 90%; border: none;" scrolling=no></iframe>
 
 
 
+<script>
+document.querySelectorAll("[data-page]").forEach(link => {
+    link.addEventListener("click", function (e) {
+        e.preventDefault();
+        document.getElementById("myIframe").src = this.dataset.page;
+    });
+});
+</script>
