@@ -5,10 +5,10 @@ from zoneinfo import ZoneInfo
 import os
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
-YEAR = 2025
-SOURCE_FILE = "source.old.txt" # one course code per line
-# SOURCE_FILE = "source" # one course code per line
-OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
+YEAR = 2026
+SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
+# SOURCE_FILE = "pysrc/source" # one course code per line
+OUTPUT_FILE = "staging/HUJI_Exams_"+str(YEAR)+".ics"
 
 
 def get_course(course_code):
@@ -120,7 +120,7 @@ def main():
 
     print(f"\nSaved {OUTPUT_FILE}")
     print(f"Total events: {len(calendar.events)}")
-    moveics(OUTPUT_FILE, "../prod/")
+    # moveics(OUTPUT_FILE, "prod/")
 
 
 if __name__ == "__main__":
