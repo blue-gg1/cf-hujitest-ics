@@ -2,7 +2,7 @@ import requests
 from ics import Calendar, Event
 from datetime import datetime
 from zoneinfo import ZoneInfo
-import os
+import os, shutil
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2026
@@ -100,7 +100,8 @@ def MetaDataTags(course_code):
         "LastUpdate":LastUpdated
     }
 def moveics(IcsFileName, Path):
-    os.replace(IcsFileName, Path+IcsFileName)
+    # os.replace(IcsFileName, Path+IcsFileName)
+    shutil.copy(IcsFileName, Path+IcsFileName)
 
 def main():
     calendar = Calendar()
@@ -115,12 +116,13 @@ def main():
         except Exception as e:
             print(f"Failed {course}: {e}")
 
+    os.remove(OUTPUT_FILE)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(calendar)
 
     print(f"\nSaved {OUTPUT_FILE}")
     print(f"Total events: {len(calendar.events)}")
-    # moveics(OUTPUT_FILE, "prod/")
+    moveics(OUTPUT_FILE, "prod/")
 
 
 if __name__ == "__main__":
