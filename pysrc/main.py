@@ -8,7 +8,7 @@ JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2026
 SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
 # SOURCE_FILE = "pysrc/source" # one course code per line
-OUTPUT_FILE = "staging/HUJI_Exams_"+str(YEAR)+".ics"
+OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 
 
 def get_course(course_code):
@@ -116,7 +116,11 @@ def main():
         except Exception as e:
             print(f"Failed {course}: {e}")
 
-    os.remove(OUTPUT_FILE)
+    if os.path.isfile(OUTPUT_FILE):
+        os.remove(OUTPUT_FILE)
+    else:
+        pass
+    
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(calendar)
 
