@@ -1,0 +1,1598 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80430>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קפלן\, פלדמן א\, לוי 07\, לוי 06\, פלדמן ב\, שפרינצק 115\, אודיטוריום הנדסה\, B220\, B221\, C220\, C221\nCourse: מבוא להסתברות ולסטטיסטיקה\nCourse Code: 80430\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-21 09:00:00+02:00\nTest End: 2025-03-21 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:25.016598</i>
+DTEND:20250321T100000Z
+LOCATION:קפלן\, פלדמן א\, לוי 07\, לוי 06\, פלדמן ב\, שפרינצק 115\, אודיטוריום הנדסה\, B220\, B221\, C220\, C221
+DTSTART:20250321T070000Z
+SUMMARY:בחינה ב- מבוא להסתברות ולסטטיסטיקה (80430)
+UID:2025-80430-1st-semester-2-Written-test-67067@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80158>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 114\nCourse: חשבון אינפיניטסימלי מואץ 1\nCourse Code: 80158\nExam: מבחן חלקי ראשון\nSemester: שנתי\nMoed: 2\nTest Start: 2025-03-06 09:00:00+02:00\nTest End: 2025-03-06 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:08.228910</i>
+DTEND:20250306T100000Z
+LOCATION:שפרינצק 114
+DTSTART:20250306T070000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי מואץ 1 (80158)
+UID:2025-80158-1st-semester-+-2nd-semester-2-First-partial-test-109411@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80131>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, מתמטיקה 2\, פלדמן ב\, קנדה\, קפלן\nCourse: חשבון אינפיניטסימלי (1)\nCourse Code: 80131\nExam: מבחן חלקי שני\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-01-16 10:00:00+02:00\nTest End: 2025-01-16 13:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:56.189907</i>
+DTEND:20250116T110000Z
+LOCATION:כימיה 7\, מתמטיקה 2\, פלדמן ב\, קנדה\, קפלן
+DTSTART:20250116T080000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (1) (80131)
+UID:2025-80131-1st-semester-1-Second-partial-test-69840@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67865>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 217\nCourse: כלים מתמטיים במדעי המחשב\nCourse Code: 67865\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-02-27 09:00:00+02:00\nTest End: 2025-02-27 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:19.179979</i>
+DTEND:20250227T090000Z
+LOCATION:שפרינצק 217
+DTSTART:20250227T070000Z
+SUMMARY:בחינה ב- כלים מתמטיים במדעי המחשב (67865)
+UID:2025-67865-1st-semester-2-Written-test-69125@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67925>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120\nCourse: סדנה במערכות חישוב מ-NAND ל-TETRIS\nCourse Code: 67925\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-15 09:00:00+03:00\nTest End: 2025-07-15 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:26.506407</i>
+DTEND:20250715T080000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120
+DTSTART:20250715T060000Z
+SUMMARY:בחינה ב- סדנה במערכות חישוב מ-NAND ל-TETRIS (67925)
+UID:2025-67925-2nd-semester-1-Written-test-64653@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80445>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, שפרינצק 115\nCourse: מבנים א-תורת החבורות\nCourse Code: 80445\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-04 09:00:00+02:00\nTest End: 2025-03-04 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:26.107799</i>
+DTEND:20250304T100000Z
+LOCATION:פלדמן א\, שפרינצק 115
+DTSTART:20250304T070000Z
+SUMMARY:בחינה ב- מבנים א-תורת החבורות (80445)
+UID:2025-80445-1st-semester-2-Written-test-68212@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40352>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27108 חברה\nCourse: כמה אנשים יכול כדור הארץ להכיל?\nCourse Code: 40352\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-12 13:00:00+02:00\nTest End: 2025-03-12 15:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:20:58.037029</i>
+DTEND:20250312T130000Z
+LOCATION:27108 חברה
+DTSTART:20250312T110000Z
+SUMMARY:בחינה ב- כמה אנשים יכול כדור הארץ להכיל? (40352)
+UID:2025-40352-1st-semester-2-Written-test-67174@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67101>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: מבוא למדעי המחשב \nCourse Code: 67101\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-05 09:00:00+03:00\nTest End: 2025-08-05 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:11.895215</i>
+DTEND:20250805T090000Z
+LOCATION:B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250805T060000Z
+SUMMARY:בחינה ב- מבוא למדעי המחשב  (67101)
+UID:2025-67101-2nd-semester-2-Written-test-68693@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67315>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C100 מעבדת מחשבים\, C120\, C120 אינטל (חדר שקט)\nCourse: סי וסי++ לאלגוריתמיקה מעשית\nCourse Code: 67315\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-02 09:00:00+02:00\nTest End: 2025-03-02 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:17.088734</i>
+DTEND:20250302T100000Z
+LOCATION:C100 מעבדת מחשבים\, C120\, C120 אינטל (חדר שקט)
+DTSTART:20250302T070000Z
+SUMMARY:בחינה ב- סי וסי++ לאלגוריתמיקה מעשית (67315)
+UID:2025-67315-1st-semester-2-Written-test-63770@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/77154>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: מתמטיקה 2\nCourse: מכניקה לתלמידי מתמטיקה\nCourse Code: 77154\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-08 14:00:00+03:00\nTest End: 2025-07-08 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:49.065812</i>
+DTEND:20250708T140000Z
+LOCATION:מתמטיקה 2
+DTSTART:20250708T110000Z
+SUMMARY:בחינה ב- מכניקה לתלמידי מתמטיקה (77154)
+UID:2025-77154-2nd-semester-1-Written-test-90751@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/17004>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אולם ו\, אולם ז\, אולם ח\, פלדמן א\, פלדמן ב\, שפרינצק 115\, אולם ג\, אולם ד\, אולם ה\, חדר 109\, מרכז למידה\nCourse: "פני משה" - דמויותיו של משה בראי ספרות עם ישראל\nCourse Code: 17004\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-23 13:00:00+03:00\nTest End: 2025-07-23 15:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:20:45.945393</i>
+DTEND:20250723T120000Z
+LOCATION:אולם ו\, אולם ז\, אולם ח\, פלדמן א\, פלדמן ב\, שפרינצק 115\, אולם ג\, אולם ד\, אולם ה\, חדר 109\, מרכז למידה
+DTSTART:20250723T100000Z
+SUMMARY:בחינה ב- "פני משה" - דמויותיו של משה בראי ספרות עם ישראל (17004)
+UID:2025-17004-2nd-semester-1-Written-test-76226@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76632>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, פלדמן א\, פלדמן ב\nCourse: תכנות מתקדם בפייתון \nCourse Code: 76632\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-06 09:00:00+03:00\nTest End: 2025-07-06 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:40.715763</i>
+DTEND:20250706T080000Z
+LOCATION:קנדה\, פלדמן א\, פלדמן ב
+DTSTART:20250706T060000Z
+SUMMARY:בחינה ב- תכנות מתקדם בפייתון  (76632)
+UID:2025-76632-2nd-semester-1-Written-test-57554@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80111>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קפלן\nCourse: אנליזה אלמנטרית 1\nCourse Code: 80111\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-04 09:00:00+02:00\nTest End: 2025-02-04 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:52.006457</i>
+DTEND:20250204T090000Z
+LOCATION:קפלן
+DTSTART:20250204T070000Z
+SUMMARY:בחינה ב- אנליזה אלמנטרית 1 (80111)
+UID:2025-80111-1st-semester-1-Written-test-91753@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67561>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C220\, C221\, C320\nCourse: יסודות תורת האינפורמציה\nCourse Code: 67561\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-19 09:00:00+02:00\nTest End: 2025-03-19 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:35.206684</i>
+DTEND:20250319T100000Z
+LOCATION:C220\, C221\, C320
+DTSTART:20250319T070000Z
+SUMMARY:בחינה ב- יסודות תורת האינפורמציה (67561)
+UID:2025-67561-1st-semester-2-Written-test-76575@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80520>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 07\, לוי 06\nCourse: קומבינטוריקה\nCourse Code: 80520\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-07 09:00:00+02:00\nTest End: 2025-02-07 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:32.181856</i>
+DTEND:20250207T100000Z
+LOCATION:לוי 07\, לוי 06
+DTSTART:20250207T070000Z
+SUMMARY:בחינה ב- קומבינטוריקה (80520)
+UID:2025-80520-1st-semester-1-Written-test-60058@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76629>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 214\, שפרינצק 215\nCourse: תכנות מתמטי במאטלב לכימיה\nCourse Code: 76629\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-06 09:00:00+03:00\nTest End: 2025-07-06 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:38.502280</i>
+DTEND:20250706T080000Z
+LOCATION:שפרינצק 214\, שפרינצק 215
+DTSTART:20250706T060000Z
+SUMMARY:בחינה ב- תכנות מתמטי במאטלב לכימיה (76629)
+UID:2025-76629-2nd-semester-1-Written-test-57632@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67504>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B220\, B221\, C220\, C221\, C320\, קנדה\nCourse: אלגוריתמים\nCourse Code: 67504\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-13 09:00:00+02:00\nTest End: 2025-03-13 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:22.128239</i>
+DTEND:20250313T100000Z
+LOCATION:B220\, B221\, C220\, C221\, C320\, קנדה
+DTSTART:20250313T070000Z
+SUMMARY:בחינה ב- אלגוריתמים (67504)
+UID:2025-67504-1st-semester-2-Written-test-75007@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80132>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: רוטברג\, לוי 07\, שפרינצק 213\, שפרינצק 217\, שפרינצק 29\, לוי 06\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-06 09:00:00+02:00\nTest End: 2025-03-06 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:57.397787</i>
+DTEND:20250306T100000Z
+LOCATION:רוטברג\, לוי 07\, שפרינצק 213\, שפרינצק 217\, שפרינצק 29\, לוי 06
+DTSTART:20250306T070000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (2) (80132)
+UID:2025-80132-1st-semester-2-Written-test-69742@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67684>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C100 מעבדת מחשבים\, C120\nCourse: אינטראקציה 1\nCourse Code: 67684\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-20 16:00:00+02:00\nTest End: 2025-03-20 18:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:01.484477</i>
+DTEND:20250320T160000Z
+LOCATION:C100 מעבדת מחשבים\, C120
+DTSTART:20250320T140000Z
+SUMMARY:בחינה ב- אינטראקציה 1 (67684)
+UID:2025-67684-1st-semester-2-Written-test-81239@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67594>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, אודיטוריום הנדסה\, B221\, C220\, C221\, C320\, פלדמן א\nCourse: מבוא לרשתות תקשורת\nCourse Code: 67594\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-05 14:00:00+02:00\nTest End: 2025-02-05 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:39.662399</i>
+DTEND:20250205T150000Z
+LOCATION:קנדה\, אודיטוריום הנדסה\, B221\, C220\, C221\, C320\, פלדמן א
+DTSTART:20250205T120000Z
+SUMMARY:בחינה ב- מבוא לרשתות תקשורת (67594)
+UID:2025-67594-1st-semester-1-Written-test-57341@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67521>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, B221\, C220\, C221\, C320\nCourse: מודלים חישוביים\, חישוביות וסיבוכיות \nCourse Code: 67521\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-22 09:00:00+03:00\nTest End: 2025-08-22 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:27.149456</i>
+DTEND:20250822T090000Z
+LOCATION:אודיטוריום הנדסה\, B221\, C220\, C221\, C320
+DTSTART:20250822T060000Z
+SUMMARY:בחינה ב- מודלים חישוביים\, חישוביות וסיבוכיות  (67521)
+UID:2025-67521-2nd-semester-2-Written-test-67502@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76921>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C100 מעבדת מחשבים\, A100 (מייקרוסופט) (חדר שקט)\nCourse: ראיה אנושית: גישה חישובית\nCourse Code: 76921\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-07 10:00:00+03:00\nTest End: 2025-08-07 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:48.077154</i>
+DTEND:20250807T090000Z
+LOCATION:C100 מעבדת מחשבים\, A100 (מייקרוסופט) (חדר שקט)
+DTSTART:20250807T070000Z
+SUMMARY:בחינה ב- ראיה אנושית: גישה חישובית (76921)
+UID:2025-76921-2nd-semester-2-Written-test-59253@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80114>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, קפלן\, רוטברג\, לוי 06\, לוי 07\nCourse: מתמטיקה שימושית (1)\nCourse Code: 80114\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-17 14:00:00+02:00\nTest End: 2025-03-17 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:53.064710</i>
+DTEND:20250317T150000Z
+LOCATION:כימיה 7\, קפלן\, רוטברג\, לוי 06\, לוי 07
+DTSTART:20250317T120000Z
+SUMMARY:בחינה ב- מתמטיקה שימושית (1) (80114)
+UID:2025-80114-1st-semester-2-Written-test-65262@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80446>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: מתמטיקה 2\, מתמטיקה 110\nCourse: מבנים ג-תורת השדות\nCourse Code: 80446\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-10 14:00:00+03:00\nTest End: 2025-08-10 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:27.099320</i>
+DTEND:20250810T140000Z
+LOCATION:מתמטיקה 2\, מתמטיקה 110
+DTSTART:20250810T110000Z
+SUMMARY:בחינה ב- מבנים ג-תורת השדות (80446)
+UID:2025-80446-2nd-semester-2-Written-test-68166@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, C220\, C221\, C320\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-25 14:00:00+02:00\nTest End: 2025-02-25 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:15.002804</i>
+DTEND:20250225T150000Z
+LOCATION:אודיטוריום הנדסה\, C220\, C221\, C320
+DTSTART:20250225T120000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
+UID:2025-80415-1st-semester-1-Written-test-77161@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67925>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\, C100 מעבדת מחשבים\nCourse: סדנה במערכות חישוב מ-NAND ל-TETRIS\nCourse Code: 67925\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-11 09:00:00+03:00\nTest End: 2025-08-11 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:26.506407</i>
+DTEND:20250811T080000Z
+LOCATION:B100 מעבדת מחשבים\, C100 מעבדת מחשבים
+DTSTART:20250811T060000Z
+SUMMARY:בחינה ב- סדנה במערכות חישוב מ-NAND ל-TETRIS (67925)
+UID:2025-67925-2nd-semester-2-Written-test-64653@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/77154>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 117\nCourse: מכניקה לתלמידי מתמטיקה\nCourse Code: 77154\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-15 09:00:00+03:00\nTest End: 2025-08-15 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:49.065812</i>
+DTEND:20250815T090000Z
+LOCATION:שפרינצק 117
+DTSTART:20250815T060000Z
+SUMMARY:בחינה ב- מכניקה לתלמידי מתמטיקה (77154)
+UID:2025-77154-2nd-semester-2-Written-test-90751@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80520>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 115\nCourse: קומבינטוריקה\nCourse Code: 80520\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-17 09:00:00+02:00\nTest End: 2025-03-17 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:32.181856</i>
+DTEND:20250317T100000Z
+LOCATION:שפרינצק 115
+DTSTART:20250317T070000Z
+SUMMARY:בחינה ב- קומבינטוריקה (80520)
+UID:2025-80520-1st-semester-2-Written-test-60058@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/17004>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אולם ו\, חדר 109\, שפרינצק 213\, שפרינצק 214\, שפרינצק 215\nCourse: "פני משה" - דמויותיו של משה בראי ספרות עם ישראל\nCourse Code: 17004\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-13 09:00:00+03:00\nTest End: 2025-08-13 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:20:45.945393</i>
+DTEND:20250813T080000Z
+LOCATION:אולם ו\, חדר 109\, שפרינצק 213\, שפרינצק 214\, שפרינצק 215
+DTSTART:20250813T060000Z
+SUMMARY:בחינה ב- "פני משה" - דמויותיו של משה בראי ספרות עם ישראל (17004)
+UID:2025-17004-2nd-semester-2-Written-test-76226@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76632>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, מתמטיקה 110\nCourse: תכנות מתקדם בפייתון \nCourse Code: 76632\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-06 09:00:00+03:00\nTest End: 2025-08-06 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:40.715763</i>
+DTEND:20250806T080000Z
+LOCATION:כימיה 7\, מתמטיקה 110
+DTSTART:20250806T060000Z
+SUMMARY:בחינה ב- תכנות מתקדם בפייתון  (76632)
+UID:2025-76632-2nd-semester-2-Written-test-57554@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80111>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 07\nCourse: אנליזה אלמנטרית 1\nCourse Code: 80111\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-09 09:00:00+02:00\nTest End: 2025-03-09 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:52.006457</i>
+DTEND:20250309T090000Z
+LOCATION:לוי 07
+DTSTART:20250309T070000Z
+SUMMARY:בחינה ב- אנליזה אלמנטרית 1 (80111)
+UID:2025-80111-1st-semester-2-Written-test-91753@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/77313>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, קפלן\, רוטברג\nCourse: משוואות של פיסיקה מתמטית\nCourse Code: 77313\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-18 09:00:00+02:00\nTest End: 2025-02-18 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:51.025619</i>
+DTEND:20250218T100000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, קפלן\, רוטברג
+DTSTART:20250218T070000Z
+SUMMARY:בחינה ב- משוואות של פיסיקה מתמטית (77313)
+UID:2025-77313-1st-semester-1-Written-test-65928@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76629>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 215\nCourse: תכנות מתמטי במאטלב לכימיה\nCourse Code: 76629\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-07 09:00:00+03:00\nTest End: 2025-08-07 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:38.502280</i>
+DTEND:20250807T080000Z
+LOCATION:שפרינצק 215
+DTSTART:20250807T060000Z
+SUMMARY:בחינה ב- תכנות מתמטי במאטלב לכימיה (76629)
+UID:2025-76629-2nd-semester-2-Written-test-57632@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67594>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C220\, C221\, כימיה 7\, C320\nCourse: מבוא לרשתות תקשורת\nCourse Code: 67594\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-03 09:00:00+02:00\nTest End: 2025-03-03 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:39.662399</i>
+DTEND:20250303T100000Z
+LOCATION:C220\, C221\, כימיה 7\, C320
+DTSTART:20250303T070000Z
+SUMMARY:בחינה ב- מבוא לרשתות תקשורת (67594)
+UID:2025-67594-1st-semester-2-Written-test-57341@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-20 16:00:00+02:00\nTest End: 2025-03-20 19:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:15.002804</i>
+DTEND:20250320T170000Z
+LOCATION:כימיה 7
+DTSTART:20250320T140000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
+UID:2025-80415-1st-semester-2-Written-test-77161@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67577>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C100 מעבדת מחשבים\, C120\, C120 אינטל (חדר שקט)\, A100 (מייקרוסופט) (חדר שקט)\, A101\, B100 מעבדת מחשבים\, אודיטוריום הנדסה\nCourse: מבוא ללמידת מכונה\nCourse Code: 67577\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-20 09:00:00+03:00\nTest End: 2025-07-20 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:38.664263</i>
+DTEND:20250720T090000Z
+LOCATION:C100 מעבדת מחשבים\, C120\, C120 אינטל (חדר שקט)\, A100 (מייקרוסופט) (חדר שקט)\, A101\, B100 מעבדת מחשבים\, אודיטוריום הנדסה
+DTSTART:20250720T060000Z
+SUMMARY:בחינה ב- מבוא ללמידת מכונה (67577)
+UID:2025-67577-2nd-semester-1-Written-test-67335@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80599>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קפלן\nCourse: מושגי יסוד באלגברה קומוטטיבית וגיאומטריה אלגברית\nCourse Code: 80599\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-19 09:00:00+02:00\nTest End: 2025-02-19 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:41.637127</i>
+DTEND:20250219T100000Z
+LOCATION:קפלן
+DTSTART:20250219T070000Z
+SUMMARY:בחינה ב- מושגי יסוד באלגברה קומוטטיבית וגיאומטריה אלגברית (80599)
+UID:2025-80599-1st-semester-1-Written-test-68758@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67564>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120\nCourse: למידה חישובית בייזיאנית\nCourse Code: 67564\nExam: מבחן חלקי ראשון\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2024-12-31 13:00:00+02:00\nTest End: 2024-12-31 14:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:37.697328</i>
+DTEND:20241231T120000Z
+LOCATION:B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120
+DTSTART:20241231T110000Z
+SUMMARY:בחינה ב- למידה חישובית בייזיאנית (67564)
+UID:2025-67564-1st-semester-1-First-partial-test-77477@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80181>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\nCourse: מתמטיקה דיסקרטית\nCourse Code: 80181\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-29 14:00:00+03:00\nTest End: 2025-07-29 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:10.382398</i>
+DTEND:20250729T140000Z
+LOCATION:רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון
+DTSTART:20250729T110000Z
+SUMMARY:בחינה ב- מתמטיקה דיסקרטית (80181)
+UID:2025-80181-2nd-semester-1-Written-test-65634@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67109>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\, לוי 06\, לוי 07\, רוטברג\, קפלן\nCourse: מבני נתונים\nCourse Code: 67109\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-30 09:00:00+03:00\nTest End: 2025-07-30 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:12.869041</i>
+DTEND:20250730T090000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\, לוי 06\, לוי 07\, רוטברג\, קפלן
+DTSTART:20250730T060000Z
+SUMMARY:בחינה ב- מבני נתונים (67109)
+UID:2025-67109-2nd-semester-1-Written-test-68294@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80428>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, C220\, C221\, C320\nCourse: תורת המשחקים (1)\nCourse Code: 80428\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-22 14:00:00+03:00\nTest End: 2025-07-22 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:24.028774</i>
+DTEND:20250722T140000Z
+LOCATION:אודיטוריום הנדסה\, C220\, C221\, C320
+DTSTART:20250722T110000Z
+SUMMARY:בחינה ב- תורת המשחקים (1) (80428)
+UID:2025-80428-2nd-semester-1-Written-test-57914@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67611>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C220\nCourse: מבוא לתכנון פרונטאנד באמצעות ורילוג \nCourse Code: 67611\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-09 09:00:00+03:00\nTest End: 2025-07-09 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:47.980149</i>
+DTEND:20250709T090000Z
+LOCATION:C220
+DTSTART:20250709T060000Z
+SUMMARY:בחינה ב- מבוא לתכנון פרונטאנד באמצעות ורילוג  (67611)
+UID:2025-67611-2nd-semester-1-Written-test-80694@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/77313>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קפלן\, רוטברג\nCourse: משוואות של פיסיקה מתמטית\nCourse Code: 77313\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-12 14:00:00+02:00\nTest End: 2025-03-12 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:51.025619</i>
+DTEND:20250312T150000Z
+LOCATION:קפלן\, רוטברג
+DTSTART:20250312T120000Z
+SUMMARY:בחינה ב- משוואות של פיסיקה מתמטית (77313)
+UID:2025-77313-1st-semester-2-Written-test-65928@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76909>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 2004\, בניין גודמן\nCourse: למידה עצבית\nCourse Code: 76909\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-24 10:00:00+02:00\nTest End: 2025-02-24 13:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:45.019318</i>
+DTEND:20250224T110000Z
+LOCATION:2004\, בניין גודמן
+DTSTART:20250224T080000Z
+SUMMARY:בחינה ב- למידה עצבית (76909)
+UID:2025-76909-1st-semester-1-Written-test-58255@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67125>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: מבוא לתכנות מונחה עצמים\nCourse Code: 67125\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-07 09:00:00+03:00\nTest End: 2025-07-07 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:13.850400</i>
+DTEND:20250707T080000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250707T060000Z
+SUMMARY:בחינה ב- מבוא לתכנות מונחה עצמים (67125)
+UID:2025-67125-2nd-semester-1-Written-test-66002@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76628>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 115\nCourse: תכנות מתמטי ב MATLAB למדעי כדור הארץ\nCourse Code: 76628\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-06 09:00:00+03:00\nTest End: 2025-07-06 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:37.346801</i>
+DTEND:20250706T080000Z
+LOCATION:שפרינצק 115
+DTSTART:20250706T060000Z
+SUMMARY:בחינה ב- תכנות מתמטי ב MATLAB למדעי כדור הארץ (76628)
+UID:2025-76628-2nd-semester-1-Written-test-57492@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80423>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: מתמטיקה 2\, כימיה 7\nCourse: מבוא ללוגיקה\nCourse Code: 80423\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-16 09:00:00+02:00\nTest End: 2025-02-16 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:21.884188</i>
+DTEND:20250216T100000Z
+LOCATION:מתמטיקה 2\, כימיה 7
+DTSTART:20250216T070000Z
+SUMMARY:בחינה ב- מבוא ללוגיקה (80423)
+UID:2025-80423-1st-semester-1-Written-test-67202@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80200>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 101\nCourse: תורת הקבוצות\nCourse Code: 80200\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-16 14:00:00+03:00\nTest End: 2025-07-16 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:11.454693</i>
+DTEND:20250716T140000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 101
+DTSTART:20250716T110000Z
+SUMMARY:בחינה ב- תורת הקבוצות (80200)
+UID:2025-80200-2nd-semester-1-Written-test-57845@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3053>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קפלן\nCourse: תיאוריות בהתפתחות הילד והמתבגר\nCourse Code: 3053\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-17 09:00:00+02:00\nTest End: 2025-02-17 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:20:50.390432</i>
+DTEND:20250217T090000Z
+LOCATION:קפלן
+DTSTART:20250217T070000Z
+SUMMARY:בחינה ב- תיאוריות בהתפתחות הילד והמתבגר (3053)
+UID:2025-3053-1st-semester-1-Written-test-57646@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67465>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\nCourse: תכנות תחרותי\nCourse Code: 67465\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-08-01 09:00:00+03:00\nTest End: 2025-08-01 14:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:20.169940</i>
+DTEND:20250801T110000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)
+DTSTART:20250801T060000Z
+SUMMARY:בחינה ב- תכנות תחרותי (67465)
+UID:2025-67465-2nd-semester-1-Written-test-80946@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67577>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, C120\, C120 אינטל (חדר שקט)\, B100 מעבדת מחשבים\, C100 מעבדת מחשבים\nCourse: מבוא ללמידת מכונה\nCourse Code: 67577\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-15 09:00:00+03:00\nTest End: 2025-08-15 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:38.664263</i>
+DTEND:20250815T090000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, C120\, C120 אינטל (חדר שקט)\, B100 מעבדת מחשבים\, C100 מעבדת מחשבים
+DTSTART:20250815T060000Z
+SUMMARY:בחינה ב- מבוא ללמידת מכונה (67577)
+UID:2025-67577-2nd-semester-2-Written-test-67335@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80135>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 115\, שפרינצק 215\nCourse: אלגברה ליניארית (2)\nCourse Code: 80135\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-23 14:30:00+02:00\nTest End: 2025-02-23 17:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:03.161894</i>
+DTEND:20250223T153000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 115\, שפרינצק 215
+DTSTART:20250223T123000Z
+SUMMARY:בחינה ב- אלגברה ליניארית (2) (80135)
+UID:2025-80135-1st-semester-1-Written-test-75146@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80181>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, B220\, B221\nCourse: מתמטיקה דיסקרטית\nCourse Code: 80181\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-20 09:00:00+03:00\nTest End: 2025-08-20 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:10.382398</i>
+DTEND:20250820T090000Z
+LOCATION:כימיה 7\, B220\, B221
+DTSTART:20250820T060000Z
+SUMMARY:בחינה ב- מתמטיקה דיסקרטית (80181)
+UID:2025-80181-2nd-semester-2-Written-test-65634@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80599>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 115\nCourse: מושגי יסוד באלגברה קומוטטיבית וגיאומטריה אלגברית\nCourse Code: 80599\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-18 09:00:00+02:00\nTest End: 2025-03-18 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:41.637127</i>
+DTEND:20250318T100000Z
+LOCATION:שפרינצק 115
+DTSTART:20250318T070000Z
+SUMMARY:בחינה ב- מושגי יסוד באלגברה קומוטטיבית וגיאומטריה אלגברית (80599)
+UID:2025-80599-1st-semester-2-Written-test-68758@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67109>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, B221\, B220\, C220\, C221\, C320\nCourse: מבני נתונים\nCourse Code: 67109\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-21 09:00:00+03:00\nTest End: 2025-08-21 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:12.869041</i>
+DTEND:20250821T090000Z
+LOCATION:קנדה\, B221\, B220\, C220\, C221\, C320
+DTSTART:20250821T060000Z
+SUMMARY:בחינה ב- מבני נתונים (67109)
+UID:2025-67109-2nd-semester-2-Written-test-68294@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80417>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\nCourse: אנליזה פונקציונלית\nCourse Code: 80417\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-07 09:00:00+03:00\nTest End: 2025-07-07 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:17.195152</i>
+DTEND:20250707T090000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה
+DTSTART:20250707T060000Z
+SUMMARY:בחינה ב- אנליזה פונקציונלית (80417)
+UID:2025-80417-2nd-semester-1-Written-test-107009@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76915>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 2004\, בניין גודמן\nCourse: עיבוד מידע וקידוד במוח\nCourse Code: 76915\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-16 10:00:00+02:00\nTest End: 2025-02-16 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:46.008023</i>
+DTEND:20250216T100000Z
+LOCATION:2004\, בניין גודמן
+DTSTART:20250216T080000Z
+SUMMARY:בחינה ב- עיבוד מידע וקידוד במוח (76915)
+UID:2025-76915-1st-semester-1-Written-test-62053@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80428>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, C320\nCourse: תורת המשחקים (1)\nCourse Code: 80428\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-08 09:00:00+03:00\nTest End: 2025-08-08 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:24.028774</i>
+DTEND:20250808T090000Z
+LOCATION:אודיטוריום הנדסה\, C320
+DTSTART:20250808T060000Z
+SUMMARY:בחינה ב- תורת המשחקים (1) (80428)
+UID:2025-80428-2nd-semester-2-Written-test-57914@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67611>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C320\nCourse: מבוא לתכנון פרונטאנד באמצעות ורילוג \nCourse Code: 67611\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-07 09:00:00+03:00\nTest End: 2025-08-07 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:47.980149</i>
+DTEND:20250807T090000Z
+LOCATION:C320
+DTSTART:20250807T060000Z
+SUMMARY:בחינה ב- מבוא לתכנון פרונטאנד באמצעות ורילוג  (67611)
+UID:2025-67611-2nd-semester-2-Written-test-80694@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76634>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 07\, לוי 06\nCourse: פייתון למדעי כדור הארץ\nCourse Code: 76634\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-06 09:00:00+02:00\nTest End: 2025-02-06 11:15:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:41.853588</i>
+DTEND:20250206T091500Z
+LOCATION:לוי 07\, לוי 06
+DTSTART:20250206T070000Z
+SUMMARY:בחינה ב- פייתון למדעי כדור הארץ (76634)
+UID:2025-76634-1st-semester-1-Written-test-61271@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76641>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, שפרינצק 117\nCourse: תכנות פייתון ומטלאב לפיסיקאים\nCourse Code: 76641\nExam: מבחן מסכם\nSemester: שנתי\nMoed: 1\nTest Start: 2025-07-06 14:00:00+03:00\nTest End: 2025-07-06 16:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:44.021689</i>
+DTEND:20250706T130000Z
+LOCATION:פלדמן א\, פלדמן ב\, שפרינצק 117
+DTSTART:20250706T110000Z
+SUMMARY:בחינה ב- תכנות פייתון ומטלאב לפיסיקאים (76641)
+UID:2025-76641-1st-semester-+-2nd-semester-1-Written-test-57491@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76909>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 2004\, בניין גודמן\, 2002\, בניין גודמן\nCourse: למידה עצבית\nCourse Code: 76909\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-12 10:00:00+02:00\nTest End: 2025-03-12 13:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:45.019318</i>
+DTEND:20250312T110000Z
+LOCATION:2004\, בניין גודמן\, 2002\, בניין גודמן
+DTSTART:20250312T080000Z
+SUMMARY:בחינה ב- למידה עצבית (76909)
+UID:2025-76909-1st-semester-2-Written-test-58255@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67125>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: מבוא לתכנות מונחה עצמים\nCourse Code: 67125\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-06 09:00:00+03:00\nTest End: 2025-08-06 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:13.850400</i>
+DTEND:20250806T080000Z
+LOCATION:B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250806T060000Z
+SUMMARY:בחינה ב- מבוא לתכנות מונחה עצמים (67125)
+UID:2025-67125-2nd-semester-2-Written-test-66002@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67521>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, רוטברג\, קנדה\, קפלן\nCourse: מודלים חישוביים\, חישוביות וסיבוכיות \nCourse Code: 67521\nExam: מבחני אמצע \nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-05-23 10:00:00+03:00\nTest End: 2025-05-23 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:27.149456</i>
+DTEND:20250523T080000Z
+LOCATION:כימיה 7\, רוטברג\, קנדה\, קפלן
+DTSTART:20250523T070000Z
+SUMMARY:בחינה ב- מודלים חישוביים\, חישוביות וסיבוכיות  (67521)
+UID:2025-67521-2nd-semester-1-Mid-term-Exams-67502@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80423>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: סילברמן 502\, סילברמן 504\, סילברמן 506\, סילברמן 508\nCourse: מבוא ללוגיקה\nCourse Code: 80423\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-13 09:00:00+02:00\nTest End: 2025-03-13 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:21.884188</i>
+DTEND:20250313T100000Z
+LOCATION:סילברמן 502\, סילברמן 504\, סילברמן 506\, סילברמן 508
+DTSTART:20250313T070000Z
+SUMMARY:בחינה ב- מבוא ללוגיקה (80423)
+UID:2025-80423-1st-semester-2-Written-test-67202@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76628>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 27\nCourse: תכנות מתמטי ב MATLAB למדעי כדור הארץ\nCourse Code: 76628\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-07 09:00:00+03:00\nTest End: 2025-08-07 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:37.346801</i>
+DTEND:20250807T080000Z
+LOCATION:שפרינצק 27
+DTSTART:20250807T060000Z
+SUMMARY:בחינה ב- תכנות מתמטי ב MATLAB למדעי כדור הארץ (76628)
+UID:2025-76628-2nd-semester-2-Written-test-57492@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80200>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, קנדה עליון\nCourse: תורת הקבוצות\nCourse Code: 80200\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-17 09:00:00+03:00\nTest End: 2025-08-17 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:11.454693</i>
+DTEND:20250817T090000Z
+LOCATION:קנדה\, קנדה עליון
+DTSTART:20250817T060000Z
+SUMMARY:בחינה ב- תורת הקבוצות (80200)
+UID:2025-80200-2nd-semester-2-Written-test-57845@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3053>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: מתמטיקה 2\nCourse: תיאוריות בהתפתחות הילד והמתבגר\nCourse Code: 3053\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-18 09:00:00+02:00\nTest End: 2025-03-18 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:20:50.390432</i>
+DTEND:20250318T090000Z
+LOCATION:מתמטיקה 2
+DTSTART:20250318T070000Z
+SUMMARY:בחינה ב- תיאוריות בהתפתחות הילד והמתבגר (3053)
+UID:2025-3053-1st-semester-2-Written-test-57646@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80417>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן ב\, שפרינצק 115\nCourse: אנליזה פונקציונלית\nCourse Code: 80417\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-06 09:00:00+03:00\nTest End: 2025-08-06 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:17.195152</i>
+DTEND:20250806T090000Z
+LOCATION:פלדמן ב\, שפרינצק 115
+DTSTART:20250806T060000Z
+SUMMARY:בחינה ב- אנליזה פונקציונלית (80417)
+UID:2025-80417-2nd-semester-2-Written-test-107009@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67521>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: ברנדמן ב 101\, ברנדמן ב 102\, B220\, B221\, C220\, C221\, C320\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\nCourse: מודלים חישוביים\, חישוביות וסיבוכיות \nCourse Code: 67521\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-16 14:30:00+02:00\nTest End: 2025-02-16 17:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:27.149456</i>
+DTEND:20250216T153000Z
+LOCATION:ברנדמן ב 101\, ברנדמן ב 102\, B220\, B221\, C220\, C221\, C320\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון
+DTSTART:20250216T123000Z
+SUMMARY:בחינה ב- מודלים חישוביים\, חישוביות וסיבוכיות  (67521)
+UID:2025-67521-1st-semester-1-Written-test-67502@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67822>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: מבוא ללמידה עמוקה\nCourse Code: 67822\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-25 09:00:00+03:00\nTest End: 2025-07-25 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:14.461684</i>
+DTEND:20250725T080000Z
+LOCATION:C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250725T060000Z
+SUMMARY:בחינה ב- מבוא ללמידה עמוקה (67822)
+UID:2025-67822-2nd-semester-1-Written-test-77897@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80135>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: מתמטיקה 2\, כימיה 7\nCourse: אלגברה ליניארית (2)\nCourse Code: 80135\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-19 09:00:00+02:00\nTest End: 2025-03-19 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:03.161894</i>
+DTEND:20250319T100000Z
+LOCATION:מתמטיקה 2\, כימיה 7
+DTSTART:20250319T070000Z
+SUMMARY:בחינה ב- אלגברה ליניארית (2) (80135)
+UID:2025-80135-1st-semester-2-Written-test-75146@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76915>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 2004\, בניין גודמן\nCourse: עיבוד מידע וקידוד במוח\nCourse Code: 76915\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-09 10:00:00+02:00\nTest End: 2025-03-09 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:46.008023</i>
+DTEND:20250309T100000Z
+LOCATION:2004\, בניין גודמן
+DTSTART:20250309T080000Z
+SUMMARY:בחינה ב- עיבוד מידע וקידוד במוח (76915)
+UID:2025-76915-1st-semester-2-Written-test-62053@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76634>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 213\nCourse: פייתון למדעי כדור הארץ\nCourse Code: 76634\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-11 09:00:00+02:00\nTest End: 2025-03-11 11:15:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:41.853588</i>
+DTEND:20250311T091500Z
+LOCATION:שפרינצק 213
+DTSTART:20250311T070000Z
+SUMMARY:בחינה ב- פייתון למדעי כדור הארץ (76634)
+UID:2025-76634-1st-semester-2-Written-test-61271@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67925>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\, A101\, אודיטוריום הנדסה\nCourse: סדנה במערכות חישוב מ-NAND ל-TETRIS\nCourse Code: 67925\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-09 14:00:00+02:00\nTest End: 2025-02-09 16:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:26.506407</i>
+DTEND:20250209T140000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\, A101\, אודיטוריום הנדסה
+DTSTART:20250209T120000Z
+SUMMARY:בחינה ב- סדנה במערכות חישוב מ-NAND ל-TETRIS (67925)
+UID:2025-67925-1st-semester-1-Written-test-64653@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76641>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 115\, שפרינצק 116\nCourse: תכנות פייתון ומטלאב לפיסיקאים\nCourse Code: 76641\nExam: מבחן מסכם\nSemester: שנתי\nMoed: 2\nTest Start: 2025-08-10 09:00:00+03:00\nTest End: 2025-08-10 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:44.021689</i>
+DTEND:20250810T080000Z
+LOCATION:שפרינצק 115\, שפרינצק 116
+DTSTART:20250810T060000Z
+SUMMARY:בחינה ב- תכנות פייתון ומטלאב לפיסיקאים (76641)
+UID:2025-76641-1st-semester-+-2nd-semester-2-Written-test-57491@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67504>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\, ברנדמן ב 101\, ברנדמן ב 102\nCourse: אלגוריתמים\nCourse Code: 67504\nExam: מבחן חלקי ראשון\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-01-03 09:00:00+02:00\nTest End: 2025-01-03 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:22.128239</i>
+DTEND:20250103T100000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\, ברנדמן ב 101\, ברנדמן ב 102
+DTSTART:20250103T070000Z
+SUMMARY:בחינה ב- אלגוריתמים (67504)
+UID:2025-67504-1st-semester-1-First-partial-test-75007@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80116>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 06\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-10 09:00:00+03:00\nTest End: 2025-07-10 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:55.048473</i>
+DTEND:20250710T080000Z
+LOCATION:לוי 06
+DTSTART:20250710T060000Z
+SUMMARY:בחינה ב- אנליזה אלמנטרית 2 (80116)
+UID:2025-80116-2nd-semester-1-Written-test-77406@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67684>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120\nCourse: אינטראקציה 1\nCourse Code: 67684\nExam: מבחן חלקי ראשון\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2024-12-04 09:00:00+02:00\nTest End: 2024-12-04 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:01.484477</i>
+DTEND:20241204T090000Z
+LOCATION:B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120
+DTSTART:20241204T070000Z
+SUMMARY:בחינה ב- אינטראקציה 1 (67684)
+UID:2025-67684-1st-semester-1-First-partial-test-81239@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80134>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 217\, קנדה עליון\nCourse: אלגברה ליניארית (1)\nCourse Code: 80134\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-13 09:00:00+03:00\nTest End: 2025-07-13 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:01.611847</i>
+DTEND:20250713T090000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 217\, קנדה עליון
+DTSTART:20250713T060000Z
+SUMMARY:בחינה ב- אלגברה ליניארית (1) (80134)
+UID:2025-80134-2nd-semester-1-Written-test-75162@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67651>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C220\, C221\, C320\, אודיטוריום הנדסה\, B220\, B221\nCourse: מבוא לעיבוד אותות\nCourse Code: 67651\nExam: מבחני אמצע \nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-05-23 09:00:00+03:00\nTest End: 2025-05-23 10:30:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:55.893837</i>
+DTEND:20250523T073000Z
+LOCATION:C220\, C221\, C320\, אודיטוריום הנדסה\, B220\, B221
+DTSTART:20250523T060000Z
+SUMMARY:בחינה ב- מבוא לעיבוד אותות (67651)
+UID:2025-67651-2nd-semester-1-Mid-term-Exams-66891@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76629>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 07\, לוי 06\, שפרינצק 214\nCourse: תכנות מתמטי במאטלב לכימיה\nCourse Code: 76629\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-16 09:00:00+02:00\nTest End: 2025-02-16 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:38.502280</i>
+DTEND:20250216T090000Z
+LOCATION:לוי 07\, לוי 06\, שפרינצק 214
+DTSTART:20250216T070000Z
+SUMMARY:בחינה ב- תכנות מתמטי במאטלב לכימיה (76629)
+UID:2025-76629-1st-semester-1-Written-test-57632@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80420>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 24\nCourse: תורת ההסתברות (1)\nCourse Code: 80420\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-12 09:00:00+02:00\nTest End: 2025-02-12 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:19.747907</i>
+DTEND:20250212T100000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 24
+DTSTART:20250212T070000Z
+SUMMARY:בחינה ב- תורת ההסתברות (1) (80420)
+UID:2025-80420-1st-semester-1-Written-test-57865@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76641>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 215\nCourse: תכנות פייתון ומטלאב לפיסיקאים\nCourse Code: 76641\nExam: מבחן חלקי ראשון\nSemester: שנתי\nMoed: 2\nTest Start: 2025-03-06 09:00:00+02:00\nTest End: 2025-03-06 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:44.021689</i>
+DTEND:20250306T090000Z
+LOCATION:שפרינצק 215
+DTSTART:20250306T070000Z
+SUMMARY:בחינה ב- תכנות פייתון ומטלאב לפיסיקאים (76641)
+UID:2025-76641-1st-semester-+-2nd-semester-2-First-partial-test-57491@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67521>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, מתמטיקה 110\, מתמטיקה 2\, כימיה 7\nCourse: מודלים חישוביים\, חישוביות וסיבוכיות \nCourse Code: 67521\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-13 09:00:00+02:00\nTest End: 2025-03-13 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:27.149456</i>
+DTEND:20250313T100000Z
+LOCATION:אודיטוריום הנדסה\, מתמטיקה 110\, מתמטיקה 2\, כימיה 7
+DTSTART:20250313T070000Z
+SUMMARY:בחינה ב- מודלים חישוביים\, חישוביות וסיבוכיות  (67521)
+UID:2025-67521-1st-semester-2-Written-test-67502@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67822>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\nCourse: מבוא ללמידה עמוקה\nCourse Code: 67822\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-19 09:00:00+03:00\nTest End: 2025-08-19 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:14.461684</i>
+DTEND:20250819T080000Z
+LOCATION:B100 מעבדת מחשבים
+DTSTART:20250819T060000Z
+SUMMARY:בחינה ב- מבוא ללמידה עמוקה (67822)
+UID:2025-67822-2nd-semester-2-Written-test-77897@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/52006>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 115\nCourse: הסתברות לסטטיסטיקאים למדעי המחשב\nCourse Code: 52006\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-09 09:00:00+03:00\nTest End: 2025-07-09 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:02.034740</i>
+DTEND:20250709T080000Z
+LOCATION:שפרינצק 115
+DTSTART:20250709T060000Z
+SUMMARY:בחינה ב- הסתברות לסטטיסטיקאים למדעי המחשב (52006)
+UID:2025-52006-2nd-semester-1-Written-test-67001@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80131>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\, שפרינצק 115\, שפרינצק 117\nCourse: חשבון אינפיניטסימלי (1)\nCourse Code: 80131\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-21 14:00:00+03:00\nTest End: 2025-07-21 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:56.189907</i>
+DTEND:20250721T140000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\, שפרינצק 115\, שפרינצק 117
+DTSTART:20250721T110000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (1) (80131)
+UID:2025-80131-2nd-semester-1-Written-test-69840@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67925>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: סדנה במערכות חישוב מ-NAND ל-TETRIS\nCourse Code: 67925\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-07 09:00:00+02:00\nTest End: 2025-03-07 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:26.506407</i>
+DTEND:20250307T090000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250307T070000Z
+SUMMARY:בחינה ב- סדנה במערכות חישוב מ-NAND ל-TETRIS (67925)
+UID:2025-67925-1st-semester-2-Written-test-64653@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80116>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 06\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-06 09:00:00+03:00\nTest End: 2025-08-06 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:55.048473</i>
+DTEND:20250806T080000Z
+LOCATION:לוי 06
+DTSTART:20250806T060000Z
+SUMMARY:בחינה ב- אנליזה אלמנטרית 2 (80116)
+UID:2025-80116-2nd-semester-2-Written-test-77406@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80134>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, B221\, B220\, C220\, C221\nCourse: אלגברה ליניארית (1)\nCourse Code: 80134\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-10 14:00:00+03:00\nTest End: 2025-08-10 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:01.611847</i>
+DTEND:20250810T140000Z
+LOCATION:אודיטוריום הנדסה\, B221\, B220\, C220\, C221
+DTSTART:20250810T110000Z
+SUMMARY:בחינה ב- אלגברה ליניארית (1) (80134)
+UID:2025-80134-2nd-semester-2-Written-test-75162@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76629>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 215\nCourse: תכנות מתמטי במאטלב לכימיה\nCourse Code: 76629\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-13 09:00:00+02:00\nTest End: 2025-03-13 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:38.502280</i>
+DTEND:20250313T090000Z
+LOCATION:שפרינצק 215
+DTSTART:20250313T070000Z
+SUMMARY:בחינה ב- תכנות מתמטי במאטלב לכימיה (76629)
+UID:2025-76629-1st-semester-2-Written-test-57632@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/56151>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: מוות\, חופש והחיפוש אחר משמעות\, מסע קיומי בעקבות האנושי - באדם ובפוליטיקה\nCourse Code: 56151\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-29 00:00:00+03:00\nTest End: 2025-07-29 00:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:04.899071</i>
+DTEND:20250728T210000Z
+DTSTART:20250728T210000Z
+SUMMARY:בחינה ב- מוות\, חופש והחיפוש אחר משמעות\, מסע קיומי בעקבות האנושי - באדם ובפוליטיקה (56151)
+UID:2025-56151-2nd-semester-1-Written-test-66490@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67808>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C220\, C221\, C120\, A101\, אודיטוריום הנדסה\nCourse: מערכות הפעלה\nCourse Code: 67808\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-13 09:00:00+03:00\nTest End: 2025-07-13 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:12.947618</i>
+DTEND:20250713T090000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C220\, C221\, C120\, A101\, אודיטוריום הנדסה
+DTSTART:20250713T060000Z
+SUMMARY:בחינה ב- מערכות הפעלה (67808)
+UID:2025-67808-2nd-semester-1-Written-test-65146@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80420>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\nCourse: תורת ההסתברות (1)\nCourse Code: 80420\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-17 09:00:00+02:00\nTest End: 2025-03-17 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:19.747907</i>
+DTEND:20250317T100000Z
+LOCATION:כימיה 7
+DTSTART:20250317T070000Z
+SUMMARY:בחינה ב- תורת ההסתברות (1) (80420)
+UID:2025-80420-1st-semester-2-Written-test-57865@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80601>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: מושגי יסוד באנליזה ספקטרלית\nCourse Code: 80601\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-09 09:00:00+03:00\nTest End: 2025-07-09 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:43.992407</i>
+DTEND:20250709T090000Z
+DTSTART:20250709T060000Z
+SUMMARY:בחינה ב- מושגי יסוד באנליזה ספקטרלית (80601)
+UID:2025-80601-2nd-semester-1-Written-test-68709@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80155>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קפלן\, רוטברג\nCourse: חשבון אינפיניטסימלי לפיסיקאים\nCourse Code: 80155\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-17 09:00:00+03:00\nTest End: 2025-07-17 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:06.822413</i>
+DTEND:20250717T080000Z
+LOCATION:קפלן\, רוטברג
+DTSTART:20250717T060000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי לפיסיקאים (80155)
+UID:2025-80155-2nd-semester-1-Written-test-65733@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80430>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\, שפרינצק 115\, שפרינצק 117\nCourse: מבוא להסתברות ולסטטיסטיקה\nCourse Code: 80430\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-24 09:00:00+03:00\nTest End: 2025-07-24 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:25.016598</i>
+DTEND:20250724T090000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\, שפרינצק 115\, שפרינצק 117
+DTSTART:20250724T060000Z
+SUMMARY:בחינה ב- מבוא להסתברות ולסטטיסטיקה (80430)
+UID:2025-80430-2nd-semester-1-Written-test-67067@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/52006>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 115\nCourse: הסתברות לסטטיסטיקאים למדעי המחשב\nCourse Code: 52006\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-04 09:00:00+03:00\nTest End: 2025-08-04 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:02.034740</i>
+DTEND:20250804T080000Z
+LOCATION:שפרינצק 115
+DTSTART:20250804T060000Z
+SUMMARY:בחינה ב- הסתברות לסטטיסטיקאים למדעי המחשב (52006)
+UID:2025-52006-2nd-semester-2-Written-test-67001@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67392>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C220\, C221\, C320\, מתמטיקה 2\, מתמטיקה 110\, כימיה 7\nCourse: מבוא לקריפטוגרפיה \nCourse Code: 67392\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-24 14:00:00+02:00\nTest End: 2025-02-24 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:18.181206</i>
+DTEND:20250224T150000Z
+LOCATION:C220\, C221\, C320\, מתמטיקה 2\, מתמטיקה 110\, כימיה 7
+DTSTART:20250224T120000Z
+SUMMARY:בחינה ב- מבוא לקריפטוגרפיה  (67392)
+UID:2025-67392-1st-semester-1-Written-test-67528@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67577>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, C120 אינטל (חדר שקט)\, C120\nCourse: מבוא ללמידת מכונה\nCourse Code: 67577\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-21 09:00:00+02:00\nTest End: 2025-02-21 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:38.664263</i>
+DTEND:20250221T100000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, C120 אינטל (חדר שקט)\, C120
+DTSTART:20250221T070000Z
+SUMMARY:בחינה ב- מבוא ללמידת מכונה (67577)
+UID:2025-67577-1st-semester-1-Written-test-67335@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80115>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 116\nCourse: תורת המספרים האלמנטרית\nCourse Code: 80115\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-07 14:00:00+03:00\nTest End: 2025-07-07 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:54.041419</i>
+DTEND:20250707T140000Z
+LOCATION:שפרינצק 116
+DTSTART:20250707T110000Z
+SUMMARY:בחינה ב- תורת המספרים האלמנטרית (80115)
+UID:2025-80115-2nd-semester-1-Written-test-57897@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80181>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, קפלן\, רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 115\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\, אולם לוין\nCourse: מתמטיקה דיסקרטית\nCourse Code: 80181\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-17 14:00:00+02:00\nTest End: 2025-02-17 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:10.382398</i>
+DTEND:20250217T150000Z
+LOCATION:כימיה 7\, קפלן\, רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 115\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\, אולם לוין
+DTSTART:20250217T120000Z
+SUMMARY:בחינה ב- מתמטיקה דיסקרטית (80181)
+UID:2025-80181-1st-semester-1-Written-test-65634@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67109>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, C220\, C320\, קפלן\, ברנדמן ב 103\nCourse: מבני נתונים\nCourse Code: 67109\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-16 09:00:00+02:00\nTest End: 2025-02-16 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:12.869041</i>
+DTEND:20250216T100000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, C220\, C320\, קפלן\, ברנדמן ב 103
+DTSTART:20250216T070000Z
+SUMMARY:בחינה ב- מבני נתונים (67109)
+UID:2025-67109-1st-semester-1-Written-test-68294@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80131>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, קנדה עליון\, פלדמן א\nCourse: חשבון אינפיניטסימלי (1)\nCourse Code: 80131\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-14 14:00:00+03:00\nTest End: 2025-08-14 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:56.189907</i>
+DTEND:20250814T140000Z
+LOCATION:קנדה\, קנדה עליון\, פלדמן א
+DTSTART:20250814T110000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (1) (80131)
+UID:2025-80131-2nd-semester-2-Written-test-69840@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80445>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קפלן\, רוטברג\, לוי 07\nCourse: מבנים א-תורת החבורות\nCourse Code: 80445\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-20 14:00:00+03:00\nTest End: 2025-07-20 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:26.107799</i>
+DTEND:20250720T140000Z
+LOCATION:קפלן\, רוטברג\, לוי 07
+DTSTART:20250720T110000Z
+SUMMARY:בחינה ב- מבנים א-תורת החבורות (80445)
+UID:2025-80445-2nd-semester-1-Written-test-68212@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40352>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 116\, שפרינצק 117\nCourse: כמה אנשים יכול כדור הארץ להכיל?\nCourse Code: 40352\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-15 09:00:00+03:00\nTest End: 2025-07-15 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:20:58.037029</i>
+DTEND:20250715T080000Z
+LOCATION:שפרינצק 116\, שפרינצק 117
+DTSTART:20250715T060000Z
+SUMMARY:בחינה ב- כמה אנשים יכול כדור הארץ להכיל? (40352)
+UID:2025-40352-2nd-semester-1-Written-test-67174@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67315>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\, A101\nCourse: סי וסי++ לאלגוריתמיקה מעשית\nCourse Code: 67315\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-06 14:00:00+03:00\nTest End: 2025-07-06 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:17.088734</i>
+DTEND:20250706T140000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\, A101
+DTSTART:20250706T110000Z
+SUMMARY:בחינה ב- סי וסי++ לאלגוריתמיקה מעשית (67315)
+UID:2025-67315-2nd-semester-1-Written-test-63770@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67504>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, C220\, C221\, C320\, B220\, B221\nCourse: אלגוריתמים\nCourse Code: 67504\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-31 09:00:00+03:00\nTest End: 2025-07-31 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:22.128239</i>
+DTEND:20250731T090000Z
+LOCATION:אודיטוריום הנדסה\, C220\, C221\, C320\, B220\, B221
+DTSTART:20250731T060000Z
+SUMMARY:בחינה ב- אלגוריתמים (67504)
+UID:2025-67504-2nd-semester-1-Written-test-75007@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80132>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: מתמטיקה 2\, מתמטיקה 110\, כימיה 7\, קפלן\, רוטברג\, קנדה\, לוי 07\, שפרינצק 214\, שפרינצק 215\, שפרינצק 217\, לוי 06\, שפרינצק 213\, שפרינצק 102\, שפרינצק 201\, שפרינצק 202\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-21 09:00:00+03:00\nTest End: 2025-07-21 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:57.397787</i>
+DTEND:20250721T090000Z
+LOCATION:מתמטיקה 2\, מתמטיקה 110\, כימיה 7\, קפלן\, רוטברג\, קנדה\, לוי 07\, שפרינצק 214\, שפרינצק 215\, שפרינצק 217\, לוי 06\, שפרינצק 213\, שפרינצק 102\, שפרינצק 201\, שפרינצק 202
+DTSTART:20250721T060000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (2) (80132)
+UID:2025-80132-2nd-semester-1-Written-test-69742@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/56151>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: מוות\, חופש והחיפוש אחר משמעות\, מסע קיומי בעקבות האנושי - באדם ובפוליטיקה\nCourse Code: 56151\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-21 00:00:00+03:00\nTest End: 2025-08-21 00:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:04.899071</i>
+DTEND:20250820T210000Z
+DTSTART:20250820T210000Z
+SUMMARY:בחינה ב- מוות\, חופש והחיפוש אחר משמעות\, מסע קיומי בעקבות האנושי - באדם ובפוליטיקה (56151)
+UID:2025-56151-2nd-semester-2-Written-test-66490@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67808>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: מערכות הפעלה\nCourse Code: 67808\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-08 09:00:00+03:00\nTest End: 2025-08-08 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:12.947618</i>
+DTEND:20250808T090000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250808T060000Z
+SUMMARY:בחינה ב- מערכות הפעלה (67808)
+UID:2025-67808-2nd-semester-2-Written-test-65146@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67125>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C220\, C221\, C320\, C120\, A101\nCourse: מבוא לתכנות מונחה עצמים\nCourse Code: 67125\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-05 09:00:00+02:00\nTest End: 2025-02-05 11:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:13.850400</i>
+DTEND:20250205T093000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C220\, C221\, C320\, C120\, A101
+DTSTART:20250205T070000Z
+SUMMARY:בחינה ב- מבוא לתכנות מונחה עצמים (67125)
+UID:2025-67125-1st-semester-1-Written-test-66002@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80601>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: מושגי יסוד באנליזה ספקטרלית\nCourse Code: 80601\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-05 09:00:00+03:00\nTest End: 2025-08-05 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:43.992407</i>
+DTEND:20250805T090000Z
+DTSTART:20250805T060000Z
+SUMMARY:בחינה ב- מושגי יסוד באנליזה ספקטרלית (80601)
+UID:2025-80601-2nd-semester-2-Written-test-68709@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80155>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קפלן\nCourse: חשבון אינפיניטסימלי לפיסיקאים\nCourse Code: 80155\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-12 09:00:00+03:00\nTest End: 2025-08-12 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:06.822413</i>
+DTEND:20250812T080000Z
+LOCATION:קפלן
+DTSTART:20250812T060000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי לפיסיקאים (80155)
+UID:2025-80155-2nd-semester-2-Written-test-65733@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80430>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קפלן\, כימיה 7\, מתמטיקה 110\nCourse: מבוא להסתברות ולסטטיסטיקה\nCourse Code: 80430\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-17 09:00:00+03:00\nTest End: 2025-08-17 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:25.016598</i>
+DTEND:20250817T090000Z
+LOCATION:קפלן\, כימיה 7\, מתמטיקה 110
+DTSTART:20250817T060000Z
+SUMMARY:בחינה ב- מבוא להסתברות ולסטטיסטיקה (80430)
+UID:2025-80430-2nd-semester-2-Written-test-67067@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80600>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: רוטברג\nCourse: מושגי יסוד באנליזה פונקציונלית\nCourse Code: 80600\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-12 09:00:00+02:00\nTest End: 2025-02-12 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:42.925821</i>
+DTEND:20250212T100000Z
+LOCATION:רוטברג
+DTSTART:20250212T070000Z
+SUMMARY:בחינה ב- מושגי יסוד באנליזה פונקציונלית (80600)
+UID:2025-80600-1st-semester-1-Written-test-68666@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67315>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A120 אינטל\, A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120\, A101\nCourse: סי וסי++ לאלגוריתמיקה מעשית\nCourse Code: 67315\nExam: מבחן חלקי ראשון\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-05-18 08:30:00+03:00\nTest End: 2025-05-18 10:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:17.088734</i>
+DTEND:20250518T070000Z
+LOCATION:A120 אינטל\, A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120\, A101
+DTSTART:20250518T053000Z
+SUMMARY:בחינה ב- סי וסי++ לאלגוריתמיקה מעשית (67315)
+UID:2025-67315-2nd-semester-1-First-partial-test-63770@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67392>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\nCourse: מבוא לקריפטוגרפיה \nCourse Code: 67392\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-19 14:00:00+02:00\nTest End: 2025-03-19 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:18.181206</i>
+DTEND:20250319T150000Z
+LOCATION:כימיה 7
+DTSTART:20250319T120000Z
+SUMMARY:בחינה ב- מבוא לקריפטוגרפיה  (67392)
+UID:2025-67392-1st-semester-2-Written-test-67528@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67577>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\nCourse: מבוא ללמידת מכונה\nCourse Code: 67577\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-23 16:00:00+02:00\nTest End: 2025-03-23 19:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:38.664263</i>
+DTEND:20250323T170000Z
+LOCATION:C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים
+DTSTART:20250323T140000Z
+SUMMARY:בחינה ב- מבוא ללמידת מכונה (67577)
+UID:2025-67577-1st-semester-2-Written-test-67335@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80115>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: תורת המספרים האלמנטרית\nCourse Code: 80115\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-22 09:00:00+03:00\nTest End: 2025-08-22 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:54.041419</i>
+DTEND:20250822T090000Z
+DTSTART:20250822T060000Z
+SUMMARY:בחינה ב- תורת המספרים האלמנטרית (80115)
+UID:2025-80115-2nd-semester-2-Written-test-57897@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80181>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 06\, לוי 07\, אולם לוין\, רוטברג\, שפרינצק 214\, שפרינצק 217\, פלדמן א\, פלדמן ב\, קפלן\, שפרינצק 117\, שפרינצק 29\nCourse: מתמטיקה דיסקרטית\nCourse Code: 80181\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-13 09:00:00+02:00\nTest End: 2025-03-13 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:10.382398</i>
+DTEND:20250313T100000Z
+LOCATION:לוי 06\, לוי 07\, אולם לוין\, רוטברג\, שפרינצק 214\, שפרינצק 217\, פלדמן א\, פלדמן ב\, קפלן\, שפרינצק 117\, שפרינצק 29
+DTSTART:20250313T070000Z
+SUMMARY:בחינה ב- מתמטיקה דיסקרטית (80181)
+UID:2025-80181-1st-semester-2-Written-test-65634@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67109>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, אודיטוריום הנדסה\, C320\nCourse: מבני נתונים\nCourse Code: 67109\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-12 09:00:00+02:00\nTest End: 2025-03-12 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:12.869041</i>
+DTEND:20250312T100000Z
+LOCATION:קנדה\, אודיטוריום הנדסה\, C320
+DTSTART:20250312T070000Z
+SUMMARY:בחינה ב- מבני נתונים (67109)
+UID:2025-67109-1st-semester-2-Written-test-68294@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80445>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\nCourse: מבנים א-תורת החבורות\nCourse Code: 80445\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-10 14:00:00+03:00\nTest End: 2025-08-10 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:26.107799</i>
+DTEND:20250810T140000Z
+LOCATION:כימיה 7
+DTSTART:20250810T110000Z
+SUMMARY:בחינה ב- מבנים א-תורת החבורות (80445)
+UID:2025-80445-2nd-semester-2-Written-test-68212@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80519>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 214\, קפלן\, שפרינצק 213\nCourse: פונקציות מרוכבות\nCourse Code: 80519\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-21 09:00:00+02:00\nTest End: 2025-02-21 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:31.162117</i>
+DTEND:20250221T100000Z
+LOCATION:שפרינצק 214\, קפלן\, שפרינצק 213
+DTSTART:20250221T070000Z
+SUMMARY:בחינה ב- פונקציות מרוכבות (80519)
+UID:2025-80519-1st-semester-1-Written-test-61166@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40352>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 117\nCourse: כמה אנשים יכול כדור הארץ להכיל?\nCourse Code: 40352\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-14 09:00:00+03:00\nTest End: 2025-08-14 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:20:58.037029</i>
+DTEND:20250814T080000Z
+LOCATION:שפרינצק 117
+DTSTART:20250814T060000Z
+SUMMARY:בחינה ב- כמה אנשים יכול כדור הארץ להכיל? (40352)
+UID:2025-40352-2nd-semester-2-Written-test-67174@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67315>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: סי וסי++ לאלגוריתמיקה מעשית\nCourse Code: 67315\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-05 14:00:00+03:00\nTest End: 2025-08-05 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:17.088734</i>
+DTEND:20250805T140000Z
+LOCATION:B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250805T110000Z
+SUMMARY:בחינה ב- סי וסי++ לאלגוריתמיקה מעשית (67315)
+UID:2025-67315-2nd-semester-2-Written-test-63770@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67658>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, קנדה עליון\, C220\, C221\, C320\, מתמטיקה 2\, מתמטיקה 110\nCourse: עיבוד שפה טבעית\nCourse Code: 67658\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-11 09:00:00+02:00\nTest End: 2025-02-11 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:57.227818</i>
+DTEND:20250211T090000Z
+LOCATION:קנדה\, קנדה עליון\, C220\, C221\, C320\, מתמטיקה 2\, מתמטיקה 110
+DTSTART:20250211T070000Z
+SUMMARY:בחינה ב- עיבוד שפה טבעית (67658)
+UID:2025-67658-1st-semester-1-Written-test-61865@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3007>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כתת מחשב 16\, כתת מחשב 17\, חווה חדר 1\, חווה חדר 2\, חווה חדר 3\, חווה חדר 4\, חווה שטח פתוח עליון 5\, מחשב 305\, מחשב 306\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\nCourse: שימוש לטוב/שימוש לרעה בסמים\, התמכרויות וטיפול\nCourse Code: 3007\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-14 09:00:00+03:00\nTest End: 2025-07-14 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:20:49.367380</i>
+DTEND:20250714T080000Z
+LOCATION:כתת מחשב 16\, כתת מחשב 17\, חווה חדר 1\, חווה חדר 2\, חווה חדר 3\, חווה חדר 4\, חווה שטח פתוח עליון 5\, מחשב 305\, מחשב 306\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח
+DTSTART:20250714T060000Z
+SUMMARY:בחינה ב- שימוש לטוב/שימוש לרעה בסמים\, התמכרויות וטיפול (3007)
+UID:2025-3007-2nd-semester-1-Written-test-58657@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67200>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B220\, B221\, C220\, C221\, כימיה 7\, פלדמן א\, פלדמן ב\, קפלן\nCourse: מבנה המחשב\nCourse Code: 67200\nExam: מבחני אמצע \nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-05-09 09:00:00+03:00\nTest End: 2025-05-09 09:50:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:14.969015</i>
+DTEND:20250509T065000Z
+LOCATION:B220\, B221\, C220\, C221\, כימיה 7\, פלדמן א\, פלדמן ב\, קפלן
+DTSTART:20250509T060000Z
+SUMMARY:בחינה ב- מבנה המחשב (67200)
+UID:2025-67200-2nd-semester-1-Mid-term-Exams-68451@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67564>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\nCourse: למידה חישובית בייזיאנית\nCourse Code: 67564\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-09 09:00:00+02:00\nTest End: 2025-02-09 10:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:37.697328</i>
+DTEND:20250209T080000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים
+DTSTART:20250209T070000Z
+SUMMARY:בחינה ב- למידה חישובית בייזיאנית (67564)
+UID:2025-67564-1st-semester-1-Written-test-77477@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80111>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C220\nCourse: אנליזה אלמנטרית 1\nCourse Code: 80111\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-08 09:00:00+03:00\nTest End: 2025-07-08 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:52.006457</i>
+DTEND:20250708T080000Z
+LOCATION:C220
+DTSTART:20250708T060000Z
+SUMMARY:בחינה ב- אנליזה אלמנטרית 1 (80111)
+UID:2025-80111-2nd-semester-1-Written-test-91753@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67504>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, מתמטיקה 2\nCourse: אלגוריתמים\nCourse Code: 67504\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-22 09:00:00+03:00\nTest End: 2025-08-22 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:22.128239</i>
+DTEND:20250822T090000Z
+LOCATION:כימיה 7\, מתמטיקה 2
+DTSTART:20250822T060000Z
+SUMMARY:בחינה ב- אלגוריתמים (67504)
+UID:2025-67504-2nd-semester-2-Written-test-75007@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80132>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן ב\, קנדה\, קנדה עליון\, C220\, C221\, C320\, לוי 06\, לוי 07\, קפלן\, רוטברג\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-14 09:00:00+03:00\nTest End: 2025-08-14 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:57.397787</i>
+DTEND:20250814T090000Z
+LOCATION:פלדמן ב\, קנדה\, קנדה עליון\, C220\, C221\, C320\, לוי 06\, לוי 07\, קפלן\, רוטברג
+DTSTART:20250814T060000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (2) (80132)
+UID:2025-80132-2nd-semester-2-Written-test-69742@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67125>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120\, C120 אינטל (חדר שקט)\nCourse: מבוא לתכנות מונחה עצמים\nCourse Code: 67125\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-02 14:00:00+02:00\nTest End: 2025-03-02 16:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:13.850400</i>
+DTEND:20250302T143000Z
+LOCATION:B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120\, C120 אינטל (חדר שקט)
+DTSTART:20250302T120000Z
+SUMMARY:בחינה ב- מבוא לתכנות מונחה עצמים (67125)
+UID:2025-67125-1st-semester-2-Written-test-66002@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67521>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 215\nCourse: מודלים חישוביים\, חישוביות וסיבוכיות \nCourse Code: 67521\nExam: מבחני אמצע \nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-02-14 09:00:00+02:00\nTest End: 2025-02-14 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:27.149456</i>
+DTEND:20250214T100000Z
+LOCATION:שפרינצק 215
+DTSTART:20250214T070000Z
+SUMMARY:בחינה ב- מודלים חישוביים\, חישוביות וסיבוכיות  (67521)
+UID:2025-67521-1st-semester-2-Mid-term-Exams-67502@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67651>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\nCourse: מבוא לעיבוד אותות\nCourse Code: 67651\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-14 09:00:00+03:00\nTest End: 2025-07-14 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:55.893837</i>
+DTEND:20250714T090000Z
+LOCATION:אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320
+DTSTART:20250714T060000Z
+SUMMARY:בחינה ב- מבוא לעיבוד אותות (67651)
+UID:2025-67651-2nd-semester-1-Written-test-66891@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80598>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 07\nCourse: מושגי יסוד בתורת ההצגות\nCourse Code: 80598\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-15 09:00:00+03:00\nTest End: 2025-07-15 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:40.438458</i>
+DTEND:20250715T090000Z
+LOCATION:לוי 07
+DTSTART:20250715T060000Z
+SUMMARY:בחינה ב- מושגי יסוד בתורת ההצגות (80598)
+UID:2025-80598-2nd-semester-1-Written-test-68216@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-28 09:00:00+03:00\nTest End: 2025-07-28 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:15.002804</i>
+DTEND:20250728T090000Z
+LOCATION:אודיטוריום הנדסה
+DTSTART:20250728T060000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
+UID:2025-80415-2nd-semester-1-Written-test-77161@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67506>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C220\, C221\, C120\, A101\nCourse: מסדי נתונים\nCourse Code: 67506\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-07 14:00:00+03:00\nTest End: 2025-07-07 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:23.113174</i>
+DTEND:20250707T140000Z
+LOCATION:אודיטוריום הנדסה\, A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C220\, C221\, C120\, A101
+DTSTART:20250707T110000Z
+SUMMARY:בחינה ב- מסדי נתונים (67506)
+UID:2025-67506-2nd-semester-1-Written-test-65769@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76921>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, A100 (מייקרוסופט) (חדר שקט)\nCourse: ראיה אנושית: גישה חישובית\nCourse Code: 76921\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-22 10:00:00+03:00\nTest End: 2025-07-22 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:48.077154</i>
+DTEND:20250722T090000Z
+LOCATION:B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, A100 (מייקרוסופט) (חדר שקט)
+DTSTART:20250722T070000Z
+SUMMARY:בחינה ב- ראיה אנושית: גישה חישובית (76921)
+UID:2025-76921-2nd-semester-1-Written-test-59253@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80600>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 06\nCourse: מושגי יסוד באנליזה פונקציונלית\nCourse Code: 80600\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-11 09:00:00+02:00\nTest End: 2025-03-11 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:42.925821</i>
+DTEND:20250311T100000Z
+LOCATION:לוי 06
+DTSTART:20250311T070000Z
+SUMMARY:בחינה ב- מושגי יסוד באנליזה פונקציונלית (80600)
+UID:2025-80600-1st-semester-2-Written-test-68666@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80519>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 06\, לוי 07\nCourse: פונקציות מרוכבות\nCourse Code: 80519\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-19 14:00:00+02:00\nTest End: 2025-03-19 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:31.162117</i>
+DTEND:20250319T150000Z
+LOCATION:לוי 06\, לוי 07
+DTSTART:20250319T120000Z
+SUMMARY:בחינה ב- פונקציות מרוכבות (80519)
+UID:2025-80519-1st-semester-2-Written-test-61166@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67658>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, מתמטיקה 110\nCourse: עיבוד שפה טבעית\nCourse Code: 67658\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-11 09:00:00+02:00\nTest End: 2025-03-11 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:57.227818</i>
+DTEND:20250311T090000Z
+LOCATION:כימיה 7\, מתמטיקה 110
+DTSTART:20250311T070000Z
+SUMMARY:בחינה ב- עיבוד שפה טבעית (67658)
+UID:2025-67658-1st-semester-2-Written-test-61865@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76631>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 25\nCourse: תכנות בסיסי בפייתון \nCourse Code: 76631\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-06 09:00:00+02:00\nTest End: 2025-02-06 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:39.666237</i>
+DTEND:20250206T090000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 25
+DTSTART:20250206T070000Z
+SUMMARY:בחינה ב- תכנות בסיסי בפייתון  (76631)
+UID:2025-76631-1st-semester-1-Written-test-57504@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3007>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כתת מחשב 16\, כיתה 8- חוות חברה\, B100 מעבדת מחשבים\, אולם ט - כיתת מחשבים\nCourse: שימוש לטוב/שימוש לרעה בסמים\, התמכרויות וטיפול\nCourse Code: 3007\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-10 09:00:00+03:00\nTest End: 2025-08-10 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:20:49.367380</i>
+DTEND:20250810T080000Z
+LOCATION:כתת מחשב 16\, כיתה 8- חוות חברה\, B100 מעבדת מחשבים\, אולם ט - כיתת מחשבים
+DTSTART:20250810T060000Z
+SUMMARY:בחינה ב- שימוש לטוב/שימוש לרעה בסמים\, התמכרויות וטיפול (3007)
+UID:2025-3007-2nd-semester-2-Written-test-58657@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80111>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 28\nCourse: אנליזה אלמנטרית 1\nCourse Code: 80111\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-22 09:00:00+03:00\nTest End: 2025-08-22 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:52.006457</i>
+DTEND:20250822T080000Z
+LOCATION:שפרינצק 28
+DTSTART:20250822T060000Z
+SUMMARY:בחינה ב- אנליזה אלמנטרית 1 (80111)
+UID:2025-80111-2nd-semester-2-Written-test-91753@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67564>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C120 אינטל (חדר שקט)\, C120\nCourse: למידה חישובית בייזיאנית\nCourse Code: 67564\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-17 09:00:00+02:00\nTest End: 2025-03-17 10:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:37.697328</i>
+DTEND:20250317T080000Z
+LOCATION:C120 אינטל (חדר שקט)\, C120
+DTSTART:20250317T070000Z
+SUMMARY:בחינה ב- למידה חישובית בייזיאנית (67564)
+UID:2025-67564-1st-semester-2-Written-test-77477@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80116>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: ברנדמן ב 101\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-04 09:00:00+02:00\nTest End: 2025-02-04 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:55.048473</i>
+DTEND:20250204T090000Z
+LOCATION:ברנדמן ב 101
+DTSTART:20250204T070000Z
+SUMMARY:בחינה ב- אנליזה אלמנטרית 2 (80116)
+UID:2025-80116-1st-semester-1-Written-test-77406@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67651>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: מתמטיקה 2\, מתמטיקה 110\, כימיה 7\nCourse: מבוא לעיבוד אותות\nCourse Code: 67651\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-10 09:00:00+03:00\nTest End: 2025-08-10 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:55.893837</i>
+DTEND:20250810T090000Z
+LOCATION:מתמטיקה 2\, מתמטיקה 110\, כימיה 7
+DTSTART:20250810T060000Z
+SUMMARY:בחינה ב- מבוא לעיבוד אותות (67651)
+UID:2025-67651-2nd-semester-2-Written-test-66891@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/62351>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\nCourse: בין חרדיות לישראליות\nCourse Code: 62351\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-09 14:30:00+02:00\nTest End: 2025-02-09 16:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:08.876957</i>
+DTEND:20250209T143000Z
+LOCATION:כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח
+DTSTART:20250209T123000Z
+SUMMARY:בחינה ב- בין חרדיות לישראליות (62351)
+UID:2025-62351-1st-semester-1-Written-test-59992@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80134>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: רוטברג\, קנדה\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\, שפרינצק 28\, כימיה 7\, אולם לוין\, שפרינצק 115\, שפרינצק 215\nCourse: אלגברה ליניארית (1)\nCourse Code: 80134\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-23 09:00:00+02:00\nTest End: 2025-02-23 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:01.611847</i>
+DTEND:20250223T100000Z
+LOCATION:רוטברג\, קנדה\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\, שפרינצק 28\, כימיה 7\, אולם לוין\, שפרינצק 115\, שפרינצק 215
+DTSTART:20250223T070000Z
+SUMMARY:בחינה ב- אלגברה ליניארית (1) (80134)
+UID:2025-80134-1st-semester-1-Written-test-75162@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76637>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 07\nCourse: תכנות בשפת פייתון\nCourse Code: 76637\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-13 09:00:00+03:00\nTest End: 2025-07-13 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:42.942811</i>
+DTEND:20250713T080000Z
+LOCATION:לוי 07
+DTSTART:20250713T060000Z
+SUMMARY:בחינה ב- תכנות בשפת פייתון (76637)
+UID:2025-76637-2nd-semester-1-Written-test-57515@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67829>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, אודיטוריום הנדסה\, C220\nCourse: עיבוד ספרתי של תמונות\nCourse Code: 67829\nExam: מבחן חלקי ראשון\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-01-05 18:00:00+02:00\nTest End: 2025-01-05 20:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:17.149806</i>
+DTEND:20250105T180000Z
+LOCATION:קנדה\, אודיטוריום הנדסה\, C220
+DTSTART:20250105T160000Z
+SUMMARY:בחינה ב- עיבוד ספרתי של תמונות (67829)
+UID:2025-67829-1st-semester-1-First-partial-test-61860@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80598>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 217\nCourse: מושגי יסוד בתורת ההצגות\nCourse Code: 80598\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-10 09:00:00+03:00\nTest End: 2025-08-10 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:40.438458</i>
+DTEND:20250810T090000Z
+LOCATION:שפרינצק 217
+DTSTART:20250810T060000Z
+SUMMARY:בחינה ב- מושגי יסוד בתורת ההצגות (80598)
+UID:2025-80598-2nd-semester-2-Written-test-68216@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C220\, C221\nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-20 09:00:00+03:00\nTest End: 2025-08-20 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:15.002804</i>
+DTEND:20250820T090000Z
+LOCATION:C220\, C221
+DTSTART:20250820T060000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
+UID:2025-80415-2nd-semester-2-Written-test-77161@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67506>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: מסדי נתונים\nCourse Code: 67506\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-04 09:00:00+03:00\nTest End: 2025-08-04 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:23.113174</i>
+DTEND:20250804T090000Z
+LOCATION:B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250804T060000Z
+SUMMARY:בחינה ב- מסדי נתונים (67506)
+UID:2025-67506-2nd-semester-2-Written-test-65769@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67200>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\nCourse: מבנה המחשב\nCourse Code: 67200\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-08 14:00:00+03:00\nTest End: 2025-07-08 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:14.969015</i>
+DTEND:20250708T140000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320
+DTSTART:20250708T110000Z
+SUMMARY:בחינה ב- מבנה המחשב (67200)
+UID:2025-67200-2nd-semester-1-Written-test-68451@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76631>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103\nCourse: תכנות בסיסי בפייתון \nCourse Code: 76631\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-07 09:00:00+02:00\nTest End: 2025-03-07 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:39.666237</i>
+DTEND:20250307T090000Z
+LOCATION:ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103
+DTSTART:20250307T070000Z
+SUMMARY:בחינה ב- תכנות בסיסי בפייתון  (76631)
+UID:2025-76631-1st-semester-2-Written-test-57504@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80131>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה עליון\, ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103\, B220\, B221\, C220\, C221\, C320\, אודיטוריום הנדסה\, כימיה 7\, מתמטיקה 110\, מתמטיקה 2\, פלדמן א\, פלדמן ב\, קנדה\, קפלן\, שפרינצק 215\nCourse: חשבון אינפיניטסימלי (1)\nCourse Code: 80131\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-11 14:30:00+02:00\nTest End: 2025-02-11 17:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:56.189907</i>
+DTEND:20250211T153000Z
+LOCATION:קנדה עליון\, ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103\, B220\, B221\, C220\, C221\, C320\, אודיטוריום הנדסה\, כימיה 7\, מתמטיקה 110\, מתמטיקה 2\, פלדמן א\, פלדמן ב\, קנדה\, קפלן\, שפרינצק 215
+DTSTART:20250211T123000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (1) (80131)
+UID:2025-80131-1st-semester-1-Written-test-69840@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80116>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 117\nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-09 09:00:00+02:00\nTest End: 2025-03-09 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:55.048473</i>
+DTEND:20250309T090000Z
+LOCATION:שפרינצק 117
+DTSTART:20250309T070000Z
+SUMMARY:בחינה ב- אנליזה אלמנטרית 2 (80116)
+UID:2025-80116-1st-semester-2-Written-test-77406@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80517>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, קנדה עליון\nCourse: תורת המידה\nCourse Code: 80517\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-10 09:00:00+02:00\nTest End: 2025-02-10 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:30.133706</i>
+DTEND:20250210T090000Z
+LOCATION:קנדה\, קנדה עליון
+DTSTART:20250210T070000Z
+SUMMARY:בחינה ב- תורת המידה (80517)
+UID:2025-80517-1st-semester-1-Written-test-57838@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67731>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\nCourse: אופטימיזציה קמורה ושימושים\nCourse Code: 67731\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-18 09:00:00+02:00\nTest End: 2025-02-18 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:09.474470</i>
+DTEND:20250218T100000Z
+LOCATION:אודיטוריום הנדסה
+DTSTART:20250218T070000Z
+SUMMARY:בחינה ב- אופטימיזציה קמורה ושימושים (67731)
+UID:2025-67731-1st-semester-1-Written-test-75859@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67398>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: דיני סייבר\nCourse Code: 67398\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-20 09:00:00+02:00\nTest End: 2025-02-20 10:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:19.203942</i>
+DTEND:20250220T080000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250220T070000Z
+SUMMARY:בחינה ב- דיני סייבר (67398)
+UID:2025-67398-1st-semester-1-Written-test-72361@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67829>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, אודיטוריום הנדסה\, C220\nCourse: עיבוד ספרתי של תמונות\nCourse Code: 67829\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2024-12-01 18:00:00+02:00\nTest End: 2024-12-01 20:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:17.149806</i>
+DTEND:20241201T180000Z
+LOCATION:קנדה\, אודיטוריום הנדסה\, C220
+DTSTART:20241201T160000Z
+SUMMARY:בחינה ב- עיבוד ספרתי של תמונות (67829)
+UID:2025-67829-1st-semester-1-Written-test-61860@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/62351>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שטח פתוח -חוות חברה\nCourse: בין חרדיות לישראליות\nCourse Code: 62351\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-02-26 14:30:00+02:00\nTest End: 2025-02-26 16:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:08.876957</i>
+DTEND:20250226T143000Z
+LOCATION:שטח פתוח -חוות חברה
+DTSTART:20250226T123000Z
+SUMMARY:בחינה ב- בין חרדיות לישראליות (62351)
+UID:2025-62351-1st-semester-2-Written-test-59992@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80134>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, קנדה עליון\, ברנדמן ב 102\, ברנדמן ב 101\, ברנדמן ב 103\, קפלן\, אודיטוריום הנדסה\, B220\, B221\nCourse: אלגברה ליניארית (1)\nCourse Code: 80134\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-19 09:00:00+02:00\nTest End: 2025-03-19 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:01.611847</i>
+DTEND:20250319T100000Z
+LOCATION:קנדה\, קנדה עליון\, ברנדמן ב 102\, ברנדמן ב 101\, ברנדמן ב 103\, קפלן\, אודיטוריום הנדסה\, B220\, B221
+DTSTART:20250319T070000Z
+SUMMARY:בחינה ב- אלגברה ליניארית (1) (80134)
+UID:2025-80134-1st-semester-2-Written-test-75162@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76637>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 117\nCourse: תכנות בשפת פייתון\nCourse Code: 76637\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-22 09:00:00+03:00\nTest End: 2025-08-22 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:42.942811</i>
+DTEND:20250822T080000Z
+LOCATION:שפרינצק 117
+DTSTART:20250822T060000Z
+SUMMARY:בחינה ב- תכנות בשפת פייתון (76637)
+UID:2025-76637-2nd-semester-2-Written-test-57515@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67978>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: ברנדמן ב 101\, מתמטיקה 2\, קפלן\, ברנדמן ב 103\nCourse: מחט בערימת דאטה: מבוא למדע המידע\nCourse Code: 67978\nExam: מבחני אמצע \nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-05-27 11:00:00+03:00\nTest End: 2025-05-27 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:32.074944</i>
+DTEND:20250527T090000Z
+LOCATION:ברנדמן ב 101\, מתמטיקה 2\, קפלן\, ברנדמן ב 103
+DTSTART:20250527T080000Z
+SUMMARY:בחינה ב- מחט בערימת דאטה: מבוא למדע המידע (67978)
+UID:2025-67978-2nd-semester-1-Mid-term-Exams-67127@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80516>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: סילברמן 502\, סילברמן 506\, סילברמן 508\, סילברמן ראשל\nCourse: מבוא לטופולוגיה\nCourse Code: 80516\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-13 09:00:00+03:00\nTest End: 2025-07-13 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:29.142850</i>
+DTEND:20250713T090000Z
+LOCATION:סילברמן 502\, סילברמן 506\, סילברמן 508\, סילברמן ראשל
+DTSTART:20250713T060000Z
+SUMMARY:בחינה ב- מבוא לטופולוגיה (80516)
+UID:2025-80516-2nd-semester-1-Written-test-68440@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80779>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\nCourse: תורת הקטגוריות \nCourse Code: 80779\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-24 14:00:00+03:00\nTest End: 2025-07-24 16:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:57.768185</i>
+DTEND:20250724T130000Z
+LOCATION:פלדמן א
+DTSTART:20250724T110000Z
+SUMMARY:בחינה ב- תורת הקטגוריות  (80779)
+UID:2025-80779-2nd-semester-1-Written-test-57843@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67829>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, אודיטוריום הנדסה\, C221\nCourse: עיבוד ספרתי של תמונות\nCourse Code: 67829\nExam: מבחן חלקי שני\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-02 18:00:00+02:00\nTest End: 2025-02-02 20:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:17.149806</i>
+DTEND:20250202T180000Z
+LOCATION:קנדה\, אודיטוריום הנדסה\, C221
+DTSTART:20250202T160000Z
+SUMMARY:בחינה ב- עיבוד ספרתי של תמונות (67829)
+UID:2025-67829-1st-semester-1-Second-partial-test-61860@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/76641>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, שפרינצק 215\, שפרינצק 217\nCourse: תכנות פייתון ומטלאב לפיסיקאים\nCourse Code: 76641\nExam: מבחן חלקי ראשון\nSemester: שנתי\nMoed: 1\nTest Start: 2025-02-04 09:00:00+02:00\nTest End: 2025-02-04 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:44.021689</i>
+DTEND:20250204T090000Z
+LOCATION:קנדה\, שפרינצק 215\, שפרינצק 217
+DTSTART:20250204T070000Z
+SUMMARY:בחינה ב- תכנות פייתון ומטלאב לפיסיקאים (76641)
+UID:2025-76641-1st-semester-+-2nd-semester-1-First-partial-test-57491@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80135>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, קפלן\, רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, אודיטוריום הנדסה\, C220\, C221\, C320\nCourse: אלגברה ליניארית (2)\nCourse Code: 80135\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-13 14:00:00+03:00\nTest End: 2025-07-13 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:03.161894</i>
+DTEND:20250713T140000Z
+LOCATION:כימיה 7\, קפלן\, רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, אודיטוריום הנדסה\, C220\, C221\, C320
+DTSTART:20250713T110000Z
+SUMMARY:בחינה ב- אלגברה ליניארית (2) (80135)
+UID:2025-80135-2nd-semester-1-Written-test-75146@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80158>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 27\nCourse: חשבון אינפיניטסימלי מואץ 1\nCourse Code: 80158\nExam: מבחן מסכם\nSemester: שנתי\nMoed: 1\nTest Start: 2025-07-21 09:00:00+03:00\nTest End: 2025-07-21 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:08.228910</i>
+DTEND:20250721T090000Z
+LOCATION:שפרינצק 27
+DTSTART:20250721T060000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי מואץ 1 (80158)
+UID:2025-80158-1st-semester-+-2nd-semester-1-Written-test-109411@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80430>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: מתמטיקה 2\, כימיה 7\, קפלן\, רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 115\, שפרינצק 215\, שפרינצק 217\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\nCourse: מבוא להסתברות ולסטטיסטיקה\nCourse Code: 80430\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-25 09:00:00+02:00\nTest End: 2025-02-25 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:25.016598</i>
+DTEND:20250225T100000Z
+LOCATION:מתמטיקה 2\, כימיה 7\, קפלן\, רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 115\, שפרינצק 215\, שפרינצק 217\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320
+DTSTART:20250225T070000Z
+SUMMARY:בחינה ב- מבוא להסתברות ולסטטיסטיקה (80430)
+UID:2025-80430-1st-semester-1-Written-test-67067@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80114>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, קפלן\, רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 115\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\nCourse: מתמטיקה שימושית (1)\nCourse Code: 80114\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-24 09:00:00+02:00\nTest End: 2025-02-24 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:53.064710</i>
+DTEND:20250224T100000Z
+LOCATION:כימיה 7\, קפלן\, רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 115\, קנדה עליון\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320
+DTSTART:20250224T070000Z
+SUMMARY:בחינה ב- מתמטיקה שימושית (1) (80114)
+UID:2025-80114-1st-semester-1-Written-test-65262@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67200>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, אודיטוריום הנדסה\, B221\, B220\, C320\nCourse: מבנה המחשב\nCourse Code: 67200\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-06 09:00:00+03:00\nTest End: 2025-08-06 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:14.969015</i>
+DTEND:20250806T090000Z
+LOCATION:קנדה\, אודיטוריום הנדסה\, B221\, B220\, C320
+DTSTART:20250806T060000Z
+SUMMARY:בחינה ב- מבנה המחשב (67200)
+UID:2025-67200-2nd-semester-2-Written-test-68451@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80131>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C220\, C221\, C320\, אודיטוריום הנדסה\, פלדמן א\, פלדמן ב\, קנדה\, קפלן\, קנדה עליון\nCourse: חשבון אינפיניטסימלי (1)\nCourse Code: 80131\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-06 09:00:00+02:00\nTest End: 2025-03-06 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:56.189907</i>
+DTEND:20250306T100000Z
+LOCATION:C220\, C221\, C320\, אודיטוריום הנדסה\, פלדמן א\, פלדמן ב\, קנדה\, קפלן\, קנדה עליון
+DTSTART:20250306T070000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (1) (80131)
+UID:2025-80131-1st-semester-2-Written-test-69840@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67504>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\nCourse: אלגוריתמים\nCourse Code: 67504\nExam: מבחן חלקי ראשון\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-01-10 09:00:00+02:00\nTest End: 2025-01-10 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:22.128239</i>
+DTEND:20250110T100000Z
+LOCATION:אודיטוריום הנדסה
+DTSTART:20250110T070000Z
+SUMMARY:בחינה ב- אלגוריתמים (67504)
+UID:2025-67504-1st-semester-2-First-partial-test-75007@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67865>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C220\, C221\, C320\, מתמטיקה 2\, מתמטיקה 110\nCourse: כלים מתמטיים במדעי המחשב\nCourse Code: 67865\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-04 09:00:00+02:00\nTest End: 2025-02-04 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:19.179979</i>
+DTEND:20250204T090000Z
+LOCATION:C220\, C221\, C320\, מתמטיקה 2\, מתמטיקה 110
+DTSTART:20250204T070000Z
+SUMMARY:בחינה ב- כלים מתמטיים במדעי המחשב (67865)
+UID:2025-67865-1st-semester-1-Written-test-69125@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80445>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 215\, שפרינצק 217\nCourse: מבנים א-תורת החבורות\nCourse Code: 80445\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-04 14:00:00+02:00\nTest End: 2025-02-04 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:26.107799</i>
+DTEND:20250204T150000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, שפרינצק 215\, שפרינצק 217
+DTSTART:20250204T120000Z
+SUMMARY:בחינה ב- מבנים א-תורת החבורות (80445)
+UID:2025-80445-1st-semester-1-Written-test-68212@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67101>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: מבוא למדעי המחשב \nCourse Code: 67101\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-06 09:00:00+03:00\nTest End: 2025-07-06 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:11.895215</i>
+DTEND:20250706T090000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250706T060000Z
+SUMMARY:בחינה ב- מבוא למדעי המחשב  (67101)
+UID:2025-67101-2nd-semester-1-Written-test-68693@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40352>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27104 חברה\, 27112 חברה\nCourse: כמה אנשים יכול כדור הארץ להכיל?\nCourse Code: 40352\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-10 13:00:00+02:00\nTest End: 2025-02-10 15:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:20:58.037029</i>
+DTEND:20250210T130000Z
+LOCATION:27104 חברה\, 27112 חברה
+DTSTART:20250210T110000Z
+SUMMARY:בחינה ב- כמה אנשים יכול כדור הארץ להכיל? (40352)
+UID:2025-40352-1st-semester-1-Written-test-67174@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67315>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A101\, B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120\, C120 אינטל (חדר שקט)\, אודיטוריום הנדסה\nCourse: סי וסי++ לאלגוריתמיקה מעשית\nCourse Code: 67315\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-04 14:30:00+02:00\nTest End: 2025-02-04 17:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:17.088734</i>
+DTEND:20250204T153000Z
+LOCATION:A101\, B100 מעבדת מחשבים\, C100 מעבדת מחשבים\, C120\, C120 אינטל (חדר שקט)\, אודיטוריום הנדסה
+DTSTART:20250204T123000Z
+SUMMARY:בחינה ב- סי וסי++ לאלגוריתמיקה מעשית (67315)
+UID:2025-67315-1st-semester-1-Written-test-63770@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67684>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: C100 מעבדת מחשבים\, C120\nCourse: אינטראקציה 1\nCourse Code: 67684\nExam: מבחן חלקי ראשון\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2024-12-16 09:00:00+02:00\nTest End: 2024-12-16 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:01.484477</i>
+DTEND:20241216T090000Z
+LOCATION:C100 מעבדת מחשבים\, C120
+DTSTART:20241216T070000Z
+SUMMARY:בחינה ב- אינטראקציה 1 (67684)
+UID:2025-67684-1st-semester-2-First-partial-test-81239@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80158>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 214\nCourse: חשבון אינפיניטסימלי מואץ 1\nCourse Code: 80158\nExam: מבחן חלקי ראשון\nSemester: שנתי\nMoed: 1\nTest Start: 2025-02-11 09:00:00+02:00\nTest End: 2025-02-11 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:08.228910</i>
+DTEND:20250211T100000Z
+LOCATION:שפרינצק 214
+DTSTART:20250211T070000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי מואץ 1 (80158)
+UID:2025-80158-1st-semester-+-2nd-semester-1-First-partial-test-109411@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80517>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\nCourse: תורת המידה\nCourse Code: 80517\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-09 09:00:00+02:00\nTest End: 2025-03-09 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:30.133706</i>
+DTEND:20250309T090000Z
+LOCATION:פלדמן א
+DTSTART:20250309T070000Z
+SUMMARY:בחינה ב- תורת המידה (80517)
+UID:2025-80517-1st-semester-2-Written-test-57838@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67561>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קנדה\, C221\, C320\, פלדמן א\, פלדמן ב\nCourse: יסודות תורת האינפורמציה\nCourse Code: 67561\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-13 09:00:00+02:00\nTest End: 2025-02-13 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:35.206684</i>
+DTEND:20250213T100000Z
+LOCATION:קנדה\, C221\, C320\, פלדמן א\, פלדמן ב
+DTSTART:20250213T070000Z
+SUMMARY:בחינה ב- יסודות תורת האינפורמציה (67561)
+UID:2025-67561-1st-semester-1-Written-test-76575@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67731>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: לוי 07\nCourse: אופטימיזציה קמורה ושימושים\nCourse Code: 67731\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-12 09:00:00+02:00\nTest End: 2025-03-12 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:09.474470</i>
+DTEND:20250312T100000Z
+LOCATION:לוי 07
+DTSTART:20250312T070000Z
+SUMMARY:בחינה ב- אופטימיזציה קמורה ושימושים (67731)
+UID:2025-67731-1st-semester-2-Written-test-75859@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67398>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C100 מעבדת מחשבים\nCourse: דיני סייבר\nCourse Code: 67398\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2025-03-18 09:00:00+02:00\nTest End: 2025-03-18 10:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:19.203942</i>
+DTEND:20250318T080000Z
+LOCATION:A100 (מייקרוסופט) (חדר שקט)\, B100 מעבדת מחשבים\, C100 מעבדת מחשבים
+DTSTART:20250318T070000Z
+SUMMARY:בחינה ב- דיני סייבר (67398)
+UID:2025-67398-1st-semester-2-Written-test-72361@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80516>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, B220\nCourse: מבוא לטופולוגיה\nCourse Code: 80516\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-13 09:00:00+03:00\nTest End: 2025-08-13 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:29.142850</i>
+DTEND:20250813T090000Z
+LOCATION:אודיטוריום הנדסה\, B220
+DTSTART:20250813T060000Z
+SUMMARY:בחינה ב- מבוא לטופולוגיה (80516)
+UID:2025-80516-2nd-semester-2-Written-test-68440@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80446>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אודיטוריום הנדסה\, C221\, C320\nCourse: מבנים ג-תורת השדות\nCourse Code: 80446\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-20 14:00:00+03:00\nTest End: 2025-07-20 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:27.099320</i>
+DTEND:20250720T140000Z
+LOCATION:אודיטוריום הנדסה\, C221\, C320
+DTSTART:20250720T110000Z
+SUMMARY:בחינה ב- מבנים ג-תורת השדות (80446)
+UID:2025-80446-2nd-semester-1-Written-test-68166@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67504>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103\, C220\, C221\, C320\, אודיטוריום הנדסה\, פלדמן א\, פלדמן ב\, קנדה\, כימיה 7\, B220\, B221\nCourse: אלגוריתמים\nCourse Code: 67504\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-17 09:00:00+02:00\nTest End: 2025-02-17 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:22.128239</i>
+DTEND:20250217T100000Z
+LOCATION:ברנדמן ב 101\, ברנדמן ב 102\, ברנדמן ב 103\, C220\, C221\, C320\, אודיטוריום הנדסה\, פלדמן א\, פלדמן ב\, קנדה\, כימיה 7\, B220\, B221
+DTSTART:20250217T070000Z
+SUMMARY:בחינה ב- אלגוריתמים (67504)
+UID:2025-67504-1st-semester-1-Written-test-75007@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80132>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: קפלן\, רוטברג\, פלדמן א\, פלדמן ב\, שפרינצק 115\, שפרינצק 117\, לוי 06\, שפרינצק 116\nCourse: חשבון אינפיניטסימלי (2)\nCourse Code: 80132\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-11 09:00:00+02:00\nTest End: 2025-02-11 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:57.397787</i>
+DTEND:20250211T100000Z
+LOCATION:קפלן\, רוטברג\, פלדמן א\, פלדמן ב\, שפרינצק 115\, שפרינצק 117\, לוי 06\, שפרינצק 116
+DTSTART:20250211T070000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי (2) (80132)
+UID:2025-80132-1st-semester-1-Written-test-69742@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80158>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: חשבון אינפיניטסימלי מואץ 1\nCourse Code: 80158\nExam: מבחן מסכם\nSemester: שנתי\nMoed: 2\nTest Start: 2025-08-14 09:00:00+03:00\nTest End: 2025-08-14 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:08.228910</i>
+DTEND:20250814T090000Z
+DTSTART:20250814T060000Z
+SUMMARY:בחינה ב- חשבון אינפיניטסימלי מואץ 1 (80158)
+UID:2025-80158-1st-semester-+-2nd-semester-2-Written-test-109411@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80779>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 215\nCourse: תורת הקטגוריות \nCourse Code: 80779\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-18 09:00:00+03:00\nTest End: 2025-08-18 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:57.768185</i>
+DTEND:20250818T080000Z
+LOCATION:שפרינצק 215
+DTSTART:20250818T060000Z
+SUMMARY:בחינה ב- תורת הקטגוריות  (80779)
+UID:2025-80779-2nd-semester-2-Written-test-57843@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67684>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120\nCourse: אינטראקציה 1\nCourse Code: 67684\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-02-27 14:30:00+02:00\nTest End: 2025-02-27 16:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-10 10:22:01.484477</i>
+DTEND:20250227T143000Z
+LOCATION:B100 מעבדת מחשבים\, C120 אינטל (חדר שקט)\, C100 מעבדת מחשבים\, C120
+DTSTART:20250227T123000Z
+SUMMARY:בחינה ב- אינטראקציה 1 (67684)
+UID:2025-67684-1st-semester-1-Written-test-81239@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67521>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: פלדמן א\, פלדמן ב\, קנדה\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320\nCourse: מודלים חישוביים\, חישוביות וסיבוכיות \nCourse Code: 67521\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2025-07-30 14:00:00+03:00\nTest End: 2025-07-30 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:21:27.149456</i>
+DTEND:20250730T140000Z
+LOCATION:פלדמן א\, פלדמן ב\, קנדה\, אודיטוריום הנדסה\, B221\, B220\, C220\, C221\, C320
+DTSTART:20250730T110000Z
+SUMMARY:בחינה ב- מודלים חישוביים\, חישוביות וסיבוכיות  (67521)
+UID:2025-67521-2nd-semester-1-Written-test-67502@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80135>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\, קפלן\nCourse: אלגברה ליניארית (2)\nCourse Code: 80135\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2025-08-10 09:00:00+03:00\nTest End: 2025-08-10 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-10 10:23:03.161894</i>
+DTEND:20250810T090000Z
+LOCATION:רוטברג\, פלדמן א\, פלדמן ב\, קנדה\, קנדה עליון\, קפלן
+DTSTART:20250810T060000Z
+SUMMARY:בחינה ב- אלגברה ליניארית (2) (80135)
+UID:2025-80135-2nd-semester-2-Written-test-75146@huji.local
+END:VEVENT
+END:VCALENDAR
