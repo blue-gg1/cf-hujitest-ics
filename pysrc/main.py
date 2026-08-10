@@ -6,8 +6,8 @@ import os, shutil
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2026
-SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
-# SOURCE_FILE = "pysrc/source" # one course code per line
+# SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
+SOURCE_FILE = "pysrc/source" # one course code per line
 OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 
 
@@ -120,13 +120,13 @@ def main():
         os.remove(OUTPUT_FILE)
     else:
         pass
-    
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+
+    with open(""+OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(calendar)
 
-    print(f"\nSaved {OUTPUT_FILE}")
+    print(f"\nSaved {""+OUTPUT_FILE}")
     print(f"Total events: {len(calendar.events)}")
-    moveics(OUTPUT_FILE, "prod/")
+    moveics(""+OUTPUT_FILE, "prod/")
 
 
 if __name__ == "__main__":
