@@ -6,8 +6,8 @@ import os, shutil
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2026
-# SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
-SOURCE_FILE = "pysrc/source" # one course code per line
+SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
+# SOURCE_FILE = "pysrc/source" # one course code per line
 OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 
 
