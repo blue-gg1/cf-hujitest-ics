@@ -126,7 +126,7 @@ def main():
 
     print(f"\nSaved {""+OUTPUT_FILE}")
     print(f"Total events: {len(calendar.events)}")
-    moveics(""+OUTPUT_FILE, "prod/")
+    moveics(""+OUTPUT_FILE, "prod/IcsFiles/")
 
 
 if __name__ == "__main__":
