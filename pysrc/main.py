@@ -31,7 +31,7 @@ def GetShantonIdDepthJson(Shnaton_course_id):
     )
     # r.raise_for_status()
 
-    data = r.json
+    data = r.json()
     print(data)
     print(Shnaton_course_id)
     return {
