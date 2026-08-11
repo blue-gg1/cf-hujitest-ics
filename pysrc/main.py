@@ -51,7 +51,7 @@ def add_course_events(calendar, course_code):
         assignment_name = assignment["assignmentDefinition"]["name"]["en"]
 
         # Only exams
-        if assignment_name not in ("Written test", "Mid-term Exams", "First partial test", "Second partial test"):
+        if assignment_name not in ("Written Exam", "Written test", "Mid-term Exams", "First partial test", "Second partial test"):
             continue
 
 
