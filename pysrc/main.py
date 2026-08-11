@@ -6,9 +6,9 @@ import os, shutil
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2027
-# SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
+SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
 # SOURCE_FILE = "prod/SoureFiles/evenpina.list" # one course code per line
-SOURCE_FILE = "pysrc/source" # one course code per line
+# SOURCE_FILE = "pysrc/source" # one course code per line
 OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 # OUTPUT_FILE = "HUJI_Exams_evenpina"+str(YEAR)+".ics"
 
@@ -51,7 +51,7 @@ def add_course_events(calendar, course_code):
         assignment_name = assignment["assignmentDefinition"]["name"]["en"]
 
         # Only exams
-        if assignment_name not in ("Written Exam", "Written test", "Mid-term Exams", "First partial test", "Second partial test"):
+        if assignment_name not in ("Written Exam", "Written test", "Mid-term Exams", "First partial test", "Second partial test", "Exam"):
             continue
 
 
