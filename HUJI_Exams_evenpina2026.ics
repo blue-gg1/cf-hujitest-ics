@@ -1,0 +1,788 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40130>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27106 חברה\nCourse: מבוא ללימודים עירוניים\nCourse Code: 40130\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-04-30 09:00:00+03:00\nTest End: 2026-04-30 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:18.293008</i>
+DTEND:20260430T080000Z
+LOCATION:27106 חברה
+DTSTART:20260430T060000Z
+SUMMARY:בחינה ב- מבוא ללימודים עירוניים (40130)
+UID:2026-40130-1st-semester-2-Written-test-18162@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/10510>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 48637 רוח\nCourse: יצירות מופת בספרות עולם - א\nCourse Code: 10510\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-05 09:00:00+02:00\nTest End: 2026-02-05 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:44:45.821334</i>
+DTEND:20260205T100000Z
+LOCATION:48637 רוח
+DTSTART:20260205T070000Z
+SUMMARY:בחינה ב- יצירות מופת בספרות עולם - א (10510)
+UID:2026-10510-1st-semester-1-Written-test-12460@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/70930>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: עבודה סוציאלית 365  (אולם חרוב)\nCourse: המדע מאחורי משבר האקלים\nCourse Code: 70930\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-01-29 09:00:00+02:00\nTest End: 2026-01-29 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:54.307376</i>
+DTEND:20260129T090000Z
+LOCATION:עבודה סוציאלית 365  (אולם חרוב)
+DTSTART:20260129T070000Z
+SUMMARY:בחינה ב- המדע מאחורי משבר האקלים (70930)
+UID:2026-70930-1st-semester-1-Written-test-19761@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/28219>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 48517 רוח\, 48518 רוח\, 48527 רוח\nCourse: מבוא לתרבות הקלאסית: רומא\nCourse Code: 28219\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-21 14:00:00+03:00\nTest End: 2026-07-21 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:45.831780</i>
+DTEND:20260721T140000Z
+LOCATION:48517 רוח\, 48518 רוח\, 48527 רוח
+DTSTART:20260721T110000Z
+SUMMARY:בחינה ב- מבוא לתרבות הקלאסית: רומא (28219)
+UID:2026-28219-2nd-semester-1-Written-test-10131@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/56106>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 21205 חברה\, 21305 (3102) חבר\, 27108 חברה\, 27103 חברה\, 77201\nCourse: פוליטיקה השוואתית: מוסדות ותהליכים\nCourse Code: 56106\nExam: מבחני אמצע \nSemester: סמסטר א'\nMoed: 1\nTest Start: 2025-12-01 13:00:00+02:00\nTest End: 2025-12-01 14:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:45.030082</i>
+DTEND:20251201T123000Z
+LOCATION:21205 חברה\, 21305 (3102) חבר\, 27108 חברה\, 27103 חברה\, 77201
+DTSTART:20251201T110000Z
+SUMMARY:בחינה ב- פוליטיקה השוואתית: מוסדות ותהליכים (56106)
+UID:2026-56106-1st-semester-1-Mid-term-Exams-3793@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/25231>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47207 רוח\nCourse: תולדות הלשון העברית: מראשיתה עד סוף תקופת האמוראים\nCourse Code: 25231\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-03-10 09:00:00+02:00\nTest End: 2026-03-10 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:35.634847</i>
+DTEND:20260310T100000Z
+LOCATION:47207 רוח
+DTSTART:20260310T070000Z
+SUMMARY:בחינה ב- תולדות הלשון העברית: מראשיתה עד סוף תקופת האמוראים (25231)
+UID:2026-25231-1st-semester-2-Written-test-995@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/15100>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: גלריה- חוות רוח\, כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\, כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח - חוות רוח\, שטח פתוח -חוות חברה\nCourse: מבוא לאתיקה ופילוסופיה פוליטית - חלק א' \nCourse Code: 15100\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-09 14:00:00+02:00\nTest End: 2026-02-09 16:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:02.405806</i>
+DTEND:20260209T140000Z
+LOCATION:גלריה- חוות רוח\, כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\, כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח - חוות רוח\, שטח פתוח -חוות חברה
+DTSTART:20260209T120000Z
+SUMMARY:בחינה ב- מבוא לאתיקה ופילוסופיה פוליטית - חלק א'  (15100)
+UID:2026-15100-1st-semester-1-Written-test-10836@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/54229>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27108 חברה\nCourse: מגדר\, מיניות ותרבות\nCourse Code: 54229\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-07-29 09:00:00+03:00\nTest End: 2026-07-29 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:38.567937</i>
+DTEND:20260729T090000Z
+LOCATION:27108 חברה
+DTSTART:20260729T060000Z
+SUMMARY:בחינה ב- מגדר\, מיניות ותרבות (54229)
+UID:2026-54229-2nd-semester-2-Written-test-10046@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/53336>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27112 חברה\nCourse: יסודות בפסיכולוגיה חברתית\nCourse Code: 53336\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-15 13:00:00+02:00\nTest End: 2026-02-15 15:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:37.668385</i>
+DTEND:20260215T130000Z
+LOCATION:27112 חברה
+DTSTART:20260215T110000Z
+SUMMARY:בחינה ב- יסודות בפסיכולוגיה חברתית (53336)
+UID:2026-53336-1st-semester-1-Written-test-4602@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/62424>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: שואה ומשפט\nCourse Code: 62424\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-16 14:30:00+03:00\nTest End: 2026-08-16 16:30:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:49.542223</i>
+DTEND:20260816T133000Z
+DTSTART:20260816T113000Z
+SUMMARY:בחינה ב- שואה ומשפט (62424)
+UID:2026-62424-2nd-semester-2-Written-test-2128@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/62822>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\, שטח פתוח - חוות רוח\nCourse: משפט וחברה\nCourse Code: 62822\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-01-27 09:00:00+02:00\nTest End: 2026-01-27 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:51.422018</i>
+DTEND:20260127T090000Z
+LOCATION:כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\, שטח פתוח - חוות רוח
+DTSTART:20260127T070000Z
+SUMMARY:בחינה ב- משפט וחברה (62822)
+UID:2026-62822-1st-semester-1-Written-test-19671@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/35577>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 4- חוות רוח\nCourse: מבוא להודו המודרנית\nCourse Code: 35577\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-13 09:00:00+03:00\nTest End: 2026-07-13 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:10.728129</i>
+DTEND:20260713T090000Z
+LOCATION:כיתה 4- חוות רוח
+DTSTART:20260713T060000Z
+SUMMARY:בחינה ב- מבוא להודו המודרנית (35577)
+UID:2026-35577-2nd-semester-1-Written-test-10690@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/10510>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47218 רוח\nCourse: יצירות מופת בספרות עולם - א\nCourse Code: 10510\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-04-20 14:00:00+03:00\nTest End: 2026-04-20 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:44:45.821334</i>
+DTEND:20260420T140000Z
+LOCATION:47218 רוח
+DTSTART:20260420T110000Z
+SUMMARY:בחינה ב- יצירות מופת בספרות עולם - א (10510)
+UID:2026-10510-1st-semester-2-Written-test-12460@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/70930>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: עבודה סוציאלית 365  (אולם חרוב)\nCourse: המדע מאחורי משבר האקלים\nCourse Code: 70930\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-02-22 09:00:00+02:00\nTest End: 2026-02-22 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:54.307376</i>
+DTEND:20260222T090000Z
+LOCATION:עבודה סוציאלית 365  (אולם חרוב)
+DTSTART:20260222T070000Z
+SUMMARY:בחינה ב- המדע מאחורי משבר האקלים (70930)
+UID:2026-70930-1st-semester-2-Written-test-19761@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/28219>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 48524 רוח\nCourse: מבוא לתרבות הקלאסית: רומא\nCourse Code: 28219\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-11 09:00:00+03:00\nTest End: 2026-08-11 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:45.831780</i>
+DTEND:20260811T090000Z
+LOCATION:48524 רוח
+DTSTART:20260811T060000Z
+SUMMARY:בחינה ב- מבוא לתרבות הקלאסית: רומא (28219)
+UID:2026-28219-2nd-semester-2-Written-test-10131@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/21515>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47216 רוח\, 47212 רוח\nCourse: פרשנות ימי-הביניים\nCourse Code: 21515\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-14 09:00:00+03:00\nTest End: 2026-07-14 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:25.827210</i>
+DTEND:20260714T080000Z
+LOCATION:47216 רוח\, 47212 רוח
+DTSTART:20260714T060000Z
+SUMMARY:בחינה ב- פרשנות ימי-הביניים (21515)
+UID:2026-21515-2nd-semester-1-Written-test-3308@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/15100>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח -חוות חברה\nCourse: מבוא לאתיקה ופילוסופיה פוליטית - חלק א' \nCourse Code: 15100\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-04-23 09:00:00+03:00\nTest End: 2026-04-23 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:02.405806</i>
+DTEND:20260423T080000Z
+LOCATION:כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח -חוות חברה
+DTSTART:20260423T060000Z
+SUMMARY:בחינה ב- מבוא לאתיקה ופילוסופיה פוליטית - חלק א'  (15100)
+UID:2026-15100-1st-semester-2-Written-test-10836@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/62822>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 302 משפ\, 306 משפ\, 308 משפ\nCourse: משפט וחברה\nCourse Code: 62822\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-02-23 14:30:00+02:00\nTest End: 2026-02-23 16:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:51.422018</i>
+DTEND:20260223T143000Z
+LOCATION:302 משפ\, 306 משפ\, 308 משפ
+DTSTART:20260223T123000Z
+SUMMARY:בחינה ב- משפט וחברה (62822)
+UID:2026-62822-1st-semester-2-Written-test-19671@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/35577>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 3- חוות רוח\nCourse: מבוא להודו המודרנית\nCourse Code: 35577\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-06 09:00:00+03:00\nTest End: 2026-08-06 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:10.728129</i>
+DTEND:20260806T090000Z
+LOCATION:כיתה 3- חוות רוח
+DTSTART:20260806T060000Z
+SUMMARY:בחינה ב- מבוא להודו המודרנית (35577)
+UID:2026-35577-2nd-semester-2-Written-test-10690@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/16051>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47216 רוח\nCourse: ספרות ערבית קלאסית ומודרנית – קריאת טקסטים\nCourse Code: 16051\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-27 09:00:00+03:00\nTest End: 2026-07-27 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:04.199774</i>
+DTEND:20260727T090000Z
+LOCATION:47216 רוח
+DTSTART:20260727T060000Z
+SUMMARY:בחינה ב- ספרות ערבית קלאסית ומודרנית – קריאת טקסטים (16051)
+UID:2026-16051-2nd-semester-1-Written-test-4711@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80309>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 281 חינוך\nCourse: מתמטיקה בחברה\nCourse Code: 80309\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-19 09:00:00+03:00\nTest End: 2026-07-19 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:47:08.743846</i>
+DTEND:20260719T080000Z
+LOCATION:281 חינוך
+DTSTART:20260719T060000Z
+SUMMARY:בחינה ב- מתמטיקה בחברה (80309)
+UID:2026-80309-2nd-semester-1-Written-test-8580@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3033>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: חוות מחשבים\, מחשב 305\, מחשב 306\nCourse: התעללות והזנחת ילדים\nCourse Code: 3033\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-27 09:00:00+03:00\nTest End: 2026-07-27 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:48.869738</i>
+DTEND:20260727T080000Z
+LOCATION:חוות מחשבים\, מחשב 305\, מחשב 306
+DTSTART:20260727T060000Z
+SUMMARY:בחינה ב- התעללות והזנחת ילדים (3033)
+UID:2026-3033-2nd-semester-1-Written-test-14194@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40481>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 21208 חברה\, 21203 (2111) חבר\, 21201 (2113) חבר\nCourse: איכות הסביבה: פנים רבות לה\nCourse Code: 40481\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-04 09:00:00+02:00\nTest End: 2026-02-04 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:21.212058</i>
+DTEND:20260204T090000Z
+LOCATION:21208 חברה\, 21203 (2111) חבר\, 21201 (2113) חבר
+DTSTART:20260204T070000Z
+SUMMARY:בחינה ב- איכות הסביבה: פנים רבות לה (40481)
+UID:2026-40481-1st-semester-1-Written-test-17920@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40615>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27112 חברה\, 27108 חברה\nCourse: גאוגרפיה עירונית של ירושלים לתקופותיה\nCourse Code: 40615\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-10 09:00:00+03:00\nTest End: 2026-07-10 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:22.322590</i>
+DTEND:20260710T080000Z
+LOCATION:27112 חברה\, 27108 חברה
+DTSTART:20260710T060000Z
+SUMMARY:בחינה ב- גאוגרפיה עירונית של ירושלים לתקופותיה (40615)
+UID:2026-40615-2nd-semester-1-Written-test-11488@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/10615>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47218 רוח\nCourse: תחנות בביקורת הספרות: מאפלטון ועד ניטשה\nCourse Code: 10615\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-01-29 14:00:00+02:00\nTest End: 2026-01-29 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:44:48.614902</i>
+DTEND:20260129T150000Z
+LOCATION:47218 רוח
+DTSTART:20260129T120000Z
+SUMMARY:בחינה ב- תחנות בביקורת הספרות: מאפלטון ועד ניטשה (10615)
+UID:2026-10615-1st-semester-1-Written-test-634@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/17004>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\, כיתה 9 -חוות חברה\, שטח פתוח - חוות רוח\, כתת מחשב 16\, כתת מחשב 17\, חווה חדר 1\, חווה חדר 2\, חווה חדר 3\, חווה חדר 4\, כיתה 8- חוות חברה\, שטח פתוח -חוות חברה\, גלריה- חוות רוח\, כתת מחשב 18\nCourse: "פני משה" - דמויותיו של משה בראי ספרות עם ישראל\nCourse Code: 17004\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-14 14:00:00+03:00\nTest End: 2026-07-14 16:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:06.240542</i>
+DTEND:20260714T130000Z
+LOCATION:כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\, כיתה 9 -חוות חברה\, שטח פתוח - חוות רוח\, כתת מחשב 16\, כתת מחשב 17\, חווה חדר 1\, חווה חדר 2\, חווה חדר 3\, חווה חדר 4\, כיתה 8- חוות חברה\, שטח פתוח -חוות חברה\, גלריה- חוות רוח\, כתת מחשב 18
+DTSTART:20260714T110000Z
+SUMMARY:בחינה ב- "פני משה" - דמויותיו של משה בראי ספרות עם ישראל (17004)
+UID:2026-17004-2nd-semester-1-Written-test-19122@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/62424>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: שואה ומשפט\nCourse Code: 62424\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-28 14:30:00+03:00\nTest End: 2026-07-28 16:30:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:49.542223</i>
+DTEND:20260728T133000Z
+DTSTART:20260728T113000Z
+SUMMARY:בחינה ב- שואה ומשפט (62424)
+UID:2026-62424-2nd-semester-1-Written-test-2128@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/16106>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\, כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח - חוות רוח\, שטח פתוח -חוות חברה\nCourse: דת האסלאם - אמונה ופולחן\nCourse Code: 16106\nExam: מבחן מסכם\nSemester: שנתי\nMoed: 1\nTest Start: 2026-07-26 09:00:00+03:00\nTest End: 2026-07-26 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:05.202804</i>
+DTEND:20260726T090000Z
+LOCATION:כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\, כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח - חוות רוח\, שטח פתוח -חוות חברה
+DTSTART:20260726T060000Z
+SUMMARY:בחינה ב- דת האסלאם - אמונה ופולחן (16106)
+UID:2026-16106-1st-semester-+-2nd-semester-1-Written-test-15973@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3033>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: מחשב 306\nCourse: התעללות והזנחת ילדים\nCourse Code: 3033\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-17 09:00:00+03:00\nTest End: 2026-08-17 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:48.869738</i>
+DTEND:20260817T080000Z
+LOCATION:מחשב 306
+DTSTART:20260817T060000Z
+SUMMARY:בחינה ב- התעללות והזנחת ילדים (3033)
+UID:2026-3033-2nd-semester-2-Written-test-14194@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/35575>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47218 רוח\nCourse: מבוא להודו המוקדמת: מערש ההיסטוריה עד למאה ה-17\nCourse Code: 35575\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-03 09:00:00+02:00\nTest End: 2026-02-03 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:09.840841</i>
+DTEND:20260203T100000Z
+LOCATION:47218 רוח
+DTSTART:20260203T070000Z
+SUMMARY:בחינה ב- מבוא להודו המוקדמת: מערש ההיסטוריה עד למאה ה-17 (35575)
+UID:2026-35575-1st-semester-1-Written-test-11430@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40481>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 23207 חברה\nCourse: איכות הסביבה: פנים רבות לה\nCourse Code: 40481\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-05-03 09:00:00+03:00\nTest End: 2026-05-03 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:21.212058</i>
+DTEND:20260503T080000Z
+LOCATION:23207 חברה
+DTSTART:20260503T060000Z
+SUMMARY:בחינה ב- איכות הסביבה: פנים רבות לה (40481)
+UID:2026-40481-1st-semester-2-Written-test-17920@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40615>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27108 חברה\nCourse: גאוגרפיה עירונית של ירושלים לתקופותיה\nCourse Code: 40615\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-14 09:00:00+03:00\nTest End: 2026-08-14 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:22.322590</i>
+DTEND:20260814T080000Z
+LOCATION:27108 חברה
+DTSTART:20260814T060000Z
+SUMMARY:בחינה ב- גאוגרפיה עירונית של ירושלים לתקופותיה (40615)
+UID:2026-40615-2nd-semester-2-Written-test-11488@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/71019>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אולם 11\, מרכז למידה\nCourse: מבוא לכלכלה \nCourse Code: 71019\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-17 08:30:00+03:00\nTest End: 2026-07-17 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:55.249565</i>
+DTEND:20260717T090000Z
+LOCATION:אולם 11\, מרכז למידה
+DTSTART:20260717T053000Z
+SUMMARY:בחינה ב- מבוא לכלכלה  (71019)
+UID:2026-71019-2nd-semester-1-Written-test-10284@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/56103>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: משטר מדינת ישראל\nCourse Code: 56103\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-21 09:00:00+03:00\nTest End: 2026-08-21 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:42.349652</i>
+DTEND:20260821T080000Z
+DTSTART:20260821T060000Z
+SUMMARY:בחינה ב- משטר מדינת ישראל (56103)
+UID:2026-56103-2nd-semester-2-Written-test-8212@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/17004>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כתת מחשב 16\, חווה חדר 1\, חווה חדר 2\, חווה חדר 3\, חווה חדר 4\, חווה שטח פתוח עליון 5\nCourse: "פני משה" - דמויותיו של משה בראי ספרות עם ישראל\nCourse Code: 17004\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-12 14:00:00+03:00\nTest End: 2026-08-12 16:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:06.240542</i>
+DTEND:20260812T130000Z
+LOCATION:כתת מחשב 16\, חווה חדר 1\, חווה חדר 2\, חווה חדר 3\, חווה חדר 4\, חווה שטח פתוח עליון 5
+DTSTART:20260812T110000Z
+SUMMARY:בחינה ב- "פני משה" - דמויותיו של משה בראי ספרות עם ישראל (17004)
+UID:2026-17004-2nd-semester-2-Written-test-19122@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/24345>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\nCourse: מבוא לדתות העולם ב': יהדות\, נצרות ואסלאם\nCourse Code: 24345\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-30 09:00:00+03:00\nTest End: 2026-07-30 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:34.521128</i>
+DTEND:20260730T090000Z
+LOCATION:כיתה 8- חוות חברה\, כיתה 9 -חוות חברה
+DTSTART:20260730T060000Z
+SUMMARY:בחינה ב- מבוא לדתות העולם ב': יהדות\, נצרות ואסלאם (24345)
+UID:2026-24345-2nd-semester-1-Written-test-10726@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/25231>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47218 רוח\nCourse: תולדות הלשון העברית: מראשיתה עד סוף תקופת האמוראים\nCourse Code: 25231\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-10 14:00:00+02:00\nTest End: 2026-02-10 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:35.634847</i>
+DTEND:20260210T150000Z
+LOCATION:47218 רוח
+DTSTART:20260210T120000Z
+SUMMARY:בחינה ב- תולדות הלשון העברית: מראשיתה עד סוף תקופת האמוראים (25231)
+UID:2026-25231-1st-semester-1-Written-test-995@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/34589>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 284 חינוך\nCourse: המפגש בין הפילוסוף לאיש הדת: אתגרים והשלכות בחינוך\nCourse Code: 34589\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-04 09:00:00+02:00\nTest End: 2026-02-04 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:08.985387</i>
+DTEND:20260204T090000Z
+LOCATION:284 חינוך
+DTSTART:20260204T070000Z
+SUMMARY:בחינה ב- המפגש בין הפילוסוף לאיש הדת: אתגרים והשלכות בחינוך (34589)
+UID:2026-34589-1st-semester-1-Written-test-14538@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3007>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: מחשב 305\, מע' 11\, מע' 12\, כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח -חוות חברה\nCourse: שימוש לטוב/שימוש לרעה בסמים\, התמכרויות וטיפול\nCourse Code: 3007\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-16 09:00:00+03:00\nTest End: 2026-08-16 10:30:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:46.767592</i>
+DTEND:20260816T073000Z
+LOCATION:מחשב 305\, מע' 11\, מע' 12\, כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח -חוות חברה
+DTSTART:20260816T060000Z
+SUMMARY:בחינה ב- שימוש לטוב/שימוש לרעה בסמים\, התמכרויות וטיפול (3007)
+UID:2026-3007-2nd-semester-2-Written-test-1505@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/16106>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח -חוות חברה\nCourse: דת האסלאם - אמונה ופולחן\nCourse Code: 16106\nExam: מבחן מסכם\nSemester: שנתי\nMoed: 2\nTest Start: 2026-08-17 09:00:00+03:00\nTest End: 2026-08-17 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:05.202804</i>
+DTEND:20260817T090000Z
+LOCATION:כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח -חוות חברה
+DTSTART:20260817T060000Z
+SUMMARY:בחינה ב- דת האסלאם - אמונה ופולחן (16106)
+UID:2026-16106-1st-semester-+-2nd-semester-2-Written-test-15973@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/13322>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 48637 רוח\nCourse: בצל הסהר - חיי היהודים בימי הביניים בארצות האסלאם\nCourse Code: 13322\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-08 09:00:00+02:00\nTest End: 2026-02-08 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:44:59.598822</i>
+DTEND:20260208T090000Z
+LOCATION:48637 רוח
+DTSTART:20260208T070000Z
+SUMMARY:בחינה ב- בצל הסהר - חיי היהודים בימי הביניים בארצות האסלאם (13322)
+UID:2026-13322-1st-semester-1-Written-test-17497@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/35575>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47207 רוח\nCourse: מבוא להודו המוקדמת: מערש ההיסטוריה עד למאה ה-17\nCourse Code: 35575\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-04-26 09:00:00+03:00\nTest End: 2026-04-26 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:09.840841</i>
+DTEND:20260426T090000Z
+LOCATION:47207 רוח
+DTSTART:20260426T060000Z
+SUMMARY:בחינה ב- מבוא להודו המוקדמת: מערש ההיסטוריה עד למאה ה-17 (35575)
+UID:2026-35575-1st-semester-2-Written-test-11430@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/71019>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: חדר 10\nCourse: מבוא לכלכלה \nCourse Code: 71019\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-12 13:00:00+03:00\nTest End: 2026-08-12 16:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:55.249565</i>
+DTEND:20260812T130000Z
+LOCATION:חדר 10
+DTSTART:20260812T100000Z
+SUMMARY:בחינה ב- מבוא לכלכלה  (71019)
+UID:2026-71019-2nd-semester-2-Written-test-10284@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/51167>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אולם ו\nCourse: נפלאות הקשר בין מוח ונפש (חברה)\nCourse Code: 51167\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-02-25 13:00:00+02:00\nTest End: 2026-02-25 15:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:32.709889</i>
+DTEND:20260225T130000Z
+LOCATION:אולם ו
+DTSTART:20260225T110000Z
+SUMMARY:בחינה ב- נפלאות הקשר בין מוח ונפש (חברה) (51167)
+UID:2026-51167-1st-semester-2-Written-test-7590@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/24345>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: מבוא לדתות העולם ב': יהדות\, נצרות ואסלאם\nCourse Code: 24345\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-20 09:00:00+03:00\nTest End: 2026-08-20 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:34.521128</i>
+DTEND:20260820T090000Z
+DTSTART:20260820T060000Z
+SUMMARY:בחינה ב- מבוא לדתות העולם ב': יהדות\, נצרות ואסלאם (24345)
+UID:2026-24345-2nd-semester-2-Written-test-10726@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40109>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\nCourse: שינויי אקלים והתחממות גלובלית\nCourse Code: 40109\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-01-28 09:00:00+02:00\nTest End: 2026-01-28 11:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:14.367908</i>
+DTEND:20260128T093000Z
+LOCATION:כיתה 8- חוות חברה\, כיתה 9 -חוות חברה
+DTSTART:20260128T070000Z
+SUMMARY:בחינה ב- שינויי אקלים והתחממות גלובלית (40109)
+UID:2026-40109-1st-semester-1-Written-test-10933@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/56106>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27106 חברה\nCourse: פוליטיקה השוואתית: מוסדות ותהליכים\nCourse Code: 56106\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-04-26 09:00:00+03:00\nTest End: 2026-04-26 11:30:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:45.030082</i>
+DTEND:20260426T083000Z
+LOCATION:27106 חברה
+DTSTART:20260426T060000Z
+SUMMARY:בחינה ב- פוליטיקה השוואתית: מוסדות ותהליכים (56106)
+UID:2026-56106-1st-semester-2-Written-test-3793@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/34589>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 284 חינוך\nCourse: המפגש בין הפילוסוף לאיש הדת: אתגרים והשלכות בחינוך\nCourse Code: 34589\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-05-28 08:30:00+03:00\nTest End: 2026-05-28 11:30:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:08.985387</i>
+DTEND:20260528T083000Z
+LOCATION:284 חינוך
+DTSTART:20260528T053000Z
+SUMMARY:בחינה ב- המפגש בין הפילוסוף לאיש הדת: אתגרים והשלכות בחינוך (34589)
+UID:2026-34589-1st-semester-2-Written-test-14538@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3053>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: שפרינצק 215\nCourse: תיאוריות בהתפתחות הילד והמתבגר\nCourse Code: 3053\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-02-22 09:00:00+02:00\nTest End: 2026-02-22 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:50.980577</i>
+DTEND:20260222T090000Z
+LOCATION:שפרינצק 215
+DTSTART:20260222T070000Z
+SUMMARY:בחינה ב- תיאוריות בהתפתחות הילד והמתבגר (3053)
+UID:2026-3053-1st-semester-2-Written-test-527@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/13322>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47217 רוח\nCourse: בצל הסהר - חיי היהודים בימי הביניים בארצות האסלאם\nCourse Code: 13322\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-04-26 09:00:00+03:00\nTest End: 2026-04-26 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:44:59.598822</i>
+DTEND:20260426T080000Z
+LOCATION:47217 רוח
+DTSTART:20260426T060000Z
+SUMMARY:בחינה ב- בצל הסהר - חיי היהודים בימי הביניים בארצות האסלאם (13322)
+UID:2026-13322-1st-semester-2-Written-test-17497@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40109>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 6 -חוות רוח\nCourse: שינויי אקלים והתחממות גלובלית\nCourse Code: 40109\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-02-25 09:00:00+02:00\nTest End: 2026-02-25 11:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:14.367908</i>
+DTEND:20260225T093000Z
+LOCATION:כיתה 6 -חוות רוח
+DTSTART:20260225T070000Z
+SUMMARY:בחינה ב- שינויי אקלים והתחממות גלובלית (40109)
+UID:2026-40109-1st-semester-2-Written-test-10933@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/57107>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27112 חברה\, 27103 חברה\, 27105 חברה\, 27104 חברה\, 27108 חברה\, 27107 חברה\, 27106 חברה\, 77201\, 77202\, 77203\, 77101\nCourse: מבוא לכלכלה א (מיקרו)\nCourse Code: 57107\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-08 13:30:00+02:00\nTest End: 2026-02-08 16:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:46.198938</i>
+DTEND:20260208T143000Z
+LOCATION:27112 חברה\, 27103 חברה\, 27105 חברה\, 27104 חברה\, 27108 חברה\, 27107 חברה\, 27106 חברה\, 77201\, 77202\, 77203\, 77101
+DTSTART:20260208T113000Z
+SUMMARY:בחינה ב- מבוא לכלכלה א (מיקרו) (57107)
+UID:2026-57107-1st-semester-1-Written-test-10498@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/56103>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 77201\, 77202\, 77203\, 77101\nCourse: משטר מדינת ישראל\nCourse Code: 56103\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-27 09:00:00+03:00\nTest End: 2026-07-27 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:42.349652</i>
+DTEND:20260727T080000Z
+LOCATION:77201\, 77202\, 77203\, 77101
+DTSTART:20260727T060000Z
+SUMMARY:בחינה ב- משטר מדינת ישראל (56103)
+UID:2026-56103-2nd-semester-1-Written-test-8212@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/13321>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 6 -חוות רוח\nCourse: בצל הצלב: חיי היהודים בימי הביניים באירופה הנוצרית \nCourse Code: 13321\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-13 09:00:00+03:00\nTest End: 2026-07-13 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:44:58.677516</i>
+DTEND:20260713T080000Z
+LOCATION:כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 6 -חוות רוח
+DTSTART:20260713T060000Z
+SUMMARY:בחינה ב- בצל הצלב: חיי היהודים בימי הביניים באירופה הנוצרית  (13321)
+UID:2026-13321-2nd-semester-1-Written-test-17462@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/57108>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27103 חברה\, 27105 חברה\, 27104 חברה\, 27108 חברה\, 27106 חברה\, 27112 חברה\, 77201\, 77202\, 77203\, 77101\nCourse: מבוא לכלכלה ב (מקרו)\nCourse Code: 57108\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-12 13:00:00+03:00\nTest End: 2026-07-12 16:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:47.236336</i>
+DTEND:20260712T130000Z
+LOCATION:27103 חברה\, 27105 חברה\, 27104 חברה\, 27108 חברה\, 27106 חברה\, 27112 חברה\, 77201\, 77202\, 77203\, 77101
+DTSTART:20260712T100000Z
+SUMMARY:בחינה ב- מבוא לכלכלה ב (מקרו) (57108)
+UID:2026-57108-2nd-semester-1-Written-test-10331@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/56105>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27112 חברה\, 27106 חברה\, 27105 חברה\, 27104 חברה\, 27108 חברה\, 27107 חברה\, 27103 חברה\nCourse: יסודות המחשבה הפוליטית\nCourse Code: 56105\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-15 13:00:00+03:00\nTest End: 2026-07-15 16:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:43.676266</i>
+DTEND:20260715T130000Z
+LOCATION:27112 חברה\, 27106 חברה\, 27105 חברה\, 27104 חברה\, 27108 חברה\, 27107 חברה\, 27103 חברה
+DTSTART:20260715T100000Z
+SUMMARY:בחינה ב- יסודות המחשבה הפוליטית (56105)
+UID:2026-56105-2nd-semester-1-Written-test-12535@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/34407>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 281 חינוך\, 284 חינוך\nCourse: צעירים מחפשים את דרכם: אזרח העולם או פטריוט מקומי?\nCourse Code: 34407\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-01-26 09:00:00+02:00\nTest End: 2026-01-26 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:04.394192</i>
+DTEND:20260126T090000Z
+LOCATION:281 חינוך\, 284 חינוך
+DTSTART:20260126T070000Z
+SUMMARY:בחינה ב- צעירים מחפשים את דרכם: אזרח העולם או פטריוט מקומי? (34407)
+UID:2026-34407-1st-semester-1-Written-test-18481@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3007>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כתת מחשב 16\, כתת מחשב 17\, כתת מחשב 18\, כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 8- חוות חברה\, חוות מחשבים\, שטח פתוח - חוות רוח\nCourse: שימוש לטוב/שימוש לרעה בסמים\, התמכרויות וטיפול\nCourse Code: 3007\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-20 09:00:00+03:00\nTest End: 2026-07-20 10:30:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:46.767592</i>
+DTEND:20260720T073000Z
+LOCATION:כתת מחשב 16\, כתת מחשב 17\, כתת מחשב 18\, כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 8- חוות חברה\, חוות מחשבים\, שטח פתוח - חוות רוח
+DTSTART:20260720T060000Z
+SUMMARY:בחינה ב- שימוש לטוב/שימוש לרעה בסמים\, התמכרויות וטיפול (3007)
+UID:2026-3007-2nd-semester-1-Written-test-1505@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3008>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: עבודה סוציאלית 283\, עבודה סוציאלית 365  (אולם חרוב)\, 53367 – כיתה ריפוי בעיסוק\nCourse: התעללות והזנחת ילדים- היבטים משפטיים וטיפוליים\nCourse Code: 3008\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-05 09:00:00+03:00\nTest End: 2026-07-05 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:47.842122</i>
+DTEND:20260705T080000Z
+LOCATION:עבודה סוציאלית 283\, עבודה סוציאלית 365  (אולם חרוב)\, 53367 – כיתה ריפוי בעיסוק
+DTSTART:20260705T060000Z
+SUMMARY:בחינה ב- התעללות והזנחת ילדים- היבטים משפטיים וטיפוליים (3008)
+UID:2026-3008-2nd-semester-1-Written-test-14200@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/15200>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: גלריה- חוות רוח\, כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\, כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח - חוות רוח\, שטח פתוח -חוות חברה\nCourse: מבוא לאתיקה ופילוסופיה פוליטית - חלק ב'\nCourse Code: 15200\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-21 09:00:00+03:00\nTest End: 2026-07-21 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:03.282611</i>
+DTEND:20260721T080000Z
+LOCATION:גלריה- חוות רוח\, כיתה 1 - חוות רוח\, כיתה 2 -חוות רוח\, כיתה 3- חוות רוח\, כיתה 4- חוות רוח\, כיתה 6 -חוות רוח\, כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח - חוות רוח\, שטח פתוח -חוות חברה
+DTSTART:20260721T060000Z
+SUMMARY:בחינה ב- מבוא לאתיקה ופילוסופיה פוליטית - חלק ב' (15200)
+UID:2026-15200-2nd-semester-1-Written-test-10304@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/57107>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 77203\, 77101\, 21208 חברה\, 21205 חברה\, 21203 (2111) חבר\, 23207 חברה\nCourse: מבוא לכלכלה א (מיקרו)\nCourse Code: 57107\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-04-26 09:00:00+03:00\nTest End: 2026-04-26 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:46.198938</i>
+DTEND:20260426T090000Z
+LOCATION:77203\, 77101\, 21208 חברה\, 21205 חברה\, 21203 (2111) חבר\, 23207 חברה
+DTSTART:20260426T060000Z
+SUMMARY:בחינה ב- מבוא לכלכלה א (מיקרו) (57107)
+UID:2026-57107-1st-semester-2-Written-test-10498@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/51167>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אולם ה\, אולם ו\, אולם ז\, אולם ח\nCourse: נפלאות הקשר בין מוח ונפש (חברה)\nCourse Code: 51167\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-03 09:00:00+02:00\nTest End: 2026-02-03 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:32.709889</i>
+DTEND:20260203T090000Z
+LOCATION:אולם ה\, אולם ו\, אולם ז\, אולם ח
+DTSTART:20260203T070000Z
+SUMMARY:בחינה ב- נפלאות הקשר בין מוח ונפש (חברה) (51167)
+UID:2026-51167-1st-semester-1-Written-test-7590@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/13321>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\nCourse: בצל הצלב: חיי היהודים בימי הביניים באירופה הנוצרית \nCourse Code: 13321\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-12 14:00:00+03:00\nTest End: 2026-08-12 16:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:44:58.677516</i>
+DTEND:20260812T130000Z
+LOCATION:כיתה 8- חוות חברה\, כיתה 9 -חוות חברה
+DTSTART:20260812T110000Z
+SUMMARY:בחינה ב- בצל הצלב: חיי היהודים בימי הביניים באירופה הנוצרית  (13321)
+UID:2026-13321-2nd-semester-2-Written-test-17462@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/34287>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 281 חינוך\nCourse: מחשבת החינוך - אבני פינה\nCourse Code: 34287\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-02-19 09:00:00+02:00\nTest End: 2026-02-19 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:00.747781</i>
+DTEND:20260219T090000Z
+LOCATION:281 חינוך
+DTSTART:20260219T070000Z
+SUMMARY:בחינה ב- מחשבת החינוך - אבני פינה (34287)
+UID:2026-34287-1st-semester-2-Written-test-5198@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/57108>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 77201\, 77202\, 77203\, 77101\nCourse: מבוא לכלכלה ב (מקרו)\nCourse Code: 57108\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-13 09:00:00+03:00\nTest End: 2026-08-13 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:47.236336</i>
+DTEND:20260813T090000Z
+LOCATION:77201\, 77202\, 77203\, 77101
+DTSTART:20260813T060000Z
+SUMMARY:בחינה ב- מבוא לכלכלה ב (מקרו) (57108)
+UID:2026-57108-2nd-semester-2-Written-test-10331@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/56106>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 77201\, 77202\, 77203\, 77101\nCourse: פוליטיקה השוואתית: מוסדות ותהליכים\nCourse Code: 56106\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-12 09:00:00+02:00\nTest End: 2026-02-12 11:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:45.030082</i>
+DTEND:20260212T093000Z
+LOCATION:77201\, 77202\, 77203\, 77101
+DTSTART:20260212T070000Z
+SUMMARY:בחינה ב- פוליטיקה השוואתית: מוסדות ותהליכים (56106)
+UID:2026-56106-1st-semester-1-Written-test-3793@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/56105>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27112 חברה\nCourse: יסודות המחשבה הפוליטית\nCourse Code: 56105\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-11 13:00:00+03:00\nTest End: 2026-08-11 16:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:43.676266</i>
+DTEND:20260811T130000Z
+LOCATION:27112 חברה
+DTSTART:20260811T100000Z
+SUMMARY:בחינה ב- יסודות המחשבה הפוליטית (56105)
+UID:2026-56105-2nd-semester-2-Written-test-12535@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/34407>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 284 חינוך\, 282 חינוך\nCourse: צעירים מחפשים את דרכם: אזרח העולם או פטריוט מקומי?\nCourse Code: 34407\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-02-18 09:00:00+02:00\nTest End: 2026-02-18 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:04.394192</i>
+DTEND:20260218T090000Z
+LOCATION:284 חינוך\, 282 חינוך
+DTSTART:20260218T070000Z
+SUMMARY:בחינה ב- צעירים מחפשים את דרכם: אזרח העולם או פטריוט מקומי? (34407)
+UID:2026-34407-1st-semester-2-Written-test-18481@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67121>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 48518 רוח\nCourse: אינטראקציה\nCourse Code: 67121\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-22 09:00:00+03:00\nTest End: 2026-07-22 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:53.184071</i>
+DTEND:20260722T080000Z
+LOCATION:48518 רוח
+DTSTART:20260722T060000Z
+SUMMARY:בחינה ב- אינטראקציה (67121)
+UID:2026-67121-2nd-semester-1-Written-test-10860@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3008>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: עבודה סוציאלית 365  (אולם חרוב)\nCourse: התעללות והזנחת ילדים- היבטים משפטיים וטיפוליים\nCourse Code: 3008\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-07-28 09:00:00+03:00\nTest End: 2026-07-28 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:47.842122</i>
+DTEND:20260728T080000Z
+LOCATION:עבודה סוציאלית 365  (אולם חרוב)
+DTSTART:20260728T060000Z
+SUMMARY:בחינה ב- התעללות והזנחת ילדים- היבטים משפטיים וטיפוליים (3008)
+UID:2026-3008-2nd-semester-2-Written-test-14200@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80309>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 282 חינוך\nCourse: מתמטיקה בחברה\nCourse Code: 80309\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-12 09:00:00+03:00\nTest End: 2026-08-12 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:47:08.743846</i>
+DTEND:20260812T080000Z
+LOCATION:282 חינוך
+DTSTART:20260812T060000Z
+SUMMARY:בחינה ב- מתמטיקה בחברה (80309)
+UID:2026-80309-2nd-semester-2-Written-test-8580@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/71019>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: חדר 2\, אולם 15\, אולם זימן\, חדר 3114\, אתרוג\, חדר 6\, חדר 5\nCourse: מבוא לכלכלה \nCourse Code: 71019\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-20 08:30:00+02:00\nTest End: 2026-02-20 10:30:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:55.249565</i>
+DTEND:20260220T083000Z
+LOCATION:חדר 2\, אולם 15\, אולם זימן\, חדר 3114\, אתרוג\, חדר 6\, חדר 5
+DTSTART:20260220T063000Z
+SUMMARY:בחינה ב- מבוא לכלכלה  (71019)
+UID:2026-71019-1st-semester-1-Written-test-10284@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/15200>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\nCourse: מבוא לאתיקה ופילוסופיה פוליטית - חלק ב'\nCourse Code: 15200\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-12 09:00:00+03:00\nTest End: 2026-08-12 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:03.282611</i>
+DTEND:20260812T080000Z
+LOCATION:כיתה 8- חוות חברה\, כיתה 9 -חוות חברה
+DTSTART:20260812T060000Z
+SUMMARY:בחינה ב- מבוא לאתיקה ופילוסופיה פוליטית - חלק ב' (15200)
+UID:2026-15200-2nd-semester-2-Written-test-10304@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/28218>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 48637 רוח\nCourse: מבוא לתרבות הקלאסית: יוון\nCourse Code: 28218\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-11 09:00:00+02:00\nTest End: 2026-02-11 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:44.930581</i>
+DTEND:20260211T100000Z
+LOCATION:48637 רוח
+DTSTART:20260211T070000Z
+SUMMARY:בחינה ב- מבוא לתרבות הקלאסית: יוון (28218)
+UID:2026-28218-1st-semester-1-Written-test-10153@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/67121>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 48524 רוח\nCourse: אינטראקציה\nCourse Code: 67121\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-12 09:00:00+03:00\nTest End: 2026-08-12 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:53.184071</i>
+DTEND:20260812T080000Z
+LOCATION:48524 רוח
+DTSTART:20260812T060000Z
+SUMMARY:בחינה ב- אינטראקציה (67121)
+UID:2026-67121-2nd-semester-2-Written-test-10860@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/3053>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כימיה 7\, מתמטיקה 110\nCourse: תיאוריות בהתפתחות הילד והמתבגר\nCourse Code: 3053\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-01-27 09:00:00+02:00\nTest End: 2026-01-27 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:50.980577</i>
+DTEND:20260127T090000Z
+LOCATION:כימיה 7\, מתמטיקה 110
+DTSTART:20260127T070000Z
+SUMMARY:בחינה ב- תיאוריות בהתפתחות הילד והמתבגר (3053)
+UID:2026-3053-1st-semester-1-Written-test-527@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/71019>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אולם אריוביץ 20\, מרכז תמיכה\nCourse: מבוא לכלכלה \nCourse Code: 71019\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-05-01 08:30:00+03:00\nTest End: 2026-05-01 10:30:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:55.249565</i>
+DTEND:20260501T073000Z
+LOCATION:אולם אריוביץ 20\, מרכז תמיכה
+DTSTART:20260501T053000Z
+SUMMARY:בחינה ב- מבוא לכלכלה  (71019)
+UID:2026-71019-1st-semester-2-Written-test-10284@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/34435>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 282 חינוך\nCourse: פסיכולוגיה חברתית של הכיתה\nCourse Code: 34435\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-02 09:00:00+03:00\nTest End: 2026-08-02 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:06.314216</i>
+DTEND:20260802T080000Z
+LOCATION:282 חינוך
+DTSTART:20260802T060000Z
+SUMMARY:בחינה ב- פסיכולוגיה חברתית של הכיתה (34435)
+UID:2026-34435-2nd-semester-2-Written-test-4486@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/71251>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: אולם 11\, אולם אריוביץ 20\, חדר 10\, חדר 8\, חדר 9\, אולם זימן\, מע' 11\, חדר 2\, אתרוג\, מרכז למידה\, חדר 109\nCourse: מבוא להיסטוריה ולפילוסופיה של המדע\nCourse Code: 71251\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-09 13:00:00+03:00\nTest End: 2026-07-09 15:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:56.205467</i>
+DTEND:20260709T120000Z
+LOCATION:אולם 11\, אולם אריוביץ 20\, חדר 10\, חדר 8\, חדר 9\, אולם זימן\, מע' 11\, חדר 2\, אתרוג\, מרכז למידה\, חדר 109
+DTSTART:20260709T100000Z
+SUMMARY:בחינה ב- מבוא להיסטוריה ולפילוסופיה של המדע (71251)
+UID:2026-71251-2nd-semester-1-Written-test-10533@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/34287>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 281 חינוך\, עבודה סוציאלית 365  (אולם חרוב)\nCourse: מחשבת החינוך - אבני פינה\nCourse Code: 34287\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-01-25 09:00:00+02:00\nTest End: 2026-01-25 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:00.747781</i>
+DTEND:20260125T090000Z
+LOCATION:281 חינוך\, עבודה סוציאלית 365  (אולם חרוב)
+DTSTART:20260125T070000Z
+SUMMARY:בחינה ב- מחשבת החינוך - אבני פינה (34287)
+UID:2026-34287-1st-semester-1-Written-test-5198@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/28218>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47218 רוח\nCourse: מבוא לתרבות הקלאסית: יוון\nCourse Code: 28218\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-04-26 14:00:00+03:00\nTest End: 2026-04-26 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:44.930581</i>
+DTEND:20260426T140000Z
+LOCATION:47218 רוח
+DTSTART:20260426T110000Z
+SUMMARY:בחינה ב- מבוא לתרבות הקלאסית: יוון (28218)
+UID:2026-28218-1st-semester-2-Written-test-10153@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40983>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 23206 חברה\nCourse: משבר האקלים - ממדע למדיניות בהדגמה על ישראל\nCourse Code: 40983\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-06 16:30:00+03:00\nTest End: 2026-07-06 18:30:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:23.447225</i>
+DTEND:20260706T153000Z
+LOCATION:23206 חברה
+DTSTART:20260706T133000Z
+SUMMARY:בחינה ב- משבר האקלים - ממדע למדיניות בהדגמה על ישראל (40983)
+UID:2026-40983-2nd-semester-1-Written-test-19601@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/15005>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: חשיבה ביקורתית\nCourse Code: 15005\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-26 00:00:00+02:00\nTest End: 2026-02-26 00:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:01.537285</i>
+DTEND:20260225T220000Z
+DTSTART:20260225T220000Z
+SUMMARY:בחינה ב- חשיבה ביקורתית (15005)
+UID:2026-15005-1st-semester-1-Written-test-14061@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/53336>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27104 חברה\nCourse: יסודות בפסיכולוגיה חברתית\nCourse Code: 53336\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-05-07 13:00:00+03:00\nTest End: 2026-05-07 15:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:37.668385</i>
+DTEND:20260507T120000Z
+LOCATION:27104 חברה
+DTSTART:20260507T100000Z
+SUMMARY:בחינה ב- יסודות בפסיכולוגיה חברתית (53336)
+UID:2026-53336-1st-semester-2-Written-test-4602@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/71251>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: חדר 2\, מרכז למידה\, אולם זימן\nCourse: מבוא להיסטוריה ולפילוסופיה של המדע\nCourse Code: 71251\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-04 13:00:00+03:00\nTest End: 2026-08-04 15:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:56.205467</i>
+DTEND:20260804T120000Z
+LOCATION:חדר 2\, מרכז למידה\, אולם זימן
+DTSTART:20260804T100000Z
+SUMMARY:בחינה ב- מבוא להיסטוריה ולפילוסופיה של המדע (71251)
+UID:2026-71251-2nd-semester-2-Written-test-10533@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/10515>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 48637 רוח\, 48527 רוח\nCourse: יצירות מופת בספרות עולם - ב\nCourse Code: 10515\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-12 09:00:00+03:00\nTest End: 2026-07-12 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:44:46.741125</i>
+DTEND:20260712T090000Z
+LOCATION:48637 רוח\, 48527 רוח
+DTSTART:20260712T060000Z
+SUMMARY:בחינה ב- יצירות מופת בספרות עולם - ב (10515)
+UID:2026-10515-2nd-semester-1-Written-test-12447@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/46022>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 48524 רוח\nCourse: עליתה של סין המודרנית (1900-49)\nCourse Code: 46022\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-11 09:00:00+02:00\nTest End: 2026-02-11 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:24.495843</i>
+DTEND:20260211T100000Z
+LOCATION:48524 רוח
+DTSTART:20260211T070000Z
+SUMMARY:בחינה ב- עליתה של סין המודרנית (1900-49) (46022)
+UID:2026-46022-1st-semester-1-Written-test-52419@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/24159>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח -חוות חברה\nCourse: מבוא לתולדות הנצרות: הכנסייה הקדומה\nCourse Code: 24159\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-05 14:00:00+02:00\nTest End: 2026-02-05 17:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:30.975747</i>
+DTEND:20260205T150000Z
+LOCATION:כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\, שטח פתוח -חוות חברה
+DTSTART:20260205T120000Z
+SUMMARY:בחינה ב- מבוא לתולדות הנצרות: הכנסייה הקדומה (24159)
+UID:2026-24159-1st-semester-1-Written-test-11317@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/10615>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47213 רוח\nCourse: תחנות בביקורת הספרות: מאפלטון ועד ניטשה\nCourse Code: 10615\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-04-20 09:00:00+03:00\nTest End: 2026-04-20 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:44:48.614902</i>
+DTEND:20260420T090000Z
+LOCATION:47213 רוח
+DTSTART:20260420T060000Z
+SUMMARY:בחינה ב- תחנות בביקורת הספרות: מאפלטון ועד ניטשה (10615)
+UID:2026-10615-1st-semester-2-Written-test-634@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40983>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: משבר האקלים - ממדע למדיניות בהדגמה על ישראל\nCourse Code: 40983\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-20 09:00:00+03:00\nTest End: 2026-08-20 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:23.447225</i>
+DTEND:20260820T080000Z
+DTSTART:20260820T060000Z
+SUMMARY:בחינה ב- משבר האקלים - ממדע למדיניות בהדגמה על ישראל (40983)
+UID:2026-40983-2nd-semester-2-Written-test-19601@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/40130>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27112 חברה\, 27107 חברה\nCourse: מבוא ללימודים עירוניים\nCourse Code: 40130\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2026-02-08 09:00:00+02:00\nTest End: 2026-02-08 11:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:18.293008</i>
+DTEND:20260208T090000Z
+LOCATION:27112 חברה\, 27107 חברה
+DTSTART:20260208T070000Z
+SUMMARY:בחינה ב- מבוא ללימודים עירוניים (40130)
+UID:2026-40130-1st-semester-1-Written-test-18162@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/21515>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: פרשנות ימי-הביניים\nCourse Code: 21515\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-18 09:00:00+03:00\nTest End: 2026-08-18 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:25.827210</i>
+DTEND:20260818T080000Z
+DTSTART:20260818T060000Z
+SUMMARY:בחינה ב- פרשנות ימי-הביניים (21515)
+UID:2026-21515-2nd-semester-2-Written-test-3308@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/34435>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 284 חינוך\nCourse: פסיכולוגיה חברתית של הכיתה\nCourse Code: 34435\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-15 09:00:00+03:00\nTest End: 2026-07-15 11:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:06.314216</i>
+DTEND:20260715T080000Z
+LOCATION:284 חינוך
+DTSTART:20260715T060000Z
+SUMMARY:בחינה ב- פסיכולוגיה חברתית של הכיתה (34435)
+UID:2026-34435-2nd-semester-1-Written-test-4486@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/57108>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 77201\, 77202\, 77203\, 77101\, 27112 חברה\, 27106 חברה\, 27105 חברה\, 27104 חברה\, 27103 חברה\, 27108 חברה\, 27107 חברה\nCourse: מבוא לכלכלה ב (מקרו)\nCourse Code: 57108\nExam: מבחני אמצע \nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-06-07 08:00:00+03:00\nTest End: 2026-06-07 09:30:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:47.236336</i>
+DTEND:20260607T063000Z
+LOCATION:77201\, 77202\, 77203\, 77101\, 27112 חברה\, 27106 חברה\, 27105 חברה\, 27104 חברה\, 27103 חברה\, 27108 חברה\, 27107 חברה
+DTSTART:20260607T050000Z
+SUMMARY:בחינה ב- מבוא לכלכלה ב (מקרו) (57108)
+UID:2026-57108-2nd-semester-1-Mid-term-Exams-10331@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/10515>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 48524 רוח\, 48527 רוח\nCourse: יצירות מופת בספרות עולם - ב\nCourse Code: 10515\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-12 14:00:00+03:00\nTest End: 2026-08-12 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:44:46.741125</i>
+DTEND:20260812T140000Z
+LOCATION:48524 רוח\, 48527 רוח
+DTSTART:20260812T110000Z
+SUMMARY:בחינה ב- יצירות מופת בספרות עולם - ב (10515)
+UID:2026-10515-2nd-semester-2-Written-test-12447@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/54229>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 27112 חברה\, 27106 חברה\, 27107 חברה\, 27104 חברה\nCourse: מגדר\, מיניות ותרבות\nCourse Code: 54229\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2026-07-06 13:00:00+03:00\nTest End: 2026-07-06 16:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:38.567937</i>
+DTEND:20260706T130000Z
+LOCATION:27112 חברה\, 27106 חברה\, 27107 חברה\, 27104 חברה
+DTSTART:20260706T100000Z
+SUMMARY:בחינה ב- מגדר\, מיניות ותרבות (54229)
+UID:2026-54229-2nd-semester-1-Written-test-10046@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/16051>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: ספרות ערבית קלאסית ומודרנית – קריאת טקסטים\nCourse Code: 16051\nExam: מבחן מסכם\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2026-08-18 09:00:00+03:00\nTest End: 2026-08-18 12:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:04.199774</i>
+DTEND:20260818T090000Z
+DTSTART:20260818T060000Z
+SUMMARY:בחינה ב- ספרות ערבית קלאסית ומודרנית – קריאת טקסטים (16051)
+UID:2026-16051-2nd-semester-2-Written-test-4711@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/46022>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: 47218 רוח\nCourse: עליתה של סין המודרנית (1900-49)\nCourse Code: 46022\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-04-26 14:00:00+03:00\nTest End: 2026-04-26 17:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-11 13:46:24.495843</i>
+DTEND:20260426T140000Z
+LOCATION:47218 רוח
+DTSTART:20260426T110000Z
+SUMMARY:בחינה ב- עליתה של סין המודרנית (1900-49) (46022)
+UID:2026-46022-1st-semester-2-Written-test-52419@huji.local
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/24159>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: כיתה 8- חוות חברה\, כיתה 9 -חוות חברה\nCourse: מבוא לתולדות הנצרות: הכנסייה הקדומה\nCourse Code: 24159\nExam: מבחן מסכם\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2026-02-26 09:00:00+02:00\nTest End: 2026-02-26 12:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-11 13:45:30.975747</i>
+DTEND:20260226T100000Z
+LOCATION:כיתה 8- חוות חברה\, כיתה 9 -חוות חברה
+DTSTART:20260226T070000Z
+SUMMARY:בחינה ב- מבוא לתולדות הנצרות: הכנסייה הקדומה (24159)
+UID:2026-24159-1st-semester-2-Written-test-11317@huji.local
+END:VEVENT
+END:VCALENDAR
