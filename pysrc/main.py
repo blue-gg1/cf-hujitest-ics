@@ -59,6 +59,7 @@ def add_course_events(calendar, course_code):
 
             event = Event()
 
+            event.created = datetime.now(JERUSALEM)
             event.name = f"בחינה ב- {course['name']} ({course_code})"
 
             start = datetime.fromisoformat(schedule["startTime"])
@@ -113,7 +114,7 @@ def moveics(IcsFileName, Path):
 def fold_ical_lines(ics_text, limit=75):
     folded = []
 
-    for line in ics_text.splitlines():
+    for line in str(ics_text).splitlines():
         # RFC 5545: 75 OCTETS, not characters.
         while len(line.encode("utf-8")) > limit:
             encoded = line.encode("utf-8")
