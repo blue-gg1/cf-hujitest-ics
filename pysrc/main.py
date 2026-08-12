@@ -154,8 +154,8 @@ def main():
     else:
         pass
 
-    SmallerCal = fold_ical_lines(calendar)
-    with open(""+OUTPUT_FILE, "w", encoding="utf-8") as f:
+    SmallerCal = calendar.serialize()
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\r\n") as f:
         f.writelines(SmallerCal)
 
     print(f"\nSaved {""+OUTPUT_FILE}")
