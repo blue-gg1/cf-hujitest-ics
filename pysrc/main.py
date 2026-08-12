@@ -5,10 +5,10 @@ from zoneinfo import ZoneInfo
 import os, shutil
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
-YEAR = 2027
-# SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
+YEAR = 2026
+SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
 # SOURCE_FILE = "prod/SoureFiles/evenpina.list" # one course code per line
-SOURCE_FILE = "pysrc/source" # one course code per line
+# SOURCE_FILE = "pysrc/source" # one course code per line
 OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 # OUTPUT_FILE = "HUJI_Exams_evenpina"+str(YEAR)+".ics"
 
