@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 import os, shutil
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
-YEAR = 2026
+YEAR = 2027
 # SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
 # SOURCE_FILE = "prod/SoureFiles/evenpina.list" # one course code per line
 SOURCE_FILE = "pysrc/source" # one course code per line
@@ -162,7 +162,7 @@ def main():
         pass
 
     SmallerCal = calendar.serialize()
-    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\r\n") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(SmallerCal)
 
     print(f"\nSaved {""+OUTPUT_FILE}")
