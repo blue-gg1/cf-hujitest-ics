@@ -62,18 +62,25 @@ def add_course_events(calendar, course_code):
             event.created = datetime.now(JERUSALEM)
             event.name = f"בחינה ב- {course['name']} ({course_code})"
 
-            start = datetime.fromisoformat(schedule["startTime"])
-            end = datetime.fromisoformat(schedule["endTime"])
 
-            # If the API gives naive datetimes, interpret them as Jerusalem time
-            if start.tzinfo is None:
-                start = start.replace(tzinfo=JERUSALEM)
+            if datetime.fromisoformat(schedule["startTime"]) == datetime.fromisoformat(schedule["endTime"]):
+                print("fuck no data")
+                start = "The Shnaton has yet to be updated with the time."
+                end = "The Shnaton has yet to be updated with the time."
+                event.begin = datetime.fromisoformat(schedule["startTime"])
+                event.make_all_day()
+            else:
+                start = datetime.fromisoformat(schedule["startTime"])
+                end = datetime.fromisoformat(schedule["endTime"])
+                # If the API gives naive datetimes, interpret them as Jerusalem time
+                if start.tzinfo is None:
+                    start = start.replace(tzinfo=JERUSALEM)
 
-            if end.tzinfo is None:
-                end = end.replace(tzinfo=JERUSALEM)
+                if end.tzinfo is None:
+                    end = end.replace(tzinfo=JERUSALEM)
 
-            event.begin = start
-            event.end = end
+                event.begin = start
+                event.end = end
 
             event.location = ", ".join(
                 room["name"]["he"]

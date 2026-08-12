@@ -2,50 +2,44 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20260812T083704Z
-DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן בכתב\nSemester: סמסטר א'\nMoed: 1\nTest Start: 2027-02-14 00:00:00+02:00\nTest End: 2027-02-14 00:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-12 11:37:04.242618</i>
-DTEND:20270213T220000Z
-DTSTART:20270213T220000Z
+DTSTART;VALUE=DATE:20270214
+DTSTAMP:20260812T084733Z
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן בכתב\nSemester: סמסטר א'\nMoed: 1\nTest Start: The Shnaton has yet to be updated with the time.\nTest End: The Shnaton has yet to be updated with the time.\n\n\n<i>This was last updated at: 2026-08-12 11:47:33.349850</i>
 SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
 UID:2027-80415-1st-semester-1-Written-Exam-362755@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260812T083704Z
-DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן בכתב\nSemester: סמסטר א'\nMoed: 2\nTest Start: 2027-03-09 00:00:00+02:00\nTest End: 2027-03-09 00:00:00+02:00\n\n\n<i>This was last updated at: 2026-08-12 11:37:04.242618</i>
-DTEND:20270308T220000Z
-DTSTART:20270308T220000Z
+DTSTART;VALUE=DATE:20270309
+DTSTAMP:20260812T084733Z
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן בכתב\nSemester: סמסטר א'\nMoed: 2\nTest Start: The Shnaton has yet to be updated with the time.\nTest End: The Shnaton has yet to be updated with the time.\n\n\n<i>This was last updated at: 2026-08-12 11:47:33.349850</i>
 SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
 UID:2027-80415-1st-semester-2-Written-Exam-362755@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260812T083705Z
-DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80116>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: מבחן בכתב\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2027-07-07 00:00:00+03:00\nTest End: 2027-07-07 00:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-12 11:37:05.426383</i>
-DTEND:20270706T210000Z
-DTSTART:20270706T210000Z
+DTSTART;VALUE=DATE:20270707
+DTSTAMP:20260812T084734Z
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80116>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: מבחן בכתב\nSemester: סמסטר ב'\nMoed: 1\nTest Start: The Shnaton has yet to be updated with the time.\nTest End: The Shnaton has yet to be updated with the time.\n\n\n<i>This was last updated at: 2026-08-12 11:47:34.384713</i>
 SUMMARY:בחינה ב- אנליזה אלמנטרית 2 (80116)
 UID:2027-80116-2nd-semester-1-Written-Exam-362977@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260812T083705Z
-DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80116>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: מבחן בכתב\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2027-08-03 00:00:00+03:00\nTest End: 2027-08-03 00:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-12 11:37:05.426383</i>
-DTEND:20270802T210000Z
-DTSTART:20270802T210000Z
+DTSTART;VALUE=DATE:20270803
+DTSTAMP:20260812T084734Z
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80116>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: אנליזה אלמנטרית 2\nCourse Code: 80116\nExam: מבחן בכתב\nSemester: סמסטר ב'\nMoed: 2\nTest Start: The Shnaton has yet to be updated with the time.\nTest End: The Shnaton has yet to be updated with the time.\n\n\n<i>This was last updated at: 2026-08-12 11:47:34.384713</i>
 SUMMARY:בחינה ב- אנליזה אלמנטרית 2 (80116)
 UID:2027-80116-2nd-semester-2-Written-Exam-362977@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260812T083704Z
-DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן בכתב\nSemester: סמסטר ב'\nMoed: 1\nTest Start: 2027-07-27 00:00:00+03:00\nTest End: 2027-07-27 00:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-12 11:37:04.242618</i>
-DTEND:20270726T210000Z
-DTSTART:20270726T210000Z
+DTSTART;VALUE=DATE:20270727
+DTSTAMP:20260812T084733Z
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן בכתב\nSemester: סמסטר ב'\nMoed: 1\nTest Start: The Shnaton has yet to be updated with the time.\nTest End: The Shnaton has yet to be updated with the time.\n\n\n<i>This was last updated at: 2026-08-12 11:47:33.349850</i>
 SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
 UID:2027-80415-2nd-semester-1-Written-Exam-362755@huji.local
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260812T083704Z
-DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן בכתב\nSemester: סמסטר ב'\nMoed: 2\nTest Start: 2027-08-18 00:00:00+03:00\nTest End: 2027-08-18 00:00:00+03:00\n\n\n<i>This was last updated at: 2026-08-12 11:37:04.242618</i>
-DTEND:20270817T210000Z
-DTSTART:20270817T210000Z
+DTSTART;VALUE=DATE:20270818
+DTSTAMP:20260812T084733Z
+DESCRIPTION:<b>Subject to change. Always check the <a href=https://shnaton.huji.ac.il/course/80415>Shanton</a> or <a href=https://orbitlive.huji.ac.il/StudentAssignmentTermList.aspx>Orbit</a> for the most up-to-date info</b>\nLocation: \nCourse: חשבון אינפיניטסימלי 3\nCourse Code: 80415\nExam: מבחן בכתב\nSemester: סמסטר ב'\nMoed: 2\nTest Start: The Shnaton has yet to be updated with the time.\nTest End: The Shnaton has yet to be updated with the time.\n\n\n<i>This was last updated at: 2026-08-12 11:47:33.349850</i>
 SUMMARY:בחינה ב- חשבון אינפיניטסימלי 3 (80415)
 UID:2027-80415-2nd-semester-2-Written-Exam-362755@huji.local
 END:VEVENT
