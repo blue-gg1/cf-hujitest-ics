@@ -6,9 +6,9 @@ import os, shutil
 # define the vars up here.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 YEAR = 2027
-SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
+# SOURCE_FILE = "pysrc/source.old.txt" # one course code per line
 # SOURCE_FILE = "prod/SoureFiles/evenpina.list" # one course code per line
-# SOURCE_FILE = "pysrc/source" # one course code per line
+SOURCE_FILE = "pysrc/source" # one course code per line
 OUTPUT_FILE = "HUJI_Exams_"+str(YEAR)+".ics"
 # OUTPUT_FILE = "HUJI_Exams_evenpina"+str(YEAR)+".ics"
 
@@ -110,6 +110,31 @@ def moveics(IcsFileName, Path):
     # os.replace(IcsFileName, Path+IcsFileName)
     shutil.copy(IcsFileName, Path+IcsFileName)
 
+def fold_ical_lines(ics_text, limit=75):
+    folded = []
+
+    for line in ics_text.splitlines():
+        # RFC 5545: 75 OCTETS, not characters.
+        while len(line.encode("utf-8")) > limit:
+            encoded = line.encode("utf-8")
+
+            cut = limit
+
+            # Don't split a UTF-8 character.
+            while cut > 0 and (encoded[cut] & 0xC0) == 0x80:
+                cut -= 1
+
+            folded.append(encoded[:cut].decode("utf-8"))
+            line = encoded[cut:].decode("utf-8")
+
+            # Continuation lines begin with a single space.
+            line = " " + line
+
+        folded.append(line)
+
+    return "\r\n".join(folded) + "\r\n"
+
+
 def main():
     calendar = Calendar()
 
@@ -128,8 +153,9 @@ def main():
     else:
         pass
 
+    SmallerCal = fold_ical_lines(calendar)
     with open(""+OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.writelines(calendar)
+        f.writelines(SmallerCal)
 
     print(f"\nSaved {""+OUTPUT_FILE}")
     print(f"Total events: {len(calendar.events)}")
